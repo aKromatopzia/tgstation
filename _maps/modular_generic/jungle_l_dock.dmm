@@ -223,7 +223,7 @@
 /obj/structure/punji_sticks/spikes{
 	icon_state = "punji"
 	},
-/obj/effect/decal/cleanable/blood/old{
+/obj/effect/decal/cleanable/vital/organic/blood/old{
 	icon_state = "floor7-old"
 	},
 /turf/open/misc/grass/jungle,
@@ -250,7 +250,7 @@
 /obj/structure/punji_sticks/spikes{
 	icon_state = "punji"
 	},
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /turf/open/misc/grass/jungle,
 /area/template_noop)
 "tD" = (
@@ -299,7 +299,7 @@
 /obj/structure/punji_sticks/spikes{
 	icon_state = "punji"
 	},
-/obj/effect/decal/cleanable/blood/old{
+/obj/effect/decal/cleanable/vital/organic/blood/old{
 	icon_state = "floor6-old"
 	},
 /turf/open/misc/grass/jungle,
@@ -402,7 +402,7 @@
 /obj/structure/punji_sticks/spikes{
 	icon_state = "punji"
 	},
-/obj/effect/decal/cleanable/blood/old{
+/obj/effect/decal/cleanable/vital/organic/blood/old{
 	icon_state = "floor5-old"
 	},
 /turf/open/misc/grass/jungle,
@@ -431,7 +431,7 @@
 /obj/effect/decal/cleanable/dirt,
 /mob/living/basic/frog,
 /obj/effect/spawner/random/trash/mess,
-/obj/effect/decal/cleanable/blood/tracks{
+/obj/effect/decal/cleanable/vital/organic/blood/tracks{
 	dir = 9
 	},
 /turf/open/floor/wood/large,
@@ -477,7 +477,7 @@
 /obj/structure/punji_sticks/spikes{
 	icon_state = "punji"
 	},
-/obj/effect/decal/cleanable/blood/old{
+/obj/effect/decal/cleanable/vital/organic/blood/old{
 	icon_state = "floor4-old"
 	},
 /turf/open/misc/grass/jungle,
@@ -495,7 +495,7 @@
 	pixel_x = -6;
 	pixel_y = 5
 	},
-/obj/effect/decal/cleanable/blood/tracks{
+/obj/effect/decal/cleanable/vital/organic/blood/tracks{
 	dir = 6
 	},
 /obj/structure/railing{
@@ -524,7 +524,7 @@
 	pixel_x = 5;
 	pixel_y = 15
 	},
-/obj/effect/decal/cleanable/blood/tracks{
+/obj/effect/decal/cleanable/vital/organic/blood/tracks{
 	dir = 8
 	},
 /obj/item/bait_can{

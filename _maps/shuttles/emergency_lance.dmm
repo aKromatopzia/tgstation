@@ -789,7 +789,7 @@
 /area/shuttle/escape/brig)
 "yB" = (
 /obj/structure/window/reinforced/survival_pod/spawner/directional/north,
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /turf/open/floor/mineral/plastitanium/red,
 /area/shuttle/escape/brig)
 "zc" = (
@@ -838,7 +838,7 @@
 /area/shuttle/escape/brig)
 "AS" = (
 /obj/structure/table/optable,
-/obj/effect/decal/cleanable/blood/splatter,
+/obj/effect/decal/cleanable/vital/organic/blood/splatter,
 /obj/effect/turf_decal/tile/dark_blue/half/contrasted{
 	dir = 1
 	},
@@ -1539,7 +1539,7 @@
 /turf/open/floor/mineral/plastitanium/red,
 /area/shuttle/escape/brig)
 "WO" = (
-/obj/effect/decal/cleanable/oil/streak,
+/obj/effect/decal/cleanable/vital/robotic/oil/streak,
 /obj/effect/turf_decal/tile/yellow/half/contrasted{
 	dir = 1
 	},

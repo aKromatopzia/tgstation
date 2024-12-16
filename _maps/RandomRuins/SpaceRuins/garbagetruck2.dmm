@@ -12,7 +12,7 @@
 /area/ruin/space/has_grav/garbagetruck/medicalwaste)
 "bv" = (
 /obj/structure/showcase/horrific_experiment,
-/obj/effect/decal/cleanable/blood/gibs/old,
+/obj/effect/decal/cleanable/vital/organic/gibs/old,
 /turf/open/floor/plating,
 /area/ruin/space/has_grav/garbagetruck/medicalwaste)
 "eO" = (
@@ -164,7 +164,7 @@
 /obj/effect/decal/cleanable/fuel_pool,
 /obj/item/rack_parts,
 /obj/item/storage/pill_bottle/mannitol,
-/obj/effect/decal/cleanable/oil/slippery,
+/obj/effect/decal/cleanable/vital/robotic/oil/slippery,
 /turf/open/floor/plating,
 /area/ruin/space/has_grav/garbagetruck/medicalwaste)
 "qC" = (
@@ -192,7 +192,7 @@
 /obj/item/stack/medical/bone_gel,
 /obj/item/stack/medical/ointment,
 /obj/item/thermometer,
-/obj/effect/decal/cleanable/blood/splatter,
+/obj/effect/decal/cleanable/vital/organic/blood/splatter,
 /obj/item/clothing/suit/apron/surgical,
 /obj/item/clothing/neck/stethoscope,
 /obj/item/clothing/neck/stethoscope,
@@ -276,7 +276,7 @@
 /obj/item/food/badrecipe/moldy,
 /obj/item/food/badrecipe/moldy,
 /obj/structure/closet/mini_fridge/grimy,
-/obj/effect/decal/cleanable/oil,
+/obj/effect/decal/cleanable/vital/robotic/oil,
 /obj/item/reagent_containers/cup/bottle/morphine,
 /turf/open/floor/plating,
 /area/ruin/space/has_grav/garbagetruck/medicalwaste)
@@ -435,7 +435,7 @@
 /turf/open/floor/plating,
 /area/ruin/space/has_grav/garbagetruck/medicalwaste)
 "IM" = (
-/obj/effect/decal/cleanable/robot_debris,
+/obj/effect/decal/cleanable/vital/robotic/debris,
 /obj/structure/closet/crate/freezer,
 /obj/item/organ/liver/roach,
 /obj/item/organ/stomach,
@@ -561,7 +561,7 @@
 /turf/template_noop,
 /area/ruin/space/has_grav/garbagetruck/medicalwaste)
 "Pe" = (
-/obj/effect/decal/cleanable/robot_debris/up,
+/obj/effect/decal/cleanable/vital/robotic/debris/up,
 /obj/structure/frame/computer,
 /obj/item/stack/sheet/glass{
 	amount = 2
@@ -571,7 +571,7 @@
 "PM" = (
 /obj/structure/closet/mini_fridge/grimy,
 /obj/item/storage/organbox,
-/obj/effect/decal/cleanable/blood/gibs/old,
+/obj/effect/decal/cleanable/vital/organic/gibs/old,
 /obj/item/storage/pill_bottle/epinephrine,
 /turf/open/floor/plating,
 /area/ruin/space/has_grav/garbagetruck/medicalwaste)
@@ -582,7 +582,7 @@
 /turf/open/floor/plating,
 /area/ruin/space/has_grav/garbagetruck/medicalwaste)
 "QK" = (
-/obj/effect/decal/cleanable/robot_debris/down,
+/obj/effect/decal/cleanable/vital/robotic/debris/down,
 /obj/item/circular_saw,
 /turf/open/floor/plating,
 /area/ruin/space/has_grav/garbagetruck/medicalwaste)
@@ -620,7 +620,7 @@
 "TM" = (
 /obj/structure/closet/body_bag,
 /obj/structure/table/optable,
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /obj/effect/mob_spawn/corpse/human{
 	brute_damage = 200;
 	mob_type = /mob/living/carbon/human/species/lizard
@@ -673,7 +673,7 @@
 "XD" = (
 /obj/structure/sinkframe,
 /obj/structure/broken_flooring/pile,
-/obj/effect/decal/cleanable/blood/gibs/old,
+/obj/effect/decal/cleanable/vital/organic/gibs/old,
 /obj/item/reagent_containers/cup/rag{
 	pixel_x = 6;
 	pixel_y = -3

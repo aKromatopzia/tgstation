@@ -392,7 +392,7 @@
 "afF" = (
 /obj/effect/spawner/random/structure/chair_flipped,
 /obj/effect/turf_decal/siding/white/corner,
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /obj/effect/decal/cleanable/dirt/dust,
 /turf/open/floor/iron/white/small,
 /area/station/science/lobby)
@@ -837,7 +837,7 @@
 "anf" = (
 /obj/machinery/light/small/directional/south,
 /obj/effect/decal/cleanable/dirt,
-/obj/effect/decal/cleanable/blood/old{
+/obj/effect/decal/cleanable/vital/organic/blood/old{
 	icon_state = "gib3-old"
 	},
 /mob/living/simple_animal/hostile/mimic,
@@ -985,7 +985,7 @@
 "apK" = (
 /obj/structure/cable,
 /obj/effect/decal/cleanable/dirt,
-/obj/effect/decal/cleanable/blood/tracks,
+/obj/effect/decal/cleanable/vital/organic/blood/tracks,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /turf/open/floor/plating,
@@ -2126,7 +2126,7 @@
 /obj/structure/bed/medical/emergency,
 /obj/machinery/iv_drip,
 /obj/effect/turf_decal/tile/blue/half/contrasted,
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /obj/structure/cable,
 /obj/structure/disposalpipe/sorting/mail/flip{
 	dir = 4
@@ -2729,7 +2729,7 @@
 /area/station/medical/chemistry/minisat)
 "aTJ" = (
 /obj/effect/mapping_helpers/burnt_floor,
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /obj/effect/mapping_helpers/broken_floor,
 /turf/open/floor/plating,
 /area/station/maintenance/department/medical/central)
@@ -3294,7 +3294,7 @@
 /area/station/solars/port/aft)
 "bfp" = (
 /obj/effect/decal/cleanable/rubble,
-/obj/effect/decal/cleanable/blood/tracks{
+/obj/effect/decal/cleanable/vital/organic/blood/tracks{
 	dir = 4
 	},
 /turf/open/misc/asteroid,
@@ -3314,8 +3314,8 @@
 /obj/machinery/atmospherics/pipe/smart/simple/scrubbers/hidden{
 	dir = 4
 	},
-/obj/effect/decal/cleanable/blood/drip,
-/obj/effect/decal/cleanable/blood/footprints{
+/obj/effect/decal/cleanable/vital/organic/blood/drip,
+/obj/effect/decal/cleanable/vital/organic/blood/footprints{
 	dir = 8
 	},
 /turf/open/floor/engine/xenobio,
@@ -3741,7 +3741,7 @@
 /obj/machinery/door/airlock/maintenance,
 /obj/effect/mapping_helpers/airlock/access/all/engineering/maintenance,
 /obj/effect/mapping_helpers/airlock/abandoned,
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /turf/open/floor/plating,
 /area/station/maintenance/central/greater)
 "bpW" = (
@@ -4063,7 +4063,7 @@
 /turf/open/floor/iron/white,
 /area/station/medical/treatment_center)
 "bvJ" = (
-/obj/effect/decal/cleanable/oil,
+/obj/effect/decal/cleanable/vital/robotic/oil,
 /obj/effect/decal/cleanable/dirt,
 /obj/effect/decal/cleanable/dirt/dust,
 /obj/effect/spawner/random/entertainment/arcade{
@@ -4072,7 +4072,7 @@
 /turf/open/floor/iron/dark,
 /area/station/ai_monitored/turret_protected/aisat/uppernorth)
 "bvP" = (
-/obj/effect/decal/cleanable/blood/tracks,
+/obj/effect/decal/cleanable/vital/organic/blood/tracks,
 /obj/structure/cable,
 /turf/open/floor/plating,
 /area/station/maintenance/department/medical/central)
@@ -4467,7 +4467,7 @@
 /turf/open/floor/iron/dark,
 /area/station/command/bridge)
 "bCv" = (
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /obj/item/restraints/handcuffs,
 /turf/open/floor/iron/white/herringbone,
 /area/station/maintenance/department/medical/central)
@@ -5432,7 +5432,7 @@
 "bUU" = (
 /obj/structure/railing,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
-/obj/effect/decal/cleanable/blood/tracks,
+/obj/effect/decal/cleanable/vital/organic/blood/tracks,
 /obj/machinery/door/firedoor/border_only,
 /turf/open/floor/catwalk_floor/iron_white,
 /area/station/science/lobby)
@@ -5885,7 +5885,7 @@
 /obj/structure/cable,
 /obj/effect/landmark/blobstart,
 /obj/effect/mapping_helpers/burnt_floor,
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /turf/open/floor/plating,
 /area/station/maintenance/department/medical/central)
@@ -7217,7 +7217,7 @@
 /turf/open/floor/iron,
 /area/station/security/warden)
 "cGl" = (
-/obj/effect/decal/cleanable/blood/gibs/old,
+/obj/effect/decal/cleanable/vital/organic/gibs/old,
 /turf/open/misc/asteroid,
 /area/station/asteroid)
 "cGr" = (
@@ -7547,7 +7547,7 @@
 /obj/structure/safe/floor,
 /obj/item/stack/spacecash/c1000,
 /obj/item/stack/spacecash/c1000,
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /obj/effect/mapping_helpers/broken_floor,
 /turf/open/floor/iron,
 /area/station/maintenance/department/cargo)
@@ -8048,7 +8048,7 @@
 /obj/structure/window/reinforced/spawner/directional/north,
 /obj/effect/decal/cleanable/dirt,
 /obj/effect/decal/cleanable/dirt/dust,
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /obj/effect/spawner/random/structure/chair_flipped,
 /turf/open/floor/iron,
 /area/station/maintenance/department/cargo)
@@ -8225,7 +8225,7 @@
 /obj/effect/mapping_helpers/airlock/cyclelink_helper{
 	dir = 1
 	},
-/obj/effect/decal/cleanable/blood/tracks,
+/obj/effect/decal/cleanable/vital/organic/blood/tracks,
 /turf/open/floor/plating/airless,
 /area/station/maintenance/department/medical/central)
 "cYa" = (
@@ -9539,7 +9539,7 @@
 	name = "justice helmet"
 	},
 /obj/item/clothing/suit/costume/justice,
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /turf/open/floor/plating,
 /area/station/maintenance/central/greater)
 "duo" = (
@@ -10509,7 +10509,7 @@
 	location = "Bridge"
 	},
 /obj/effect/decal/cleanable/dirt/dust,
-/obj/effect/decal/cleanable/blood/tracks,
+/obj/effect/decal/cleanable/vital/organic/blood/tracks,
 /turf/open/floor/plating,
 /area/station/maintenance/department/science)
 "dJK" = (
@@ -10521,7 +10521,7 @@
 /area/station/security/execution/education)
 "dJM" = (
 /obj/item/radio/intercom/directional/east,
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /turf/open/floor/engine/xenobio,
 /area/station/science/xenobiology)
 "dKp" = (
@@ -10874,7 +10874,7 @@
 /area/station/maintenance/radshelter/civil)
 "dRr" = (
 /obj/effect/mapping_helpers/burnt_floor,
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /obj/effect/spawner/random/trash/garbage{
 	spawn_scatter_radius = 1
 	},
@@ -11311,7 +11311,7 @@
 /area/station/science/research)
 "dYR" = (
 /obj/effect/mapping_helpers/broken_floor,
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /obj/effect/decal/cleanable/dirt/dust,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
@@ -11424,9 +11424,9 @@
 	name = "AI Antechamber turret control";
 	pixel_y = -27
 	},
-/obj/effect/decal/cleanable/oil,
+/obj/effect/decal/cleanable/vital/robotic/oil,
 /obj/effect/decal/cleanable/dirt/dust,
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /turf/open/floor/iron/dark,
 /area/station/ai_monitored/turret_protected/aisat/uppernorth)
 "eaX" = (
@@ -15049,7 +15049,7 @@
 /turf/open/floor/plating/airless,
 /area/station/science/ordnance/bomb)
 "fsV" = (
-/obj/effect/decal/cleanable/blood/old{
+/obj/effect/decal/cleanable/vital/organic/blood/old{
 	icon_state = "gib3-old"
 	},
 /turf/open/floor/engine/xenobio,
@@ -15567,7 +15567,7 @@
 /area/station/security/medical)
 "fBN" = (
 /obj/effect/mapping_helpers/broken_floor,
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /obj/effect/decal/cleanable/dirt/dust,
 /obj/effect/spawner/random/trash/graffiti,
 /turf/open/floor/plating,
@@ -16567,7 +16567,7 @@
 	id = "secwarehouse"
 	},
 /obj/effect/decal/cleanable/dirt/dust,
-/obj/effect/decal/cleanable/blood/tracks,
+/obj/effect/decal/cleanable/vital/organic/blood/tracks,
 /obj/structure/cable,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
@@ -16631,7 +16631,7 @@
 	dir = 4
 	},
 /obj/effect/mapping_helpers/airlock/locked,
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /turf/open/floor/iron/dark,
 /area/station/ai_monitored/turret_protected/aisat/uppernorth)
 "fTl" = (
@@ -16688,7 +16688,7 @@
 /area/station/medical/chemistry/minisat)
 "fUx" = (
 /obj/effect/decal/cleanable/dirt/dust,
-/obj/effect/decal/cleanable/blood/tracks,
+/obj/effect/decal/cleanable/vital/organic/blood/tracks,
 /turf/open/floor/iron/white,
 /area/station/medical/chemistry/minisat)
 "fUz" = (
@@ -16728,7 +16728,7 @@
 /area/station/command/bridge)
 "fVf" = (
 /obj/effect/mob_spawn/corpse/human/clown,
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /turf/open/misc/asteroid,
 /area/station/asteroid)
 "fVs" = (
@@ -17122,7 +17122,7 @@
 /area/station/maintenance/disposal/incinerator)
 "gcD" = (
 /obj/effect/decal/cleanable/dirt/dust,
-/obj/effect/decal/cleanable/robot_debris/limb,
+/obj/effect/decal/cleanable/vital/robotic/debris/limb,
 /obj/item/flashlight/lamp,
 /turf/open/floor/iron,
 /area/station/cargo/warehouse/upper)
@@ -17692,7 +17692,7 @@
 /area/station/maintenance/central/greater)
 "gnE" = (
 /obj/effect/decal/cleanable/dirt/dust,
-/obj/effect/decal/cleanable/blood/old{
+/obj/effect/decal/cleanable/vital/organic/blood/old{
 	icon_state = "splatter3"
 	},
 /obj/machinery/atmospherics/components/unary/vent_scrubber/on/layer2{
@@ -17720,7 +17720,7 @@
 /area/station/maintenance/department/medical/central)
 "goB" = (
 /obj/effect/decal/cleanable/dirt/dust,
-/obj/effect/decal/cleanable/blood/tracks,
+/obj/effect/decal/cleanable/vital/organic/blood/tracks,
 /turf/open/floor/plating,
 /area/station/maintenance/department/science)
 "goI" = (
@@ -18071,7 +18071,7 @@
 /turf/open/floor/plating,
 /area/station/maintenance/department/medical)
 "guV" = (
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /turf/open/floor/iron/freezer,
 /area/station/maintenance/department/medical/central)
 "gvj" = (
@@ -18206,7 +18206,7 @@
 /area/station/medical/treatment_center)
 "gwF" = (
 /obj/effect/decal/cleanable/dirt/dust,
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /obj/machinery/airalarm/directional/north,
 /obj/machinery/camera/autoname/motion/directional/east{
 	network = list("minisat")
@@ -18253,7 +18253,7 @@
 /area/station/ai_monitored/turret_protected/ai)
 "gxy" = (
 /obj/machinery/light/small/dim/directional/west,
-/obj/effect/decal/cleanable/blood/tracks,
+/obj/effect/decal/cleanable/vital/organic/blood/tracks,
 /turf/open/floor/plating,
 /area/station/medical/chemistry/minisat)
 "gxE" = (
@@ -18484,7 +18484,7 @@
 /area/station/cargo/storage)
 "gBu" = (
 /obj/effect/decal/cleanable/dirt/dust,
-/obj/effect/decal/cleanable/blood/tracks,
+/obj/effect/decal/cleanable/vital/organic/blood/tracks,
 /obj/item/broken_bottle,
 /obj/structure/cable,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
@@ -19953,7 +19953,7 @@
 /obj/effect/turf_decal/siding/white{
 	dir = 6
 	},
-/obj/effect/decal/cleanable/blood/tracks,
+/obj/effect/decal/cleanable/vital/organic/blood/tracks,
 /turf/open/floor/iron/white/small,
 /area/station/science/lobby)
 "hbw" = (
@@ -19987,7 +19987,7 @@
 /obj/item/clothing/under/costume/maid,
 /obj/item/clothing/head/costume/kitty,
 /obj/item/clothing/neck/petcollar,
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /turf/open/floor/plating,
 /area/station/maintenance/central/greater)
 "hbV" = (
@@ -20093,7 +20093,7 @@
 "hdN" = (
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /obj/effect/mapping_helpers/burnt_floor,
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /turf/open/floor/plating,
 /area/station/maintenance/central/greater)
 "hdO" = (
@@ -20152,7 +20152,7 @@
 "heP" = (
 /obj/structure/cable,
 /obj/effect/decal/cleanable/dirt,
-/obj/effect/decal/cleanable/blood/tracks{
+/obj/effect/decal/cleanable/vital/organic/blood/tracks{
 	dir = 9
 	},
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
@@ -20819,7 +20819,7 @@
 /obj/structure/bed,
 /obj/effect/turf_decal/tile/blue/anticorner/contrasted,
 /obj/item/bedsheet,
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /obj/structure/cable,
 /obj/structure/disposalpipe/segment{
 	dir = 4
@@ -21071,7 +21071,7 @@
 /obj/machinery/door/airlock/external,
 /obj/effect/mapping_helpers/airlock/cyclelink_helper,
 /obj/effect/mapping_helpers/airlock/access/all/medical/chemistry,
-/obj/effect/decal/cleanable/blood/tracks,
+/obj/effect/decal/cleanable/vital/organic/blood/tracks,
 /turf/open/floor/plating,
 /area/station/medical/chemistry/minisat)
 "hue" = (
@@ -21142,7 +21142,7 @@
 /turf/open/floor/iron,
 /area/station/cargo/storage)
 "hvj" = (
-/obj/effect/decal/cleanable/blood/old{
+/obj/effect/decal/cleanable/vital/organic/blood/old{
 	icon_state = "gib1-old"
 	},
 /obj/structure/cable,
@@ -21390,7 +21390,7 @@
 /turf/open/floor/carpet/executive,
 /area/station/command/heads_quarters/captain/private)
 "hAx" = (
-/obj/effect/decal/cleanable/blood/splatter/over_window,
+/obj/effect/decal/cleanable/vital/organic/blood/splatter/over_window,
 /turf/closed/wall,
 /area/station/science/lobby)
 "hAA" = (
@@ -21692,7 +21692,7 @@
 /area/station/service/chapel)
 "hGy" = (
 /obj/effect/decal/cleanable/dirt/dust,
-/obj/effect/decal/cleanable/blood/tracks{
+/obj/effect/decal/cleanable/vital/organic/blood/tracks{
 	dir = 4
 	},
 /obj/item/ammo_casing/c357/spent,
@@ -21943,7 +21943,7 @@
 	dir = 1
 	},
 /obj/item/restraints/handcuffs,
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /obj/effect/turf_decal/tile/red/half/contrasted,
 /obj/machinery/light/dim/directional/south,
 /obj/structure/cable,
@@ -22018,7 +22018,7 @@
 	name = "Test Chamber Blast Door"
 	},
 /obj/effect/turf_decal/bot,
-/obj/effect/decal/cleanable/blood/footprints{
+/obj/effect/decal/cleanable/vital/organic/blood/footprints{
 	dir = 8
 	},
 /turf/open/floor/engine,
@@ -22723,7 +22723,7 @@
 /area/station/medical/virology)
 "hZO" = (
 /obj/structure/table,
-/obj/effect/decal/cleanable/oil,
+/obj/effect/decal/cleanable/vital/robotic/oil,
 /obj/effect/decal/cleanable/dirt,
 /obj/effect/decal/cleanable/dirt/dust,
 /obj/item/clothing/head/costume/cardborg,
@@ -26302,7 +26302,7 @@
 /obj/effect/turf_decal/tile/purple/half/contrasted{
 	dir = 1
 	},
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /turf/open/floor/iron/white,
@@ -27530,7 +27530,7 @@
 /area/station/service/theater)
 "jLV" = (
 /obj/effect/decal/cleanable/dirt/dust,
-/obj/effect/decal/cleanable/blood/old{
+/obj/effect/decal/cleanable/vital/organic/blood/old{
 	icon_state = "splatter6"
 	},
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
@@ -28276,7 +28276,7 @@
 /area/station/commons/vacant_room/commissary)
 "jZY" = (
 /obj/effect/decal/cleanable/dirt,
-/obj/effect/decal/cleanable/blood/tracks,
+/obj/effect/decal/cleanable/vital/organic/blood/tracks,
 /turf/open/floor/plating,
 /area/station/asteroid)
 "kaa" = (
@@ -28412,7 +28412,7 @@
 /obj/machinery/camera/autoname/directional/west{
 	network = list("ss13","medbay")
 	},
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /turf/open/floor/iron/white,
 /area/station/medical/surgery/theatre)
 "kcz" = (
@@ -28722,7 +28722,7 @@
 /turf/open/floor/iron,
 /area/station/commons/storage/primary)
 "khJ" = (
-/obj/effect/decal/cleanable/blood/old{
+/obj/effect/decal/cleanable/vital/organic/blood/old{
 	icon_state = "gib5-old"
 	},
 /turf/open/floor/engine/xenobio,
@@ -29724,7 +29724,7 @@
 "kwW" = (
 /obj/effect/mapping_helpers/burnt_floor,
 /obj/structure/kitchenspike_frame,
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /obj/machinery/light/small/dim/directional/north,
 /turf/open/floor/plating,
 /area/station/maintenance/central/greater)
@@ -29753,7 +29753,7 @@
 /obj/effect/mapping_helpers/broken_floor,
 /obj/effect/spawner/random/medical/memeorgans,
 /obj/structure/closet/crate/freezer,
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /turf/open/floor/iron/freezer,
 /area/station/maintenance/department/medical/central)
 "kxz" = (
@@ -30780,7 +30780,7 @@
 /obj/effect/spawner/random/trash/graffiti,
 /obj/item/instrument/musicalmoth,
 /obj/effect/spawner/random/entertainment/musical_instrument,
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /turf/open/floor/plating,
 /area/station/engineering/lobby)
 "kQF" = (
@@ -31941,7 +31941,7 @@
 "lmt" = (
 /obj/structure/cable,
 /obj/effect/mapping_helpers/burnt_floor,
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /turf/open/floor/plating,
 /area/station/maintenance/department/medical/central)
@@ -32623,7 +32623,7 @@
 "lzE" = (
 /obj/effect/decal/cleanable/dirt,
 /obj/effect/spawner/random/maintenance,
-/obj/effect/decal/cleanable/blood/tracks,
+/obj/effect/decal/cleanable/vital/organic/blood/tracks,
 /turf/open/floor/plating,
 /area/station/asteroid)
 "lzF" = (
@@ -32949,7 +32949,7 @@
 /turf/open/floor/glass,
 /area/station/command/meeting_room)
 "lFJ" = (
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /obj/item/flashlight/flare/candle,
 /turf/open/floor/plating,
 /area/station/engineering/lobby)
@@ -33174,7 +33174,7 @@
 /obj/structure/kitchenspike,
 /obj/effect/decal/cleanable/dirt/dust,
 /obj/effect/mob_spawn/corpse/human/damaged,
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /obj/effect/mapping_helpers/mob_buckler,
 /obj/machinery/light/small/dim/directional/east,
 /turf/open/floor/iron/dark,
@@ -33876,7 +33876,7 @@
 /area/station/engineering/atmospherics_engine)
 "lXJ" = (
 /obj/effect/decal/cleanable/dirt,
-/obj/effect/decal/cleanable/oil,
+/obj/effect/decal/cleanable/vital/robotic/oil,
 /obj/item/radio/intercom/directional/north,
 /turf/open/floor/iron/dark,
 /area/station/ai_monitored/turret_protected/aisat/uppernorth)
@@ -35068,7 +35068,7 @@
 /area/station/security/brig)
 "msE" = (
 /obj/effect/decal/cleanable/dirt/dust,
-/obj/effect/decal/cleanable/oil,
+/obj/effect/decal/cleanable/vital/robotic/oil,
 /obj/machinery/camera/autoname/directional/south,
 /turf/open/floor/iron,
 /area/station/cargo/warehouse/upper)
@@ -35155,7 +35155,7 @@
 /area/station/security/detectives_office/private_investigators_office)
 "mua" = (
 /obj/effect/decal/cleanable/dirt/dust,
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /turf/open/floor/iron/white,
 /area/station/medical/chemistry/minisat)
 "muf" = (
@@ -38856,7 +38856,7 @@
 /area/station/cargo/boutique)
 "nKn" = (
 /obj/effect/decal/cleanable/dirt/dust,
-/obj/effect/decal/cleanable/blood/old{
+/obj/effect/decal/cleanable/vital/organic/blood/old{
 	icon_state = "splatter1"
 	},
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
@@ -39403,7 +39403,7 @@
 	},
 /obj/structure/broken_flooring/side/directional/west,
 /obj/effect/decal/cleanable/dirt/dust,
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /turf/open/floor/plating,
 /area/station/maintenance/department/science)
 "nXL" = (
@@ -40217,7 +40217,7 @@
 /turf/open/floor/iron,
 /area/station/hallway/primary/central)
 "oow" = (
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /turf/open/floor/plating,
 /area/station/engineering/lobby)
 "ooy" = (
@@ -42641,7 +42641,7 @@
 /obj/machinery/light/small/dim/directional/east,
 /obj/structure/closet/crate/medical,
 /obj/effect/spawner/random/medical/medkit,
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /obj/effect/mapping_helpers/broken_floor,
 /turf/open/floor/iron,
 /area/station/maintenance/department/cargo)
@@ -42869,7 +42869,7 @@
 /obj/effect/decal/cleanable/dirt/dust,
 /obj/structure/table_frame,
 /obj/item/stack/sheet/iron,
-/obj/effect/decal/cleanable/blood/splatter,
+/obj/effect/decal/cleanable/vital/organic/blood/splatter,
 /obj/machinery/light/small/broken/directional/west,
 /turf/open/floor/iron,
 /area/station/cargo/warehouse/upper)
@@ -43623,7 +43623,7 @@
 "pxR" = (
 /obj/machinery/door/airlock/external,
 /obj/effect/mapping_helpers/airlock/cyclelink_helper,
-/obj/effect/decal/cleanable/blood/tracks,
+/obj/effect/decal/cleanable/vital/organic/blood/tracks,
 /turf/open/floor/plating/airless,
 /area/station/maintenance/department/medical/central)
 "pxY" = (
@@ -44221,7 +44221,7 @@
 /area/station/commons/vacant_room/commissary)
 "pIa" = (
 /obj/effect/decal/cleanable/dirt/dust,
-/obj/effect/decal/cleanable/blood/tracks,
+/obj/effect/decal/cleanable/vital/organic/blood/tracks,
 /obj/structure/cable,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
@@ -45101,7 +45101,7 @@
 /area/station/engineering/supermatter/room)
 "pWL" = (
 /obj/effect/decal/cleanable/dirt/dust,
-/obj/effect/decal/cleanable/blood/tracks{
+/obj/effect/decal/cleanable/vital/organic/blood/tracks{
 	dir = 10
 	},
 /obj/structure/cable,
@@ -46949,7 +46949,7 @@
 /obj/item/storage/toolbox/emergency,
 /obj/effect/decal/cleanable/dirt,
 /obj/effect/decal/cleanable/dirt/dust,
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /obj/machinery/light/small/directional/west,
 /turf/open/floor/iron,
 /area/station/maintenance/department/cargo)
@@ -47274,7 +47274,7 @@
 /turf/open/floor/wood,
 /area/station/service/library)
 "qNU" = (
-/obj/effect/decal/cleanable/oil,
+/obj/effect/decal/cleanable/vital/robotic/oil,
 /obj/machinery/light/small/directional/west,
 /turf/open/floor/plating,
 /area/station/maintenance/port/lesser)
@@ -47680,7 +47680,7 @@
 /turf/open/floor/iron,
 /area/station/cargo/storage)
 "qWh" = (
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /obj/machinery/portable_atmospherics/canister/air,
 /obj/machinery/atmospherics/components/unary/portables_connector/visible/layer4{
 	dir = 4
@@ -49521,7 +49521,7 @@
 /area/station/medical/morgue)
 "ryV" = (
 /obj/structure/table/optable,
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /obj/machinery/light/small/dim/directional/north,
 /mob/living/carbon/human/monkeybrain{
 	ai_controller = /datum/ai_controller/monkey/angry
@@ -49589,7 +49589,7 @@
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /obj/effect/decal/cleanable/dirt,
 /obj/effect/decal/cleanable/dirt/dust,
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /turf/open/floor/iron,
 /area/station/maintenance/department/cargo)
 "rAq" = (
@@ -50516,7 +50516,7 @@
 /turf/open/misc/asteroid,
 /area/station/asteroid)
 "rQS" = (
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /turf/open/floor/plating,
 /area/station/maintenance/central/greater)
 "rQY" = (
@@ -51272,7 +51272,7 @@
 /obj/structure/table/wood,
 /obj/item/clothing/gloves/maid,
 /obj/item/clothing/neck/maid,
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /turf/open/floor/plating,
 /area/station/maintenance/central/greater)
 "sbd" = (
@@ -51717,7 +51717,7 @@
 /turf/open/floor/plating,
 /area/station/commons/storage/art)
 "sjD" = (
-/obj/effect/decal/cleanable/blood/tracks{
+/obj/effect/decal/cleanable/vital/organic/blood/tracks{
 	dir = 4
 	},
 /obj/structure/sign/poster/random/directional/north,
@@ -53097,7 +53097,7 @@
 /area/station/commons/storage/primary)
 "sHh" = (
 /obj/effect/mapping_helpers/burnt_floor,
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /turf/open/floor/plating,
 /area/station/maintenance/department/medical/central)
 "sHn" = (
@@ -54493,7 +54493,7 @@
 /area/station/cargo/boutique)
 "tiv" = (
 /obj/effect/decal/cleanable/dirt/dust,
-/obj/effect/decal/cleanable/blood/tracks,
+/obj/effect/decal/cleanable/vital/organic/blood/tracks,
 /obj/structure/holosign/barrier,
 /obj/structure/cable,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
@@ -54733,7 +54733,7 @@
 	dir = 4
 	},
 /obj/effect/decal/cleanable/dirt/dust,
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /turf/open/floor/iron/grimy,
 /area/station/maintenance/port/greater)
 "tmT" = (
@@ -55595,7 +55595,7 @@
 /obj/machinery/atmospherics/pipe/smart/simple/scrubbers/hidden{
 	dir = 4
 	},
-/obj/effect/decal/cleanable/blood/drip,
+/obj/effect/decal/cleanable/vital/organic/blood/drip,
 /turf/open/floor/engine/xenobio,
 /area/station/science/xenobiology)
 "tBF" = (
@@ -56326,7 +56326,7 @@
 /turf/open/floor/engine,
 /area/station/maintenance/disposal/incinerator)
 "tNN" = (
-/obj/effect/decal/cleanable/blood/old{
+/obj/effect/decal/cleanable/vital/organic/blood/old{
 	icon_state = "floor6-old"
 	},
 /obj/effect/landmark/event_spawn,
@@ -56477,7 +56477,7 @@
 	},
 /obj/effect/landmark/generic_maintenance_landmark,
 /obj/effect/mapping_helpers/burnt_floor,
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /turf/open/floor/plating,
 /area/station/maintenance/central/greater)
 "tQC" = (
@@ -57084,7 +57084,7 @@
 	desc = "An old NT branded sleeper, decommissioned after the lead acetate incident. None of the functional machinery remains inside.";
 	name = "decommissioned sleeper"
 	},
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /turf/open/floor/iron/freezer,
 /area/station/maintenance/department/medical/central)
 "uaN" = (
@@ -57149,7 +57149,7 @@
 	dir = 1
 	},
 /obj/item/restraints/handcuffs,
-/obj/effect/decal/cleanable/blood,
+/obj/effect/decal/cleanable/vital/organic/blood,
 /obj/effect/turf_decal/tile/red/anticorner/contrasted{
 	dir = 8
 	},
@@ -57194,7 +57194,7 @@
 /area/station/cargo/storage)
 "udf" = (
 /obj/structure/cable,
-/obj/effect/decal/cleanable/oil,
+/obj/effect/decal/cleanable/vital/robotic/oil,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /turf/open/floor/iron/dark,
@@ -57438,7 +57438,7 @@
 /turf/closed/wall/r_wall,
 /area/station/maintenance/radshelter/civil)
 "uhs" = (
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /turf/open/floor/iron/grimy,
 /area/station/maintenance/central/greater)
 "uhz" = (
@@ -58333,7 +58333,7 @@
 /obj/structure/window/reinforced/spawner/directional/east,
 /obj/effect/decal/cleanable/dirt,
 /obj/effect/decal/cleanable/dirt/dust,
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /obj/structure/chair{
 	dir = 8
 	},
@@ -59239,9 +59239,9 @@
 /turf/open/floor/iron,
 /area/station/commons/storage/primary)
 "uNK" = (
-/obj/effect/decal/cleanable/robot_debris/old,
+/obj/effect/decal/cleanable/vital/robotic/debris/old,
 /obj/effect/decal/cleanable/dirt,
-/obj/effect/decal/cleanable/blood/tracks,
+/obj/effect/decal/cleanable/vital/organic/blood/tracks,
 /turf/open/floor/plating,
 /area/station/asteroid)
 "uNR" = (
@@ -60089,7 +60089,7 @@
 /obj/machinery/washing_machine{
 	name = "washashing machinine"
 	},
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /turf/open/floor/plating,
 /area/station/maintenance/department/science)
 "vew" = (
@@ -60891,7 +60891,7 @@
 /turf/open/floor/wood/parquet,
 /area/station/medical/psychology)
 "vvn" = (
-/obj/effect/decal/cleanable/oil,
+/obj/effect/decal/cleanable/vital/robotic/oil,
 /obj/machinery/light/small/directional/west,
 /obj/structure/disposalpipe/segment{
 	dir = 9
@@ -61871,7 +61871,7 @@
 /area/station/engineering/atmos/upper)
 "vNg" = (
 /obj/effect/decal/cleanable/dirt/dust,
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /turf/open/floor/iron/dark,
 /area/station/ai_monitored/turret_protected/aisat/uppernorth)
 "vNk" = (
@@ -62535,7 +62535,7 @@
 /turf/open/floor/iron/white,
 /area/station/medical/chemistry/minisat)
 "vZj" = (
-/obj/effect/decal/cleanable/oil,
+/obj/effect/decal/cleanable/vital/robotic/oil,
 /obj/machinery/power/apc/auto_name/directional/north,
 /obj/structure/cable,
 /obj/item/reagent_containers/spray/cleaner,
@@ -63602,7 +63602,7 @@
 /area/station/command/heads_quarters/ce)
 "wtI" = (
 /obj/effect/decal/cleanable/dirt/dust,
-/obj/effect/decal/cleanable/blood/tracks{
+/obj/effect/decal/cleanable/vital/organic/blood/tracks{
 	dir = 4
 	},
 /turf/open/floor/plating,
@@ -63757,7 +63757,7 @@
 /turf/open/floor/plating,
 /area/station/maintenance/central/greater)
 "wwY" = (
-/obj/effect/decal/cleanable/blood/tracks{
+/obj/effect/decal/cleanable/vital/organic/blood/tracks{
 	dir = 5
 	},
 /obj/structure/cable,
@@ -65202,7 +65202,7 @@
 /area/station/asteroid)
 "wWY" = (
 /obj/effect/decal/cleanable/dirt/dust,
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /turf/open/floor/plating,
@@ -65876,7 +65876,7 @@
 /area/station/maintenance/department/medical/central)
 "xiF" = (
 /obj/effect/decal/cleanable/dirt/dust,
-/obj/effect/decal/cleanable/blood/splatter,
+/obj/effect/decal/cleanable/vital/organic/blood/splatter,
 /obj/effect/decal/cleanable/glass,
 /turf/open/floor/iron,
 /area/station/cargo/warehouse/upper)
@@ -66036,7 +66036,7 @@
 /area/station/maintenance/department/medical/central)
 "xlv" = (
 /obj/effect/decal/cleanable/dirt,
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /obj/structure/showcase/horrific_experiment,
 /turf/open/floor/iron/white,
 /area/station/maintenance/aft/upper)
@@ -66239,7 +66239,7 @@
 /turf/open/floor/iron,
 /area/station/security/prison)
 "xpx" = (
-/obj/effect/decal/cleanable/blood/tracks,
+/obj/effect/decal/cleanable/vital/organic/blood/tracks,
 /turf/open/floor/plating,
 /area/station/maintenance/department/medical/central)
 "xpD" = (
@@ -68541,7 +68541,7 @@
 /area/station/security/detectives_office)
 "ygx" = (
 /obj/effect/decal/cleanable/dirt,
-/obj/effect/decal/cleanable/blood/old{
+/obj/effect/decal/cleanable/vital/organic/blood/old{
 	icon_state = "gib5-old"
 	},
 /obj/effect/spawner/random/contraband/narcotics,
@@ -68757,7 +68757,7 @@
 /turf/closed/wall/r_wall,
 /area/station/engineering/gravity_generator)
 "ykO" = (
-/obj/effect/decal/cleanable/blood/gibs/core,
+/obj/effect/decal/cleanable/vital/organic/gibs/core,
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/plating,
 /area/station/maintenance/department/engine)

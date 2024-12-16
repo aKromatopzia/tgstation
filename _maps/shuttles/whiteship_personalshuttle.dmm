@@ -123,7 +123,7 @@
 /obj/machinery/atmospherics/pipe/smart/simple/supply/hidden,
 /obj/structure/cable,
 /obj/effect/mapping_helpers/airlock/cutaiwire,
-/obj/effect/decal/cleanable/blood/footprints{
+/obj/effect/decal/cleanable/vital/organic/blood/footprints{
 	dir = 1
 	},
 /turf/open/floor/mineral/titanium,
@@ -160,7 +160,7 @@
 	dir = 1
 	},
 /obj/structure/cable,
-/obj/effect/decal/cleanable/blood/splatter,
+/obj/effect/decal/cleanable/vital/organic/blood/splatter,
 /obj/effect/decal/cleanable/dirt,
 /mob/living/simple_animal/hostile/zombie{
 	desc = "This undead fiend looks to be badly decomposed.";
@@ -183,7 +183,7 @@
 /obj/structure/cable,
 /obj/effect/mapping_helpers/airlock/cutaiwire,
 /obj/structure/barricade/wooden/crude,
-/obj/effect/decal/cleanable/blood/tracks{
+/obj/effect/decal/cleanable/vital/organic/blood/tracks{
 	dir = 8
 	},
 /turf/open/floor/mineral/titanium,
@@ -194,7 +194,7 @@
 	},
 /obj/effect/decal/cleanable/dirt,
 /obj/structure/cable,
-/obj/effect/decal/cleanable/blood/splatter,
+/obj/effect/decal/cleanable/vital/organic/blood/splatter,
 /mob/living/simple_animal/hostile/zombie{
 	desc = "This undead fiend looks to be badly decomposed.";
 	environment_smash = 0;
@@ -218,8 +218,8 @@
 	specialfunctions = 4
 	},
 /obj/effect/mob_spawn/corpse/human/damaged,
-/obj/effect/decal/cleanable/blood/gibs,
-/obj/effect/decal/cleanable/blood/tracks,
+/obj/effect/decal/cleanable/vital/organic/gibs,
+/obj/effect/decal/cleanable/vital/organic/blood/tracks,
 /turf/open/floor/mineral/plastitanium,
 /area/shuttle/abandoned/bridge)
 "nM" = (
@@ -258,7 +258,7 @@
 /area/shuttle/abandoned/bridge)
 "pF" = (
 /obj/effect/decal/cleanable/dirt,
-/obj/effect/decal/cleanable/blood/splatter,
+/obj/effect/decal/cleanable/vital/organic/blood/splatter,
 /obj/structure/chair/comfy/shuttle,
 /mob/living/simple_animal/hostile/zombie{
 	desc = "This undead fiend looks to be badly decomposed.";
@@ -304,7 +304,7 @@
 /area/shuttle/abandoned/engine)
 "rv" = (
 /obj/effect/decal/cleanable/dirt,
-/obj/effect/decal/cleanable/blood/tracks{
+/obj/effect/decal/cleanable/vital/organic/blood/tracks{
 	dir = 10
 	},
 /obj/structure/chair/comfy/shuttle,
@@ -316,7 +316,7 @@
 	id = "whiteship_windows";
 	name = "Exterior Window Blast Door"
 	},
-/obj/effect/decal/cleanable/blood/splatter/over_window,
+/obj/effect/decal/cleanable/vital/organic/blood/splatter/over_window,
 /turf/open/floor/plating,
 /area/shuttle/abandoned/bridge)
 "sL" = (
@@ -355,7 +355,7 @@
 "BI" = (
 /obj/effect/decal/cleanable/dirt,
 /obj/structure/cable,
-/obj/effect/decal/cleanable/blood/footprints{
+/obj/effect/decal/cleanable/vital/organic/blood/footprints{
 	dir = 1
 	},
 /obj/machinery/atmospherics/pipe/smart/simple/supply/hidden,
@@ -380,7 +380,7 @@
 /area/shuttle/abandoned/bridge)
 "Fo" = (
 /obj/effect/decal/cleanable/dirt,
-/obj/effect/decal/cleanable/blood/tracks{
+/obj/effect/decal/cleanable/vital/organic/blood/tracks{
 	dir = 8
 	},
 /turf/open/floor/mineral/plastitanium,
@@ -395,7 +395,7 @@
 /obj/structure/cable,
 /obj/effect/mapping_helpers/airlock/cutaiwire,
 /obj/structure/barricade/wooden/crude,
-/obj/effect/decal/cleanable/blood/tracks{
+/obj/effect/decal/cleanable/vital/organic/blood/tracks{
 	dir = 8
 	},
 /turf/open/floor/mineral/titanium,
@@ -413,14 +413,14 @@
 	},
 /obj/structure/cable,
 /obj/effect/decal/cleanable/dirt,
-/obj/effect/decal/cleanable/blood/tracks{
+/obj/effect/decal/cleanable/vital/organic/blood/tracks{
 	dir = 8
 	},
 /turf/open/floor/mineral/titanium,
 /area/shuttle/abandoned/engine)
 "Ia" = (
 /obj/effect/decal/cleanable/dirt,
-/obj/effect/decal/cleanable/blood/footprints{
+/obj/effect/decal/cleanable/vital/organic/blood/footprints{
 	dir = 4
 	},
 /obj/machinery/atmospherics/components/unary/vent_pump/on{
@@ -441,7 +441,7 @@
 	},
 /obj/machinery/airalarm/directional/north,
 /obj/effect/mapping_helpers/airalarm/all_access,
-/obj/effect/decal/cleanable/blood/tracks{
+/obj/effect/decal/cleanable/vital/organic/blood/tracks{
 	dir = 5
 	},
 /turf/open/floor/mineral/plastitanium,
@@ -487,7 +487,7 @@
 "Qh" = (
 /obj/machinery/atmospherics/pipe/smart/simple/supply/hidden,
 /obj/structure/cable,
-/obj/effect/decal/cleanable/blood/footprints{
+/obj/effect/decal/cleanable/vital/organic/blood/footprints{
 	dir = 1
 	},
 /obj/effect/decal/cleanable/dirt,
@@ -503,7 +503,7 @@
 	},
 /obj/effect/decal/cleanable/dirt,
 /obj/effect/spawner/random/trash/mess,
-/obj/effect/decal/cleanable/blood/tracks{
+/obj/effect/decal/cleanable/vital/organic/blood/tracks{
 	dir = 8
 	},
 /obj/machinery/atmospherics/pipe/smart/simple/supply/hidden{
@@ -527,7 +527,7 @@
 "WL" = (
 /obj/machinery/light/cold/no_nightlight/directional/west,
 /obj/effect/decal/cleanable/dirt,
-/obj/effect/decal/cleanable/blood/tracks,
+/obj/effect/decal/cleanable/vital/organic/blood/tracks,
 /turf/open/floor/mineral/plastitanium,
 /area/shuttle/abandoned/bridge)
 

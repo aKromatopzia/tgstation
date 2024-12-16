@@ -228,7 +228,7 @@
 	},
 /area/awaymission/research/interior/engineering)
 "bg" = (
-/obj/effect/decal/cleanable/blood,
+/obj/effect/decal/cleanable/vital/organic/blood,
 /obj/effect/mapping_helpers/broken_floor,
 /turf/open/floor/iron,
 /area/awaymission/research/interior/engineering)
@@ -259,7 +259,7 @@
 /area/awaymission/research/interior/engineering)
 "bs" = (
 /obj/item/ammo_casing/c45,
-/obj/effect/decal/cleanable/blood/drip,
+/obj/effect/decal/cleanable/vital/organic/blood/drip,
 /obj/effect/mapping_helpers/broken_floor,
 /turf/open/floor/iron,
 /area/awaymission/research/interior/engineering)
@@ -323,7 +323,7 @@
 /area/awaymission/research/interior/engineering)
 "bH" = (
 /obj/item/ammo_casing/c9mm,
-/obj/effect/decal/cleanable/blood,
+/obj/effect/decal/cleanable/vital/organic/blood,
 /obj/effect/turf_decal/tile/yellow/half/contrasted{
 	dir = 1
 	},
@@ -358,7 +358,7 @@
 /area/awaymission/research/interior/engineering)
 "bM" = (
 /obj/item/storage/toolbox/mechanical,
-/obj/effect/decal/cleanable/blood,
+/obj/effect/decal/cleanable/vital/organic/blood,
 /obj/effect/turf_decal/tile/yellow/half/contrasted{
 	dir = 1
 	},
@@ -424,8 +424,8 @@
 	},
 /obj/item/ammo_casing/c45,
 /obj/item/ammo_casing/c9mm,
-/obj/effect/decal/cleanable/blood,
-/obj/effect/decal/cleanable/blood/drip,
+/obj/effect/decal/cleanable/vital/organic/blood,
+/obj/effect/decal/cleanable/vital/organic/blood/drip,
 /obj/effect/turf_decal/tile/yellow/half/contrasted{
 	dir = 8
 	},
@@ -519,7 +519,7 @@
 /obj/effect/mob_spawn/corpse/human/nanotrasensoldier{
 	brute_damage = 200
 	},
-/obj/effect/decal/cleanable/blood,
+/obj/effect/decal/cleanable/vital/organic/blood,
 /obj/effect/mapping_helpers/broken_floor,
 /turf/open/floor/iron,
 /area/awaymission/research/interior)
@@ -588,7 +588,7 @@
 /area/awaymission/research/interior)
 "cN" = (
 /obj/item/ammo_casing/c9mm,
-/obj/effect/decal/cleanable/blood/drip,
+/obj/effect/decal/cleanable/vital/organic/blood/drip,
 /obj/effect/mapping_helpers/broken_floor,
 /turf/open/floor/iron,
 /area/awaymission/research/interior)
@@ -682,7 +682,7 @@
 /turf/open/floor/plating,
 /area/awaymission/research/interior)
 "dk" = (
-/obj/effect/decal/cleanable/blood/drip,
+/obj/effect/decal/cleanable/vital/organic/blood/drip,
 /obj/structure/cable,
 /turf/open/floor/plating,
 /area/awaymission/research/interior/maint)
@@ -730,7 +730,7 @@
 /turf/open/floor/iron/white,
 /area/awaymission/research/interior)
 "dB" = (
-/obj/effect/decal/cleanable/blood/drip,
+/obj/effect/decal/cleanable/vital/organic/blood/drip,
 /obj/effect/turf_decal/tile/yellow/half/contrasted{
 	dir = 8
 	},
@@ -836,7 +836,7 @@
 /turf/open/floor/plating,
 /area/awaymission/research/interior/maint)
 "eg" = (
-/obj/effect/decal/cleanable/blood/drip,
+/obj/effect/decal/cleanable/vital/organic/blood/drip,
 /obj/machinery/light/small/directional/east,
 /obj/structure/cable,
 /turf/open/floor/plating,
@@ -1080,7 +1080,7 @@
 /turf/open/floor/iron/white,
 /area/awaymission/research/interior/cryo)
 "fh" = (
-/obj/effect/decal/cleanable/blood/drip,
+/obj/effect/decal/cleanable/vital/organic/blood/drip,
 /obj/machinery/cryo_cell,
 /turf/open/floor/iron/white,
 /area/awaymission/research/interior/cryo)
@@ -1091,7 +1091,7 @@
 /turf/open/floor/iron/white,
 /area/awaymission/research/interior)
 "fl" = (
-/obj/effect/decal/cleanable/blood/drip,
+/obj/effect/decal/cleanable/vital/organic/blood/drip,
 /obj/item/ammo_casing/c45,
 /turf/open/floor/iron/white,
 /area/awaymission/research/interior)
@@ -1178,7 +1178,7 @@
 /obj/effect/mob_spawn/corpse/human/syndicatesoldier{
 	brute_damage = 200
 	},
-/obj/effect/decal/cleanable/blood,
+/obj/effect/decal/cleanable/vital/organic/blood,
 /obj/effect/turf_decal/tile/purple/half/contrasted,
 /turf/open/floor/iron/white,
 /area/awaymission/research/interior/cryo)
@@ -1346,7 +1346,7 @@
 	amount = 1
 	},
 /obj/item/ammo_casing/c45,
-/obj/effect/decal/cleanable/blood,
+/obj/effect/decal/cleanable/vital/organic/blood,
 /obj/effect/turf_decal/tile/yellow/fourcorners,
 /turf/open/floor/iron/white,
 /area/awaymission/research/interior/engineering)
@@ -1365,14 +1365,14 @@
 /area/awaymission/research/interior/cryo)
 "gS" = (
 /obj/item/reagent_containers/spray/pepper,
-/obj/effect/decal/cleanable/blood/drip,
+/obj/effect/decal/cleanable/vital/organic/blood/drip,
 /obj/effect/turf_decal/tile/purple/anticorner/contrasted{
 	dir = 1
 	},
 /turf/open/floor/iron/white,
 /area/awaymission/research/interior/cryo)
 "gT" = (
-/obj/effect/decal/cleanable/blood/drip,
+/obj/effect/decal/cleanable/vital/organic/blood/drip,
 /obj/effect/turf_decal/tile/purple/half/contrasted{
 	dir = 1
 	},
@@ -1392,7 +1392,7 @@
 /turf/open/floor/iron/white,
 /area/awaymission/research/interior)
 "gX" = (
-/obj/effect/decal/cleanable/blood/drip,
+/obj/effect/decal/cleanable/vital/organic/blood/drip,
 /obj/effect/turf_decal/tile/purple/anticorner/contrasted{
 	dir = 1
 	},
@@ -1441,7 +1441,7 @@
 /turf/open/floor/iron/white,
 /area/awaymission/research/interior/security)
 "hk" = (
-/obj/effect/decal/cleanable/blood,
+/obj/effect/decal/cleanable/vital/organic/blood,
 /obj/effect/turf_decal/tile/purple/half/contrasted{
 	dir = 8
 	},
@@ -1491,7 +1491,7 @@
 /turf/open/floor/iron/white,
 /area/awaymission/research/interior/cryo)
 "hy" = (
-/obj/effect/decal/cleanable/blood/drip,
+/obj/effect/decal/cleanable/vital/organic/blood/drip,
 /obj/structure/cable,
 /obj/effect/turf_decal/tile/purple/half/contrasted{
 	dir = 4
@@ -1499,7 +1499,7 @@
 /turf/open/floor/iron/white,
 /area/awaymission/research/interior)
 "hz" = (
-/obj/effect/decal/cleanable/blood/drip,
+/obj/effect/decal/cleanable/vital/organic/blood/drip,
 /obj/effect/turf_decal/tile/green/half/contrasted,
 /turf/open/floor/iron/white,
 /area/awaymission/research/interior)
@@ -1592,7 +1592,7 @@
 /obj/effect/mob_spawn/corpse/human/doctor{
 	brute_damage = 200
 	},
-/obj/effect/decal/cleanable/blood,
+/obj/effect/decal/cleanable/vital/organic/blood,
 /obj/effect/turf_decal/tile/green/half/contrasted{
 	dir = 1
 	},
@@ -2040,7 +2040,7 @@
 /obj/effect/mob_spawn/corpse/human/doctor{
 	brute_damage = 200
 	},
-/obj/effect/decal/cleanable/blood,
+/obj/effect/decal/cleanable/vital/organic/blood,
 /turf/open/floor/iron,
 /area/awaymission/research/interior/dorm)
 "ka" = (
@@ -2186,7 +2186,7 @@
 /turf/open/floor/iron/white,
 /area/awaymission/research/interior/medbay)
 "kA" = (
-/obj/effect/decal/cleanable/blood/drip,
+/obj/effect/decal/cleanable/vital/organic/blood/drip,
 /obj/effect/turf_decal/tile/blue/half/contrasted{
 	dir = 1
 	},
@@ -2203,7 +2203,7 @@
 /turf/open/floor/iron,
 /area/awaymission/research/interior/dorm)
 "kE" = (
-/obj/effect/decal/cleanable/blood,
+/obj/effect/decal/cleanable/vital/organic/blood,
 /turf/open/floor/iron,
 /area/awaymission/research/interior/dorm)
 "kF" = (
@@ -2231,7 +2231,7 @@
 	brute_damage = 145;
 	oxy_damage = 55
 	},
-/obj/effect/decal/cleanable/blood,
+/obj/effect/decal/cleanable/vital/organic/blood,
 /obj/effect/turf_decal/tile/blue/fourcorners,
 /turf/open/floor/iron/white,
 /area/awaymission/research/interior/medbay)
@@ -2311,7 +2311,7 @@
 /turf/open/floor/iron/white,
 /area/awaymission/research/interior/medbay)
 "li" = (
-/obj/effect/decal/cleanable/blood,
+/obj/effect/decal/cleanable/vital/organic/blood,
 /obj/item/stack/rods,
 /obj/effect/turf_decal/tile/blue/half/contrasted{
 	dir = 4
@@ -2363,7 +2363,7 @@
 /turf/open/floor/plating,
 /area/awaymission/research/interior/medbay)
 "lv" = (
-/obj/effect/decal/cleanable/blood/drip,
+/obj/effect/decal/cleanable/vital/organic/blood/drip,
 /obj/item/ammo_casing/c45,
 /obj/item/stack/rods,
 /obj/effect/turf_decal/tile/blue/half/contrasted{
@@ -2410,7 +2410,7 @@
 /turf/open/floor/iron/white,
 /area/awaymission/research/interior/medbay)
 "lG" = (
-/obj/effect/decal/cleanable/blood/drip,
+/obj/effect/decal/cleanable/vital/organic/blood/drip,
 /obj/effect/turf_decal/tile/blue{
 	dir = 1
 	},
@@ -2895,7 +2895,7 @@
 /turf/open/floor/iron/white,
 /area/awaymission/research/interior)
 "qP" = (
-/obj/effect/decal/cleanable/blood,
+/obj/effect/decal/cleanable/vital/organic/blood,
 /obj/effect/turf_decal/tile/purple/fourcorners,
 /turf/open/floor/iron/dark,
 /area/awaymission/research/interior/genetics)
@@ -2990,7 +2990,7 @@
 /turf/open/misc/asteroid/airless,
 /area/awaymission/research/exterior)
 "tv" = (
-/obj/effect/decal/cleanable/blood/drip,
+/obj/effect/decal/cleanable/vital/organic/blood/drip,
 /obj/item/ammo_casing/c45,
 /obj/effect/turf_decal/tile/blue/fourcorners,
 /turf/open/floor/iron/white,
@@ -3021,7 +3021,7 @@
 /area/awaymission/research/interior/genetics)
 "uh" = (
 /obj/structure/chair/office,
-/obj/effect/decal/cleanable/blood,
+/obj/effect/decal/cleanable/vital/organic/blood,
 /obj/effect/turf_decal/tile/purple/fourcorners,
 /turf/open/floor/iron/dark,
 /area/awaymission/research/interior/genetics)
@@ -3169,7 +3169,7 @@
 /turf/open/floor/iron/white,
 /area/awaymission/research/interior/medbay)
 "yM" = (
-/obj/effect/decal/cleanable/blood/drip,
+/obj/effect/decal/cleanable/vital/organic/blood/drip,
 /obj/effect/turf_decal/tile/red/fourcorners,
 /turf/open/floor/iron/white,
 /area/awaymission/research/interior)
@@ -3223,7 +3223,7 @@
 /turf/open/floor/iron/white,
 /area/awaymission/research/interior/medbay)
 "Bp" = (
-/obj/effect/decal/cleanable/blood,
+/obj/effect/decal/cleanable/vital/organic/blood,
 /obj/item/ammo_casing/c45,
 /obj/effect/turf_decal/tile/blue/fourcorners,
 /turf/open/floor/iron/white,
@@ -3346,15 +3346,15 @@
 /turf/open/floor/iron/white,
 /area/awaymission/research/interior)
 "Ez" = (
-/obj/effect/decal/cleanable/blood,
+/obj/effect/decal/cleanable/vital/organic/blood,
 /obj/item/stack/rods,
 /obj/effect/turf_decal/tile/purple/fourcorners,
 /turf/open/floor/iron/dark,
 /area/awaymission/research/interior/genetics)
 "EC" = (
 /obj/item/ammo_casing/c45,
-/obj/effect/decal/cleanable/blood/drip,
-/obj/effect/decal/cleanable/blood/drip,
+/obj/effect/decal/cleanable/vital/organic/blood/drip,
+/obj/effect/decal/cleanable/vital/organic/blood/drip,
 /obj/effect/turf_decal/tile/yellow/fourcorners,
 /turf/open/floor/iron/white,
 /area/awaymission/research/interior/engineering)
@@ -3371,7 +3371,7 @@
 /turf/open/floor/iron/white,
 /area/awaymission/research/interior/engineering)
 "Fl" = (
-/obj/effect/decal/cleanable/blood/drip,
+/obj/effect/decal/cleanable/vital/organic/blood/drip,
 /obj/item/ammo_casing/c45,
 /obj/item/shard{
 	icon_state = "small"
@@ -3403,7 +3403,7 @@
 	brute_damage = 145;
 	oxy_damage = 55
 	},
-/obj/effect/decal/cleanable/blood,
+/obj/effect/decal/cleanable/vital/organic/blood,
 /obj/effect/turf_decal/tile/purple/fourcorners,
 /turf/open/floor/iron/dark,
 /area/awaymission/research/interior/genetics)
@@ -3593,7 +3593,7 @@
 /area/awaymission/research/interior/security)
 "KJ" = (
 /obj/item/ammo_casing/c46x30mm,
-/obj/effect/decal/cleanable/blood,
+/obj/effect/decal/cleanable/vital/organic/blood,
 /obj/effect/turf_decal/tile/yellow/fourcorners,
 /turf/open/floor/iron/white,
 /area/awaymission/research/interior)
@@ -3616,7 +3616,7 @@
 /turf/open/floor/iron/white,
 /area/awaymission/research/interior/medbay)
 "Lm" = (
-/obj/effect/decal/cleanable/blood,
+/obj/effect/decal/cleanable/vital/organic/blood,
 /obj/item/ammo_casing/c45,
 /obj/effect/turf_decal/tile/yellow/fourcorners,
 /turf/open/floor/iron/white,
@@ -3652,7 +3652,7 @@
 	brute_damage = 145;
 	oxy_damage = 55
 	},
-/obj/effect/decal/cleanable/blood,
+/obj/effect/decal/cleanable/vital/organic/blood,
 /obj/effect/turf_decal/tile/purple/fourcorners,
 /turf/open/floor/iron/white,
 /area/awaymission/research/interior/cryo)
@@ -3668,7 +3668,7 @@
 /turf/open/floor/iron/white,
 /area/awaymission/research/interior/medbay)
 "NF" = (
-/obj/effect/decal/cleanable/blood/drip,
+/obj/effect/decal/cleanable/vital/organic/blood/drip,
 /obj/effect/turf_decal/tile/blue/fourcorners,
 /turf/open/floor/iron/white,
 /area/awaymission/research/interior/medbay)
@@ -3734,7 +3734,7 @@
 /turf/open/floor/iron,
 /area/awaymission/research/interior/cryo)
 "OW" = (
-/obj/effect/decal/cleanable/blood/drip,
+/obj/effect/decal/cleanable/vital/organic/blood/drip,
 /obj/effect/turf_decal/tile/purple/fourcorners,
 /turf/open/floor/iron/dark,
 /area/awaymission/research/interior/genetics)
@@ -3806,7 +3806,7 @@
 	amount = 1
 	},
 /obj/item/ammo_casing/c45,
-/obj/effect/decal/cleanable/blood/drip,
+/obj/effect/decal/cleanable/vital/organic/blood/drip,
 /obj/effect/turf_decal/tile/yellow/fourcorners,
 /turf/open/floor/iron/white,
 /area/awaymission/research/interior/engineering)
@@ -3826,13 +3826,13 @@
 /turf/open/floor/iron/dark,
 /area/awaymission/research/interior/genetics)
 "Ro" = (
-/obj/effect/decal/cleanable/blood/drip,
-/obj/effect/decal/cleanable/blood/drip,
+/obj/effect/decal/cleanable/vital/organic/blood/drip,
+/obj/effect/decal/cleanable/vital/organic/blood/drip,
 /obj/effect/turf_decal/tile/purple/fourcorners,
 /turf/open/floor/iron/white,
 /area/awaymission/research/interior/cryo)
 "RI" = (
-/obj/effect/decal/cleanable/blood/drip,
+/obj/effect/decal/cleanable/vital/organic/blood/drip,
 /obj/effect/turf_decal/tile/yellow/fourcorners,
 /turf/open/floor/iron/white,
 /area/awaymission/research/interior)
@@ -3840,7 +3840,7 @@
 /obj/effect/mob_spawn/corpse/human/doctor{
 	brute_damage = 200
 	},
-/obj/effect/decal/cleanable/blood,
+/obj/effect/decal/cleanable/vital/organic/blood,
 /obj/effect/turf_decal/tile/blue{
 	dir = 4
 	},
@@ -3957,7 +3957,7 @@
 "UY" = (
 /obj/item/ammo_casing/c46x30mm,
 /obj/item/ammo_casing/c9mm,
-/obj/effect/decal/cleanable/blood/drip,
+/obj/effect/decal/cleanable/vital/organic/blood/drip,
 /obj/effect/turf_decal/tile/yellow/fourcorners,
 /turf/open/floor/iron/white,
 /area/awaymission/research/interior)
@@ -3967,7 +3967,7 @@
 /turf/open/floor/iron/white,
 /area/awaymission/research/interior)
 "VD" = (
-/obj/effect/decal/cleanable/blood/drip,
+/obj/effect/decal/cleanable/vital/organic/blood/drip,
 /obj/effect/turf_decal/tile/yellow/fourcorners,
 /turf/open/floor/iron/white,
 /area/awaymission/research/interior/engineering)
@@ -3982,7 +3982,7 @@
 /turf/open/floor/iron/white,
 /area/awaymission/research/interior)
 "Wf" = (
-/obj/effect/decal/cleanable/blood/drip,
+/obj/effect/decal/cleanable/vital/organic/blood/drip,
 /obj/effect/turf_decal/tile/purple/fourcorners,
 /turf/open/floor/iron,
 /area/awaymission/research/interior/cryo)
@@ -4041,7 +4041,7 @@
 /area/awaymission/research/interior/escapepods)
 "XU" = (
 /obj/item/ammo_casing/c45,
-/obj/effect/decal/cleanable/blood/drip,
+/obj/effect/decal/cleanable/vital/organic/blood/drip,
 /obj/effect/turf_decal/tile/yellow/fourcorners,
 /turf/open/floor/iron/white,
 /area/awaymission/research/interior/engineering)
@@ -4052,7 +4052,7 @@
 /area/awaymission/research/interior/genetics)
 "Ye" = (
 /obj/item/ammo_casing/c9mm,
-/obj/effect/decal/cleanable/blood/drip,
+/obj/effect/decal/cleanable/vital/organic/blood/drip,
 /obj/effect/turf_decal/tile/purple/fourcorners,
 /turf/open/floor/iron/white,
 /area/awaymission/research/interior/cryo)
@@ -4065,7 +4065,7 @@
 /obj/effect/mob_spawn/corpse/human/doctor{
 	brute_damage = 200
 	},
-/obj/effect/decal/cleanable/blood,
+/obj/effect/decal/cleanable/vital/organic/blood,
 /obj/effect/turf_decal/tile/blue/fourcorners,
 /turf/open/floor/iron/white,
 /area/awaymission/research/interior/medbay)
@@ -4092,7 +4092,7 @@
 /turf/open/floor/iron/white,
 /area/awaymission/research/interior/escapepods)
 "ZJ" = (
-/obj/effect/decal/cleanable/blood,
+/obj/effect/decal/cleanable/vital/organic/blood,
 /obj/effect/turf_decal/tile/blue/fourcorners,
 /turf/open/floor/iron/white,
 /area/awaymission/research/interior/medbay)

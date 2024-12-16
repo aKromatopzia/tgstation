@@ -2,7 +2,7 @@
 	gender = PLURAL
 	layer = FLOOR_CLEAN_LAYER
 	var/list/random_icon_states = null
-	///I'm sorry but cleanable/blood code is ass, and so is blood_DNA
+	///I'm sorry but cleanable/vital/organic/blood code is ass, and so is blood_DNA
 	var/blood_state = ""
 	///0-100, amount of blood in this decal, used for making footprints and affecting the alpha of bloody footprints
 	var/bloodiness = 0

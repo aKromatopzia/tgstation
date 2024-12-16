@@ -13,7 +13,7 @@
 /area/station/maintenance/department/science)
 "d" = (
 /obj/effect/decal/cleanable/dirt,
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /turf/open/floor/plating,
 /area/station/maintenance/department/science)
 "h" = (
@@ -117,7 +117,7 @@
 /obj/effect/decal/cleanable/dirt,
 /obj/effect/mapping_helpers/burnt_floor,
 /obj/effect/mob_spawn/corpse/human/monkey,
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /turf/open/floor/engine,
 /area/station/maintenance/department/science)
 "A" = (

@@ -98,9 +98,9 @@
 	return ..()
 
 /turf/add_blood_DNA(list/blood_dna, list/datum/disease/diseases)
-	var/obj/effect/decal/cleanable/blood/splatter/blood_splatter = locate() in src
+	var/obj/effect/decal/cleanable/vital/organic/blood/splatter/blood_splatter = locate() in src
 	if(!blood_splatter)
-		blood_splatter = new /obj/effect/decal/cleanable/blood/splatter(src, diseases)
+		blood_splatter = new /obj/effect/decal/cleanable/vital/organic/blood/splatter(src, diseases)
 	if(!QDELETED(blood_splatter))
 		blood_splatter.add_blood_DNA(blood_dna) //give blood info to the blood decal.
 		return TRUE //we bloodied the floor

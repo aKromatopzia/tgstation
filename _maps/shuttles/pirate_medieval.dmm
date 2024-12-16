@@ -160,9 +160,9 @@
 /turf/open/floor/plating,
 /area/shuttle/pirate)
 "au" = (
-/obj/effect/decal/cleanable/blood/old,
-/obj/effect/decal/cleanable/blood/gibs/limb,
-/obj/effect/decal/cleanable/blood/gibs/body,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
+/obj/effect/decal/cleanable/vital/organic/gibs/limb,
+/obj/effect/decal/cleanable/vital/organic/gibs/body,
 /obj/item/food/meat/slab/human/mutant/zombie,
 /obj/item/kitchen/fork,
 /turf/open/floor/stone,
@@ -248,7 +248,7 @@
 /turf/open/floor/stone,
 /area/shuttle/pirate)
 "aJ" = (
-/obj/effect/decal/cleanable/blood/gibs/old,
+/obj/effect/decal/cleanable/vital/organic/gibs/old,
 /obj/item/food/burger/human,
 /obj/structure/table/wood,
 /obj/item/reagent_containers/cup/glass/bottle/rum{

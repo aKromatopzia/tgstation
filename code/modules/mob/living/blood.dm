@@ -371,7 +371,7 @@
 	var/list/temp_blood_DNA
 	if(small_drip)
 		// Only a certain number of drips (or one large splatter) can be on a given turf.
-		var/obj/effect/decal/cleanable/blood/drip/drop = locate() in T
+		var/obj/effect/decal/cleanable/vital/organic/blood/drip/drop = locate() in T
 		if(drop)
 			if(drop.drips < 5)
 				drop.drips++
@@ -387,9 +387,9 @@
 			return
 
 	// Find a blood decal or create a new one.
-	var/obj/effect/decal/cleanable/blood/B = locate() in T
+	var/obj/effect/decal/cleanable/vital/organic/blood/B = locate() in T
 	if(!B)
-		B = new /obj/effect/decal/cleanable/blood/splatter(T, get_static_viruses())
+		B = new /obj/effect/decal/cleanable/vital/organic/blood/splatter(T, get_static_viruses())
 	if(QDELETED(B)) //Give it up
 		return
 	B.bloodiness = min((B.bloodiness + BLOOD_AMOUNT_PER_DECAL), BLOOD_POOL_MAX)
@@ -404,7 +404,7 @@
 /mob/living/carbon/alien/add_splatter_floor(turf/T, small_drip)
 	if(!T)
 		T = get_turf(src)
-	var/obj/effect/decal/cleanable/xenoblood/B = locate() in T.contents
+	var/obj/effect/decal/cleanable/vital/organic/xenoblood/B = locate() in T.contents
 	if(!B)
 		B = new(T)
 	B.add_blood_DNA(list("UNKNOWN DNA" = "X*"))
@@ -412,7 +412,7 @@
 /mob/living/silicon/robot/add_splatter_floor(turf/T, small_drip)
 	if(!T)
 		T = get_turf(src)
-	var/obj/effect/decal/cleanable/oil/B = locate() in T.contents
+	var/obj/effect/decal/cleanable/vital/robotic/oil/B = locate() in T.contents
 	if(!B)
 		B = new(T)
 

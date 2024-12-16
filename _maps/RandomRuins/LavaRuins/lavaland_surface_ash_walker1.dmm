@@ -127,7 +127,7 @@
 /obj/structure/stone_tile{
 	dir = 4
 	},
-/obj/effect/decal/cleanable/blood,
+/obj/effect/decal/cleanable/vital/organic/blood,
 /turf/open/indestructible/boss,
 /area/ruin/unpowered/ash_walkers)
 "ax" = (
@@ -228,7 +228,7 @@
 /obj/structure/stone_tile{
 	dir = 4
 	},
-/obj/effect/decal/cleanable/blood,
+/obj/effect/decal/cleanable/vital/organic/blood,
 /turf/open/indestructible/boss,
 /area/ruin/unpowered/ash_walkers)
 "aT" = (
@@ -413,7 +413,7 @@
 	dir = 8
 	},
 /obj/structure/stone_tile,
-/obj/effect/decal/cleanable/blood,
+/obj/effect/decal/cleanable/vital/organic/blood,
 /turf/open/indestructible/boss,
 /area/ruin/unpowered/ash_walkers)
 "bt" = (
@@ -446,7 +446,7 @@
 /area/ruin/unpowered/ash_walkers)
 "bx" = (
 /obj/structure/stone_tile/slab/cracked,
-/obj/effect/decal/cleanable/blood,
+/obj/effect/decal/cleanable/vital/organic/blood,
 /turf/open/indestructible/boss,
 /area/ruin/unpowered/ash_walkers)
 "by" = (
@@ -503,7 +503,7 @@
 	dir = 8
 	},
 /obj/structure/fans/tiny/invisible,
-/obj/effect/decal/cleanable/blood,
+/obj/effect/decal/cleanable/vital/organic/blood,
 /turf/open/indestructible/boss,
 /area/ruin/unpowered/ash_walkers)
 "bI" = (
@@ -704,7 +704,7 @@
 	dir = 8
 	},
 /obj/structure/stone_tile/cracked,
-/obj/effect/decal/cleanable/blood,
+/obj/effect/decal/cleanable/vital/organic/blood,
 /obj/effect/mapping_helpers/no_lava,
 /turf/open/misc/asteroid/basalt/lava_land_surface,
 /area/lavaland/surface/outdoors)
@@ -753,7 +753,7 @@
 /obj/structure/stone_tile/cracked{
 	dir = 8
 	},
-/obj/effect/decal/cleanable/blood,
+/obj/effect/decal/cleanable/vital/organic/blood,
 /obj/item/crusher_trophy/retool_kit/ashenskull,
 /turf/open/misc/asteroid/basalt/lava_land_surface,
 /area/ruin/unpowered/ash_walkers)
@@ -774,14 +774,14 @@
 /area/ruin/unpowered/ash_walkers)
 "mL" = (
 /obj/effect/mob_spawn/corpse/human/damaged,
-/obj/effect/decal/cleanable/blood,
+/obj/effect/decal/cleanable/vital/organic/blood,
 /obj/structure/stone_tile/cracked{
 	dir = 1
 	},
 /turf/open/misc/asteroid/basalt/lava_land_surface,
 /area/lavaland/surface/outdoors)
 "nB" = (
-/obj/effect/decal/cleanable/blood,
+/obj/effect/decal/cleanable/vital/organic/blood,
 /obj/structure/stone_tile/block,
 /obj/structure/stone_tile/cracked{
 	dir = 4
@@ -830,7 +830,7 @@
 /area/ruin/unpowered/ash_walkers)
 "qw" = (
 /obj/structure/stone_tile/slab,
-/obj/effect/decal/cleanable/blood,
+/obj/effect/decal/cleanable/vital/organic/blood,
 /obj/effect/mapping_helpers/no_lava,
 /turf/open/misc/asteroid/basalt/lava_land_surface,
 /area/lavaland/surface/outdoors)
@@ -896,7 +896,7 @@
 	dir = 8
 	},
 /obj/structure/stone_tile/center,
-/obj/effect/decal/cleanable/blood,
+/obj/effect/decal/cleanable/vital/organic/blood,
 /obj/effect/mapping_helpers/no_lava,
 /turf/open/misc/asteroid/basalt/lava_land_surface,
 /area/lavaland/surface/outdoors)
@@ -989,7 +989,7 @@
 	dir = 8
 	},
 /obj/effect/mob_spawn/corpse/human/damaged,
-/obj/effect/decal/cleanable/blood,
+/obj/effect/decal/cleanable/vital/organic/blood,
 /obj/structure/stone_tile/cracked{
 	dir = 1
 	},
@@ -1072,7 +1072,7 @@
 /turf/open/misc/asteroid/basalt/lava_land_surface,
 /area/ruin/unpowered/ash_walkers)
 "Dx" = (
-/obj/effect/decal/cleanable/blood,
+/obj/effect/decal/cleanable/vital/organic/blood,
 /obj/structure/stone_tile/cracked{
 	dir = 8
 	},
@@ -1205,7 +1205,7 @@
 /obj/structure/stone_tile{
 	dir = 8
 	},
-/obj/effect/decal/cleanable/blood,
+/obj/effect/decal/cleanable/vital/organic/blood,
 /turf/open/misc/asteroid/basalt/lava_land_surface,
 /area/ruin/unpowered/ash_walkers)
 "If" = (

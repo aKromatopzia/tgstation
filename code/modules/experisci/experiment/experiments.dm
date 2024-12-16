@@ -58,7 +58,7 @@
 	name = "Station Hygiene Inspection"
 	description = "To learn how to clean, we must first learn what it is to have filth. We need you to scan some filth around the station."
 	possible_types = list(/obj/effect/decal/cleanable/vomit,
-	/obj/effect/decal/cleanable/blood)
+	/obj/effect/decal/cleanable/vital/organic/blood)
 	total_requirement = 3
 
 /datum/experiment/ordnance/explosive/lowyieldbomb

@@ -194,11 +194,11 @@
 /obj/effect/turf_decal/siding/thinplating_new/dark{
 	dir = 1
 	},
-/obj/effect/decal/cleanable/blood/drip,
-/obj/effect/decal/cleanable/blood/drip{
+/obj/effect/decal/cleanable/vital/organic/blood/drip,
+/obj/effect/decal/cleanable/vital/organic/blood/drip{
 	icon_state = "bloodyhands_left"
 	},
-/obj/effect/decal/cleanable/blood/drip{
+/obj/effect/decal/cleanable/vital/organic/blood/drip{
 	icon_state = "drip1"
 	},
 /turf/open/misc/snow,

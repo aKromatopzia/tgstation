@@ -281,7 +281,7 @@
 	AddComponent(/datum/component/squeak, meat_sounds)
 	AddComponent(
 		/datum/component/blood_walk,\
-		blood_type = /obj/effect/decal/cleanable/blood,\
+		blood_type = /obj/effect/decal/cleanable/vital/organic/blood,\
 		blood_spawn_chance = 15,\
 		max_blood = custom_materials[custom_materials[1]] / SHEET_MATERIAL_AMOUNT,\
 	)

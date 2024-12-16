@@ -203,7 +203,7 @@
 /turf/open/water,
 /area/deathmatch)
 "oo" = (
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /turf/open/floor/engine/cult,
 /area/deathmatch)
 "oy" = (
@@ -332,7 +332,7 @@
 /turf/open/floor/bamboo/tatami,
 /area/deathmatch)
 "ut" = (
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /obj/item/clothing/shoes/cult/alt,
 /turf/open/floor/engine/cult,
 /area/deathmatch)
@@ -432,7 +432,7 @@
 /turf/open/floor/stone,
 /area/deathmatch)
 "zb" = (
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /obj/item/bedsheet/cult,
 /turf/open/floor/engine/cult,
 /area/deathmatch)
@@ -639,7 +639,7 @@
 /turf/open/misc/dirt/station,
 /area/deathmatch)
 "PF" = (
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /obj/structure/statue/bone/rib{
 	dir = 8
 	},

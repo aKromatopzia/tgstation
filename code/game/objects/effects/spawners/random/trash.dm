@@ -138,7 +138,7 @@
 		/obj/effect/decal/cleanable/dirt = 6,
 		/obj/effect/decal/cleanable/garbage = 3,
 		/obj/effect/decal/cleanable/vomit/old = 3,
-		/obj/effect/decal/cleanable/blood/gibs/old = 3,
+		/obj/effect/decal/cleanable/vital/organic/gibs/old = 3,
 		/obj/effect/decal/cleanable/insectguts = 1,
 		/obj/effect/decal/cleanable/greenglow/ecto = 1,
 		/obj/effect/decal/cleanable/wrapping = 1,
@@ -177,7 +177,7 @@
 		/mob/living/basic/frog = 2,
 		/obj/item/reagent_containers/cup/rag = 2,
 		/obj/item/reagent_containers/cup/bucket = 2,
-		/obj/effect/decal/cleanable/blood/old = 2,
+		/obj/effect/decal/cleanable/vital/organic/blood/old = 2,
 		/obj/structure/mop_bucket = 2,
 		/mob/living/basic/axolotl = 1,
 	)

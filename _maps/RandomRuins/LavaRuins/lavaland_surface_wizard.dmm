@@ -43,7 +43,7 @@
 /obj/structure/stone_tile{
 	dir = 4
 	},
-/obj/effect/decal/cleanable/blood,
+/obj/effect/decal/cleanable/vital/organic/blood,
 /turf/open/indestructible/boss,
 /area/lavaland/surface/outdoors)
 "h" = (
@@ -127,7 +127,7 @@
 /obj/structure/stone_tile{
 	dir = 4
 	},
-/obj/effect/decal/cleanable/blood,
+/obj/effect/decal/cleanable/vital/organic/blood,
 /turf/open/indestructible/boss,
 /area/lavaland/surface/outdoors)
 "p" = (
@@ -252,7 +252,7 @@
 	dir = 8
 	},
 /obj/structure/stone_tile,
-/obj/effect/decal/cleanable/blood,
+/obj/effect/decal/cleanable/vital/organic/blood,
 /turf/open/indestructible/boss,
 /area/lavaland/surface/outdoors)
 "C" = (
@@ -297,7 +297,7 @@
 	dir = 8
 	},
 /obj/structure/fans/tiny/invisible,
-/obj/effect/decal/cleanable/blood,
+/obj/effect/decal/cleanable/vital/organic/blood,
 /turf/open/indestructible/boss,
 /area/lavaland/surface/outdoors)
 "I" = (

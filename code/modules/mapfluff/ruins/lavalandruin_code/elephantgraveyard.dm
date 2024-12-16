@@ -128,7 +128,7 @@
 		return ..()
 
 /obj/structure/sink/oil_well/drop_materials()
-	new /obj/effect/decal/cleanable/oil(loc)
+	new /obj/effect/decal/cleanable/vital/robotic/oil(loc)
 
 //***Grave mounds.
 /// has no items inside unless you use the filled subtype
@@ -330,7 +330,7 @@
 
 /obj/structure/closet/crate/grave/filled/lead_researcher/PopulateContents()  //ADVANCED GRAVEROBBING
 	..()
-	new /obj/effect/decal/cleanable/blood/gibs/old(src)
+	new /obj/effect/decal/cleanable/vital/organic/gibs/old(src)
 	new /obj/item/book/granter/crafting_recipe/boneyard_notes(src)
 
 //***Fluff items for lore/intrigue

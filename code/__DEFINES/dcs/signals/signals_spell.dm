@@ -88,7 +88,7 @@
 
 /// Sent from/datum/action/cooldown/spell/jaunt/bloodcrawl/slaughter_demon/try_enter_jaunt,
 /// to any unconscious / critical mobs being dragged when the jaunter enters blood:
-/// (datum/action/cooldown/spell/jaunt/bloodcrawl/crawl, mob/living/jaunter, obj/effect/decal/cleanable/blood)
+/// (datum/action/cooldown/spell/jaunt/bloodcrawl/crawl, mob/living/jaunter, obj/effect/decal/cleanable/vital/organic/blood)
 #define COMSIG_LIVING_BLOOD_CRAWL_PRE_CONSUMED "living_pre_consumed_by_bloodcrawl"
 /// Sent from/datum/action/cooldown/spell/jaunt/bloodcrawl/slaughter_demon/consume_victim,
 /// to the victim being consumed by the slaughter demon.

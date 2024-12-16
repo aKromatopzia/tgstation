@@ -436,15 +436,15 @@
 /turf/open/floor/iron/co2_pressurized,
 /area/ruin/space/has_grav/atmosasteroid)
 "Ft" = (
-/obj/effect/decal/cleanable/blood/gibs/core{
+/obj/effect/decal/cleanable/vital/organic/gibs/core{
 	pixel_x = -12;
 	pixel_y = 15
 	},
-/obj/effect/decal/cleanable/blood/gibs,
-/obj/effect/decal/cleanable/blood/gibs/up{
+/obj/effect/decal/cleanable/vital/organic/gibs,
+/obj/effect/decal/cleanable/vital/organic/gibs/up{
 	pixel_y = 10
 	},
-/obj/effect/decal/cleanable/blood/gibs/down{
+/obj/effect/decal/cleanable/vital/organic/gibs/down{
 	pixel_y = -6
 	},
 /turf/open/floor/iron/co2_pressurized,
@@ -527,7 +527,7 @@
 /turf/open/floor/iron/co2_pressurized,
 /area/ruin/space/has_grav/atmosasteroid)
 "Mt" = (
-/obj/effect/decal/cleanable/blood/gibs/core,
+/obj/effect/decal/cleanable/vital/organic/gibs/core,
 /obj/effect/turf_decal/stripes/corner{
 	dir = 8
 	},
@@ -653,7 +653,7 @@
 /turf/open/misc/asteroid,
 /area/ruin/space/has_grav/atmosasteroid)
 "Sy" = (
-/obj/effect/decal/cleanable/blood/gibs{
+/obj/effect/decal/cleanable/vital/organic/gibs{
 	pixel_y = 8;
 	pixel_x = -6
 	},

@@ -705,7 +705,7 @@
 	below_us.add_mob_blood(crushed)
 
 	AddComponent(/datum/component/blood_walk, \
-		blood_type = /obj/effect/decal/cleanable/blood/tracks, \
+		blood_type = /obj/effect/decal/cleanable/vital/organic/blood/tracks, \
 		target_dir_change = TRUE, \
 		transfer_blood_dna = TRUE, \
 		max_blood = 4)
@@ -757,7 +757,7 @@
 		cell.forceMove(Tsec)
 		cell = null
 
-	new /obj/effect/decal/cleanable/oil(loc)
+	new /obj/effect/decal/cleanable/vital/robotic/oil(loc)
 	return ..()
 
 /mob/living/simple_animal/bot/mulebot/remove_air(amount) //To prevent riders suffocating

@@ -205,7 +205,7 @@
 /area/station/maintenance/department/medical)
 "vz" = (
 /obj/effect/decal/cleanable/dirt,
-/obj/effect/decal/cleanable/blood/drip,
+/obj/effect/decal/cleanable/vital/organic/blood/drip,
 /obj/structure/closet/emcloset,
 /turf/open/floor/iron/smooth,
 /area/station/maintenance/department/medical)
@@ -366,7 +366,7 @@
 /area/station/maintenance/department/medical)
 "EH" = (
 /obj/effect/decal/cleanable/dirt,
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /obj/effect/mapping_helpers/broken_floor,
 /turf/open/floor/plating,
 /area/station/maintenance/department/medical)
@@ -592,10 +592,10 @@
 "Zt" = (
 /obj/effect/decal/cleanable/dirt,
 /obj/effect/mapping_helpers/broken_floor,
-/obj/effect/decal/cleanable/blood/drip,
+/obj/effect/decal/cleanable/vital/organic/blood/drip,
 /obj/structure/table_frame,
 /obj/item/stack/sheet/iron,
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /turf/open/floor/iron/smooth,
 /area/station/maintenance/department/medical)
 

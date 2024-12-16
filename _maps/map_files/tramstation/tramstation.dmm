@@ -3063,7 +3063,7 @@
 /obj/effect/turf_decal/trimline/yellow/warning{
 	dir = 8
 	},
-/obj/effect/decal/cleanable/oil,
+/obj/effect/decal/cleanable/vital/robotic/oil,
 /obj/item/clothing/glasses/welding,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
@@ -6868,7 +6868,7 @@
 /area/station/science/ordnance/storage)
 "bqY" = (
 /obj/effect/turf_decal/sand/plating,
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /obj/effect/turf_decal/box,
 /obj/structure/sign/warning/directional/west{
 	name = "FALLING HAZARD sign";
@@ -11208,7 +11208,7 @@
 	name = "inactive propulsion engine";
 	desc = "A standard reliable bluespace engine used by many forms of shuttles. This one has the bluespace core removed."
 	},
-/obj/effect/decal/cleanable/oil,
+/obj/effect/decal/cleanable/vital/robotic/oil,
 /obj/machinery/atmospherics/components/unary/vent_scrubber/on/layer2{
 	dir = 4
 	},
@@ -26203,7 +26203,7 @@
 /area/station/asteroid)
 "itH" = (
 /obj/effect/decal/cleanable/dirt,
-/obj/effect/decal/cleanable/oil/slippery,
+/obj/effect/decal/cleanable/vital/robotic/oil/slippery,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /turf/open/floor/iron/smooth,
 /area/station/security/mechbay)
@@ -34921,7 +34921,7 @@
 /obj/effect/turf_decal/tile/neutral/tram,
 /obj/effect/spawner/random{
 	name = "funny slipper :)";
-	loot = list(/obj/effect/decal/cleanable/oil/slippery=10, /obj/effect/decal/cleanable/oil=90)
+	loot = list(/obj/effect/decal/cleanable/vital/robotic/oil/slippery=10, /obj/effect/decal/cleanable/vital/robotic/oil=90)
 	},
 /turf/open/floor/tram/plate,
 /area/station/hallway/primary/tram/left)
@@ -36589,7 +36589,7 @@
 	dir = 1
 	},
 /obj/structure/extinguisher_cabinet/directional/west,
-/obj/effect/decal/cleanable/oil/streak,
+/obj/effect/decal/cleanable/vital/robotic/oil/streak,
 /obj/effect/landmark/start/bitrunner,
 /obj/machinery/camera/autoname/directional/west,
 /turf/open/floor/iron/dark/textured_large,
@@ -37438,7 +37438,7 @@
 /area/station/science/lobby)
 "mez" = (
 /obj/effect/decal/cleanable/dirt,
-/obj/effect/decal/cleanable/oil/slippery,
+/obj/effect/decal/cleanable/vital/robotic/oil/slippery,
 /obj/structure/reagent_dispensers/fueltank,
 /turf/open/floor/iron/smooth,
 /area/station/security/mechbay)
@@ -38956,7 +38956,7 @@
 /obj/item/clothing/shoes/clown_shoes,
 /obj/item/clothing/under/rank/civilian/clown,
 /obj/item/clothing/mask/gas/clown_hat,
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /turf/open/misc/asteroid/airless,
 /area/station/asteroid)
 "mHX" = (
@@ -39628,7 +39628,7 @@
 "mXo" = (
 /obj/structure/kitchenspike,
 /obj/effect/turf_decal/weather/snow,
-/obj/effect/decal/cleanable/blood/splatter,
+/obj/effect/decal/cleanable/vital/organic/blood/splatter,
 /turf/open/floor/iron/kitchen_coldroom,
 /area/station/service/kitchen/coldroom)
 "mXt" = (
@@ -41522,7 +41522,7 @@
 /area/station/hallway/secondary/service)
 "nDY" = (
 /obj/effect/decal/cleanable/dirt,
-/obj/effect/decal/cleanable/oil/slippery,
+/obj/effect/decal/cleanable/vital/robotic/oil/slippery,
 /turf/open/floor/iron/smooth,
 /area/station/maintenance/port/central)
 "nEc" = (
@@ -45237,7 +45237,7 @@
 /turf/open/floor/iron,
 /area/station/hallway/secondary/entry)
 "pbw" = (
-/obj/effect/decal/cleanable/oil/streak,
+/obj/effect/decal/cleanable/vital/robotic/oil/streak,
 /obj/structure/sign/poster/random/directional/north,
 /obj/machinery/power/apc/auto_name/directional/west,
 /obj/structure/cable,
@@ -59578,7 +59578,7 @@
 /obj/effect/turf_decal/tile/neutral/tram,
 /obj/effect/spawner/random{
 	name = "funny slipper :)";
-	loot = list(/obj/effect/decal/cleanable/oil/slippery=10, /obj/effect/decal/cleanable/oil=90)
+	loot = list(/obj/effect/decal/cleanable/vital/robotic/oil/slippery=10, /obj/effect/decal/cleanable/vital/robotic/oil=90)
 	},
 /turf/open/floor/tram/plate,
 /area/station/hallway/primary/tram/right)
@@ -60314,7 +60314,7 @@
 "ulJ" = (
 /obj/effect/decal/cleanable/dirt,
 /obj/structure/bed/maint,
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /obj/structure/fluff/paper/stack{
 	dir = 1
 	},

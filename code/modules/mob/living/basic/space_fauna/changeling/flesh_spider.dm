@@ -53,7 +53,7 @@
 	AddElement(/datum/element/prevent_attacking_of_types, GLOB.typecache_general_bad_hostile_attack_targets, "this tastes awful!")
 	AddComponent(\
 		/datum/component/blood_walk,\
-		blood_type = /obj/effect/decal/cleanable/blood/bubblegum,\
+		blood_type = /obj/effect/decal/cleanable/vital/organic/blood/bubblegum,\
 		blood_spawn_chance = 5,\
 	)
 	AddComponent(\

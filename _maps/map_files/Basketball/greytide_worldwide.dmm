@@ -177,7 +177,7 @@
 /area/centcom/basketball)
 "ku" = (
 /obj/effect/decal/cleanable/dirt,
-/obj/effect/decal/cleanable/oil,
+/obj/effect/decal/cleanable/vital/robotic/oil,
 /obj/effect/spawner/random/structure/chair_maintenance{
 	dir = 1
 	},
@@ -269,7 +269,7 @@
 /turf/open/floor/plating,
 /area/centcom/basketball)
 "qQ" = (
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /obj/effect/landmark/basketball/team_spawn/home,
 /turf/open/floor/plating,
 /area/centcom/basketball)
@@ -340,7 +340,7 @@
 /turf/open/floor/plating,
 /area/centcom/basketball)
 "wZ" = (
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /obj/effect/turf_decal/trimline/white/warning{
 	dir = 1
 	},
@@ -393,7 +393,7 @@
 /area/centcom/basketball)
 "AU" = (
 /obj/item/storage/toolbox/emergency,
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /obj/effect/decal/cleanable/dirt,
 /obj/effect/spawner/random/trash/graffiti{
 	pixel_y = -32
@@ -419,7 +419,7 @@
 /turf/closed/indestructible/fakeglass,
 /area/centcom/basketball)
 "CD" = (
-/obj/effect/decal/cleanable/oil,
+/obj/effect/decal/cleanable/vital/robotic/oil,
 /turf/open/floor/plating,
 /area/centcom/basketball)
 "De" = (
@@ -453,7 +453,7 @@
 /turf/open/floor/plating,
 /area/centcom/basketball)
 "FA" = (
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /obj/effect/decal/cleanable/dirt,
 /obj/effect/turf_decal/trimline/white/warning{
 	dir = 8
@@ -482,7 +482,7 @@
 /area/centcom/basketball)
 "HH" = (
 /obj/effect/decal/cleanable/dirt,
-/obj/effect/decal/cleanable/oil,
+/obj/effect/decal/cleanable/vital/robotic/oil,
 /turf/open/floor/plating,
 /area/centcom/basketball)
 "Ic" = (
@@ -639,7 +639,7 @@
 /turf/open/floor/plating,
 /area/centcom/basketball)
 "TV" = (
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /turf/open/floor/plating,
 /area/centcom/basketball)
 "Uq" = (

@@ -14,7 +14,7 @@
 /turf/open/floor/iron/checker/airless,
 /area/ruin)
 "ef" = (
-/obj/effect/decal/cleanable/blood/tracks,
+/obj/effect/decal/cleanable/vital/organic/blood/tracks,
 /obj/item/grown/bananapeel,
 /turf/open/floor/iron/checker/airless,
 /area/ruin)
@@ -76,13 +76,13 @@
 /obj/machinery/atmospherics/components/unary/passive_vent{
 	dir = 4
 	},
-/obj/effect/decal/cleanable/blood/gibs,
+/obj/effect/decal/cleanable/vital/organic/gibs,
 /obj/machinery/light/small/broken/directional/south,
 /obj/item/ammo_casing/c357/spent,
 /turf/open/floor/iron/checker/airless,
 /area/ruin)
 "uc" = (
-/obj/effect/decal/cleanable/blood/footprints{
+/obj/effect/decal/cleanable/vital/organic/blood/footprints{
 	dir = 4
 	},
 /obj/item/ammo_casing/c357/spent{
@@ -95,7 +95,7 @@
 /turf/open/floor/plating/airless,
 /area/ruin)
 "ve" = (
-/obj/effect/decal/cleanable/blood/gibs/core,
+/obj/effect/decal/cleanable/vital/organic/gibs/core,
 /turf/open/floor/iron/checker/airless,
 /area/ruin)
 "vj" = (
@@ -111,7 +111,7 @@
 /obj/item/paper{
 	name = "A MESSAGE TO THE CLOWNS"
 	},
-/obj/effect/decal/cleanable/blood/tracks{
+/obj/effect/decal/cleanable/vital/organic/blood/tracks{
 	dir = 5
 	},
 /turf/open/floor/iron/checker/airless,
@@ -148,7 +148,7 @@
 /obj/item/clothing/mask/gas/clown_hat{
 	pixel_y = 39
 	},
-/obj/effect/decal/cleanable/blood/gibs/body,
+/obj/effect/decal/cleanable/vital/organic/gibs/body,
 /turf/open/floor/iron/checker/airless,
 /area/ruin)
 "AK" = (
@@ -160,7 +160,7 @@
 /turf/open/floor/iron/checker/airless,
 /area/ruin)
 "CH" = (
-/obj/effect/decal/cleanable/blood/footprints{
+/obj/effect/decal/cleanable/vital/organic/blood/footprints{
 	dir = 4
 	},
 /obj/effect/decal/cleanable/dirt,
@@ -174,7 +174,7 @@
 /turf/open/floor/iron/checker/airless,
 /area/ruin)
 "ED" = (
-/obj/effect/decal/cleanable/blood/tracks{
+/obj/effect/decal/cleanable/vital/organic/blood/tracks{
 	dir = 10
 	},
 /turf/open/floor/iron/checker/airless,
@@ -200,16 +200,16 @@
 /turf/open/floor/iron/checker/airless,
 /area/ruin)
 "GR" = (
-/obj/effect/decal/cleanable/blood,
+/obj/effect/decal/cleanable/vital/organic/blood,
 /obj/effect/mob_spawn/corpse/human/clown,
-/obj/effect/decal/cleanable/blood/footprints,
+/obj/effect/decal/cleanable/vital/organic/blood/footprints,
 /obj/effect/decal/cleanable/dirt,
 /obj/item/ammo_casing/c357/spent,
 /turf/open/floor/plating/airless,
 /area/ruin)
 "Ij" = (
 /obj/machinery/door/airlock/glass,
-/obj/effect/decal/cleanable/blood/splatter,
+/obj/effect/decal/cleanable/vital/organic/blood/splatter,
 /turf/open/floor/plating/airless,
 /area/ruin)
 "Jz" = (
@@ -217,18 +217,18 @@
 /area/ruin)
 "JK" = (
 /obj/machinery/atmospherics/components/unary/vent_scrubber,
-/obj/effect/decal/cleanable/blood/gibs/up,
+/obj/effect/decal/cleanable/vital/organic/gibs/up,
 /turf/open/floor/plating/airless,
 /area/ruin)
 "JW" = (
-/obj/effect/decal/cleanable/blood/tracks,
+/obj/effect/decal/cleanable/vital/organic/blood/tracks,
 /turf/open/floor/plating/airless,
 /area/ruin)
 "Kh" = (
 /obj/machinery/light/broken/directional/north,
 /obj/effect/mob_spawn/corpse/human/clown,
-/obj/effect/decal/cleanable/blood/drip,
-/obj/effect/decal/cleanable/blood/tracks,
+/obj/effect/decal/cleanable/vital/organic/blood/drip,
+/obj/effect/decal/cleanable/vital/organic/blood/tracks,
 /turf/open/floor/iron/checker/airless,
 /area/ruin)
 "Kr" = (
@@ -261,7 +261,7 @@
 /turf/closed/wall,
 /area/ruin)
 "Sc" = (
-/obj/effect/decal/cleanable/blood/footprints{
+/obj/effect/decal/cleanable/vital/organic/blood/footprints{
 	dir = 4
 	},
 /turf/open/floor/iron/checker/airless,
@@ -269,7 +269,7 @@
 "Vj" = (
 /obj/effect/spawner/structure/window/reinforced,
 /obj/effect/mapping_helpers/damaged_window,
-/obj/effect/decal/cleanable/blood/splatter/over_window,
+/obj/effect/decal/cleanable/vital/organic/blood/splatter/over_window,
 /turf/open/floor/plating/airless,
 /area/ruin)
 "XA" = (

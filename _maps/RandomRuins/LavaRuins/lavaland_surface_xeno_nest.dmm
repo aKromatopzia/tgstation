@@ -43,7 +43,7 @@
 "o" = (
 /obj/structure/alien/weeds,
 /obj/structure/bed/nest,
-/obj/effect/decal/cleanable/blood/gibs,
+/obj/effect/decal/cleanable/vital/organic/gibs,
 /obj/item/gun/ballistic/automatic/pistol,
 /turf/open/misc/asteroid/basalt/lava_land_surface,
 /area/ruin/unpowered/xenonest)
@@ -60,12 +60,12 @@
 /area/ruin/unpowered/xenonest)
 "u" = (
 /obj/structure/alien/weeds,
-/obj/effect/decal/cleanable/blood/gibs,
+/obj/effect/decal/cleanable/vital/organic/gibs,
 /turf/open/misc/asteroid/basalt/lava_land_surface,
 /area/ruin/unpowered/xenonest)
 "v" = (
 /obj/structure/alien/weeds/node,
-/obj/effect/decal/cleanable/blood,
+/obj/effect/decal/cleanable/vital/organic/blood,
 /turf/open/misc/asteroid/basalt/lava_land_surface,
 /area/ruin/unpowered/xenonest)
 "w" = (
@@ -82,7 +82,7 @@
 "z" = (
 /obj/structure/alien/weeds,
 /obj/structure/bed/nest,
-/obj/effect/decal/cleanable/blood/gibs,
+/obj/effect/decal/cleanable/vital/organic/gibs,
 /obj/item/clothing/under/rank/security/officer,
 /obj/item/clothing/suit/armor/vest,
 /obj/item/melee/baton/security/loaded,
@@ -92,13 +92,13 @@
 "B" = (
 /obj/structure/alien/weeds,
 /obj/structure/alien/egg/burst,
-/obj/effect/decal/cleanable/blood/gibs,
+/obj/effect/decal/cleanable/vital/organic/gibs,
 /turf/open/misc/asteroid/basalt/lava_land_surface,
 /area/ruin/unpowered/xenonest)
 "C" = (
 /obj/structure/alien/weeds,
 /obj/structure/alien/egg/burst,
-/obj/effect/decal/cleanable/blood,
+/obj/effect/decal/cleanable/vital/organic/blood,
 /turf/open/misc/asteroid/basalt/lava_land_surface,
 /area/ruin/unpowered/xenonest)
 "E" = (
@@ -123,14 +123,14 @@
 /area/lavaland/surface/outdoors)
 "H" = (
 /obj/structure/alien/weeds,
-/obj/effect/decal/cleanable/blood,
+/obj/effect/decal/cleanable/vital/organic/blood,
 /turf/open/misc/asteroid/basalt/lava_land_surface,
 /area/ruin/unpowered/xenonest)
 "I" = (
 /obj/structure/alien/weeds,
 /obj/structure/bed/nest,
-/obj/effect/decal/cleanable/blood/gibs,
-/obj/effect/decal/cleanable/blood,
+/obj/effect/decal/cleanable/vital/organic/gibs,
+/obj/effect/decal/cleanable/vital/organic/blood,
 /obj/item/clothing/under/syndicate,
 /obj/item/clothing/glasses/night,
 /turf/open/misc/asteroid/basalt/lava_land_surface,
@@ -150,7 +150,7 @@
 "M" = (
 /obj/structure/alien/weeds,
 /obj/structure/bed/nest,
-/obj/effect/decal/cleanable/blood/gibs,
+/obj/effect/decal/cleanable/vital/organic/gibs,
 /obj/item/tank/internals/oxygen,
 /obj/item/clothing/suit/space/syndicate/orange,
 /obj/item/clothing/mask/gas,
@@ -159,7 +159,7 @@
 /area/ruin/unpowered/xenonest)
 "Q" = (
 /obj/structure/alien/weeds,
-/obj/effect/decal/cleanable/blood,
+/obj/effect/decal/cleanable/vital/organic/blood,
 /mob/living/basic/alien/drone{
 	can_plant_weeds = 0
 	},

@@ -449,7 +449,7 @@
 /turf/open/misc/asteroid/airless,
 /area/ruin/space)
 "lI" = (
-/obj/effect/decal/cleanable/blood/tracks{
+/obj/effect/decal/cleanable/vital/organic/blood/tracks{
 	dir = 5
 	},
 /turf/open/floor/engine,
@@ -1061,7 +1061,7 @@
 /obj/effect/turf_decal/siding/wood{
 	dir = 1
 	},
-/obj/effect/decal/cleanable/oil,
+/obj/effect/decal/cleanable/vital/robotic/oil,
 /turf/open/floor/wood,
 /area/ruin/space/has_grav/powered/hilbertresearchfacility)
 "zM" = (
@@ -1520,7 +1520,7 @@
 	dir = 8
 	},
 /obj/structure/railing/corner,
-/obj/effect/decal/cleanable/oil,
+/obj/effect/decal/cleanable/vital/robotic/oil,
 /turf/open/floor/glass,
 /area/ruin/space/has_grav/powered/hilbertresearchfacility)
 "IY" = (
@@ -1572,14 +1572,14 @@
 /area/ruin/space/has_grav/powered/hilbertresearchfacility)
 "JM" = (
 /obj/structure/fluff/tram_rail/anchor,
-/obj/effect/decal/cleanable/blood/tracks{
+/obj/effect/decal/cleanable/vital/organic/blood/tracks{
 	dir = 4
 	},
 /turf/open/floor/engine,
 /area/ruin/space/has_grav/powered/hilbertresearchfacility)
 "JR" = (
 /obj/structure/fluff/tram_rail,
-/obj/effect/decal/cleanable/blood/tracks{
+/obj/effect/decal/cleanable/vital/organic/blood/tracks{
 	dir = 4
 	},
 /turf/open/floor/engine,
@@ -1647,7 +1647,7 @@
 /area/ruin/space/has_grav/powered/hilbertresearchfacility)
 "Mf" = (
 /obj/structure/girder/reinforced,
-/obj/effect/decal/cleanable/blood/tracks,
+/obj/effect/decal/cleanable/vital/organic/blood/tracks,
 /turf/open/floor/engine,
 /area/ruin/space/has_grav/powered/hilbertresearchfacility)
 "Mv" = (
@@ -1850,7 +1850,7 @@
 /turf/open/floor/wood,
 /area/ruin/space/has_grav/powered/hilbertresearchfacility)
 "Rg" = (
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /turf/open/floor/plating,
 /area/ruin/space/has_grav/powered/hilbertresearchfacility)
 "Rj" = (
@@ -2019,7 +2019,7 @@
 	dir = 1
 	},
 /obj/effect/turf_decal/siding/wood,
-/obj/effect/decal/cleanable/oil,
+/obj/effect/decal/cleanable/vital/robotic/oil,
 /turf/open/floor/wood,
 /area/ruin/space/has_grav/powered/hilbertresearchfacility)
 "To" = (
@@ -2154,7 +2154,7 @@
 "WA" = (
 /obj/item/storage/bag/trash/bluespace,
 /mob/living/basic/mouse/rat,
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /turf/open/floor/plating,
 /area/ruin/space/has_grav/powered/hilbertresearchfacility)
 "WC" = (

@@ -19,7 +19,7 @@
 	var/transfer_blood_dna
 
 /datum/component/blood_walk/Initialize(
-	blood_type = /obj/effect/decal/cleanable/blood,
+	blood_type = /obj/effect/decal/cleanable/vital/organic/blood,
 	sound_played,
 	sound_volume = 80,
 	blood_spawn_chance = 100,
@@ -49,7 +49,7 @@
 /datum/component/blood_walk/InheritComponent(
 	datum/component/pricetag/new_comp,
 	i_am_original,
-	blood_type = /obj/effect/decal/cleanable/blood,
+	blood_type = /obj/effect/decal/cleanable/vital/organic/blood,
 	sound_played,
 	sound_volume = 80,
 	blood_spawn_chance = 100,
@@ -79,7 +79,7 @@
 	if(!prob(blood_spawn_chance))
 		return
 
-	var/obj/effect/decal/cleanable/blood/blood = new blood_type(current_turf)
+	var/obj/effect/decal/cleanable/vital/organic/blood/blood = new blood_type(current_turf)
 	if(QDELETED(blood)) // Our blood was placed on somewhere it shouldn't be and qdeleted in init.
 		return
 

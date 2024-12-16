@@ -44,12 +44,12 @@
 /datum/action/cooldown/spell/jaunt/bloodcrawl/cast(mob/living/cast_on)
 	. = ..()
 	// Should always return something because we checked that in can_cast_spell before arriving here
-	var/obj/effect/decal/cleanable/blood_nearby = find_nearby_blood(get_turf(cast_on))
+	var/obj/effect/decal/cleanable/vital/organic/blood_nearby = find_nearby_blood(get_turf(cast_on))
 	do_bloodcrawl(blood_nearby, cast_on)
 
 /// Returns a nearby blood decal, or null if there aren't any
 /datum/action/cooldown/spell/jaunt/bloodcrawl/proc/find_nearby_blood(turf/origin)
-	for(var/obj/effect/decal/cleanable/blood_nearby in range(blood_radius, origin))
+	for(var/obj/effect/decal/cleanable/vital/organic/blood_nearby in range(blood_radius, origin))
 		if(blood_nearby.can_bloodcrawl_in())
 			return blood_nearby
 	return null
@@ -58,7 +58,7 @@
  * Attempts to enter or exit the passed blood pool.
  * Returns TRUE if we successfully entered or exited said pool, FALSE otherwise
  */
-/datum/action/cooldown/spell/jaunt/bloodcrawl/proc/do_bloodcrawl(obj/effect/decal/cleanable/blood, mob/living/jaunter)
+/datum/action/cooldown/spell/jaunt/bloodcrawl/proc/do_bloodcrawl(obj/effect/decal/cleanable/vital/organic/blood, mob/living/jaunter)
 	if(is_jaunting(jaunter))
 		. = try_exit_jaunt(blood, jaunter)
 	else
@@ -72,7 +72,7 @@
  * Attempts to enter the passed blood pool.
  * If forced is TRUE, it will override enter_blood_time.
  */
-/datum/action/cooldown/spell/jaunt/bloodcrawl/proc/try_enter_jaunt(obj/effect/decal/cleanable/blood, mob/living/jaunter, forced = FALSE)
+/datum/action/cooldown/spell/jaunt/bloodcrawl/proc/try_enter_jaunt(obj/effect/decal/cleanable/vital/organic/blood, mob/living/jaunter, forced = FALSE)
 	if(!forced)
 		if(enter_blood_time > 0 SECONDS)
 			blood.visible_message(span_warning("[jaunter] starts to sink into [blood]!"))
@@ -111,7 +111,7 @@
  * Attempts to Exit the passed blood pool.
  * If forced is TRUE, it will override exit_blood_time, and if we're currently consuming someone.
  */
-/datum/action/cooldown/spell/jaunt/bloodcrawl/proc/try_exit_jaunt(obj/effect/decal/cleanable/blood, mob/living/jaunter, forced = FALSE)
+/datum/action/cooldown/spell/jaunt/bloodcrawl/proc/try_exit_jaunt(obj/effect/decal/cleanable/vital/organic/blood, mob/living/jaunter, forced = FALSE)
 	if(!forced)
 		if(HAS_TRAIT(jaunter, TRAIT_NO_TRANSFORM))
 			to_chat(jaunter, span_warning("You cannot exit yet!!"))
@@ -169,7 +169,7 @@
 	/// When demon first appears, it does not take damage while in Jaunt. He also doesn't take damage while he's eating someone.
 	var/resist_jaunt_damage = TRUE
 
-/datum/action/cooldown/spell/jaunt/bloodcrawl/slaughter_demon/try_enter_jaunt(obj/effect/decal/cleanable/blood, mob/living/jaunter)
+/datum/action/cooldown/spell/jaunt/bloodcrawl/slaughter_demon/try_enter_jaunt(obj/effect/decal/cleanable/vital/organic/blood, mob/living/jaunter)
 	// Save this before the actual jaunt
 	var/atom/coming_with = jaunter.pulling
 

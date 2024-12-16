@@ -41,11 +41,11 @@
 /obj/machinery/atmospherics/components/unary/vent_pump/on{
 	dir = 4
 	},
-/obj/effect/decal/cleanable/blood/gibs{
+/obj/effect/decal/cleanable/vital/organic/gibs{
 	icon_state = "ltrails_1";
 	dir = 4
 	},
-/obj/effect/decal/cleanable/blood/gibs{
+/obj/effect/decal/cleanable/vital/organic/gibs{
 	icon_state = "gibarm";
 	dir = 4;
 	pixel_x = -6;
@@ -64,7 +64,7 @@
 	pixel_y = 1
 	},
 /obj/item/crowbar/red,
-/obj/effect/decal/cleanable/blood/gibs{
+/obj/effect/decal/cleanable/vital/organic/gibs{
 	icon_state = "gib6-old";
 	dir = 8
 	},
@@ -86,7 +86,7 @@
 /turf/template_noop,
 /area/template_noop)
 "bD" = (
-/obj/effect/decal/cleanable/blood/gibs{
+/obj/effect/decal/cleanable/vital/organic/gibs{
 	icon_state = "gib3-old";
 	dir = 8
 	},
@@ -120,7 +120,7 @@
 /turf/closed/wall/mineral/plastitanium,
 /area/ruin/space/has_grav/infested_frigate)
 "bS" = (
-/obj/effect/decal/cleanable/blood/gibs{
+/obj/effect/decal/cleanable/vital/organic/gibs{
 	icon_state = "larva_head_s"
 	},
 /obj/structure/cable,
@@ -135,7 +135,7 @@
 /area/ruin/space/has_grav/infested_frigate)
 "cj" = (
 /obj/effect/mob_spawn/corpse/human/syndicatecommando/lessenedgear,
-/obj/effect/decal/cleanable/blood/gibs{
+/obj/effect/decal/cleanable/vital/organic/gibs{
 	icon_state = "gib2-old"
 	},
 /obj/item/ammo_casing/spent,
@@ -203,10 +203,10 @@
 /turf/open/floor/plating,
 /area/ruin/space/has_grav/infested_frigate)
 "cX" = (
-/obj/effect/decal/cleanable/xenoblood/xgibs/up{
+/obj/effect/decal/cleanable/vital/organic/xgibs/up{
 	icon_state = "xgibbl4"
 	},
-/obj/effect/decal/cleanable/xenoblood/xgibs/up{
+/obj/effect/decal/cleanable/vital/organic/xgibs/up{
 	icon_state = "xgibleg";
 	dir = 4
 	},
@@ -233,7 +233,7 @@
 	dir = 1
 	},
 /obj/effect/turf_decal/tile/bar,
-/obj/effect/decal/cleanable/blood/old{
+/obj/effect/decal/cleanable/vital/organic/blood/old{
 	icon_state = "gibbl1"
 	},
 /obj/item/ammo_casing/spent,
@@ -314,7 +314,7 @@
 	icon_state = "spikebloodymonkey";
 	desc = "Well, if that isn't the worst thing."
 	},
-/obj/effect/decal/cleanable/blood/gibs/old,
+/obj/effect/decal/cleanable/vital/organic/gibs/old,
 /turf/open/floor/iron/freezer,
 /area/ruin/space/has_grav/infested_frigate)
 "eo" = (
@@ -326,7 +326,7 @@
 /obj/effect/mob_spawn/corpse/human/syndicatecommando/lessenedgear{
 	dir = 4
 	},
-/obj/effect/decal/cleanable/blood/gibs{
+/obj/effect/decal/cleanable/vital/organic/gibs{
 	icon_state = "gib6-old";
 	dir = 8
 	},
@@ -411,7 +411,7 @@
 	dir = 5
 	},
 /obj/effect/mob_spawn/corpse/human/syndicatecommando/lessenedgear,
-/obj/effect/decal/cleanable/blood/gibs{
+/obj/effect/decal/cleanable/vital/organic/gibs{
 	icon_state = "gib1-old"
 	},
 /obj/item/ammo_casing/spent,
@@ -492,7 +492,7 @@
 /area/ruin/space/has_grav/infested_frigate)
 "hA" = (
 /obj/effect/decal/cleanable/dirt,
-/obj/effect/decal/cleanable/blood/gibs{
+/obj/effect/decal/cleanable/vital/organic/gibs{
 	icon_state = "floor4-old"
 	},
 /turf/open/floor/mineral/plastitanium/red,
@@ -533,12 +533,12 @@
 	dir = 8
 	},
 /obj/effect/mapping_helpers/broken_floor,
-/obj/effect/decal/cleanable/blood/gibs{
+/obj/effect/decal/cleanable/vital/organic/gibs{
 	icon_state = "gibleg";
 	pixel_x = 1;
 	pixel_y = -5
 	},
-/obj/effect/decal/cleanable/blood/tracks{
+/obj/effect/decal/cleanable/vital/organic/blood/tracks{
 	dir = 8
 	},
 /turf/open/floor/mineral/plastitanium,
@@ -580,16 +580,16 @@
 /area/ruin/space/has_grav/infested_frigate)
 "ip" = (
 /obj/structure/alien/egg/burst,
-/obj/effect/decal/cleanable/blood/gibs{
+/obj/effect/decal/cleanable/vital/organic/gibs{
 	icon_state = "floor1-old"
 	},
 /turf/open/floor/mineral/plastitanium,
 /area/ruin/space/has_grav/infested_frigate)
 "iy" = (
-/obj/effect/decal/cleanable/blood/gibs{
+/obj/effect/decal/cleanable/vital/organic/gibs{
 	icon_state = "u_guilty_l"
 	},
-/obj/effect/decal/cleanable/blood{
+/obj/effect/decal/cleanable/vital/organic/blood{
 	icon_state = "tracks";
 	dir = 4
 	},
@@ -602,7 +602,7 @@
 	icon_state = "arrows_red";
 	dir = 4
 	},
-/obj/effect/decal/cleanable/blood{
+/obj/effect/decal/cleanable/vital/organic/blood{
 	icon_state = "tracks";
 	dir = 4
 	},
@@ -615,7 +615,7 @@
 /turf/open/floor/mineral/plastitanium,
 /area/ruin/space/has_grav/infested_frigate)
 "iS" = (
-/obj/effect/decal/cleanable/xenoblood/xgibs/up{
+/obj/effect/decal/cleanable/vital/organic/xgibs/up{
 	icon_state = "xgib1"
 	},
 /turf/open/floor/mineral/plastitanium,
@@ -655,14 +655,14 @@
 /obj/effect/turf_decal{
 	dir = 8
 	},
-/obj/effect/decal/cleanable/robot_debris/limb,
+/obj/effect/decal/cleanable/vital/robotic/debris/limb,
 /obj/structure/fluff/broken_canister_frame,
 /obj/item/ammo_casing/spent,
 /obj/item/ammo_casing/spent,
 /turf/open/floor/mineral/plastitanium,
 /area/ruin/space/has_grav/infested_frigate)
 "kg" = (
-/obj/effect/decal/cleanable/blood/gibs{
+/obj/effect/decal/cleanable/vital/organic/gibs{
 	icon_state = "drip1"
 	},
 /obj/effect/mapping_helpers/broken_floor,
@@ -707,12 +707,12 @@
 	dir = 1
 	},
 /obj/effect/turf_decal/tile/bar,
-/obj/effect/decal/cleanable/blood/tracks{
+/obj/effect/decal/cleanable/vital/organic/blood/tracks{
 	desc = "Your instincts say you shouldn't be following these.";
 	dir = 8;
 	icon_state = "ltrails_2"
 	},
-/obj/effect/decal/cleanable/blood/tracks{
+/obj/effect/decal/cleanable/vital/organic/blood/tracks{
 	desc = "Your instincts say you shouldn't be following these.";
 	icon_state = "ltrails_1";
 	dir = 6
@@ -731,7 +731,7 @@
 /area/ruin/space/has_grav/infested_frigate)
 "lx" = (
 /obj/structure/barricade/security,
-/obj/effect/decal/cleanable/blood/gibs{
+/obj/effect/decal/cleanable/vital/organic/gibs{
 	icon_state = "floor1-old"
 	},
 /obj/item/ammo_casing/spent,
@@ -739,10 +739,10 @@
 /turf/open/floor/mineral/plastitanium,
 /area/ruin/space/has_grav/infested_frigate)
 "lU" = (
-/obj/effect/decal/cleanable/blood/gibs{
+/obj/effect/decal/cleanable/vital/organic/gibs{
 	icon_state = "u_madman_l"
 	},
-/obj/effect/decal/cleanable/blood/gibs{
+/obj/effect/decal/cleanable/vital/organic/gibs{
 	icon_state = "gibhead";
 	dir = 4;
 	pixel_y = 6;
@@ -777,7 +777,7 @@
 /area/ruin/space/has_grav/infested_frigate)
 "mp" = (
 /obj/structure/sign/departments/medbay/alt/directional/east,
-/obj/effect/decal/cleanable/blood/gibs{
+/obj/effect/decal/cleanable/vital/organic/gibs{
 	icon_state = "gibhead"
 	},
 /turf/open/floor/mineral/plastitanium,
@@ -798,7 +798,7 @@
 /area/ruin/space/has_grav/infested_frigate)
 "mG" = (
 /obj/structure/bed/maint,
-/obj/effect/decal/cleanable/blood{
+/obj/effect/decal/cleanable/vital/organic/blood{
 	icon_state = "floor1-old"
 	},
 /obj/structure/sink/directional/south,
@@ -852,7 +852,7 @@
 "nU" = (
 /obj/structure/cable,
 /obj/effect/decal/cleanable/dirt,
-/obj/effect/decal/cleanable/blood{
+/obj/effect/decal/cleanable/vital/organic/blood{
 	icon_state = "floor5-old"
 	},
 /obj/item/ammo_casing/spent,
@@ -872,7 +872,7 @@
 	icon_state = "arrows_red";
 	dir = 4
 	},
-/obj/effect/decal/cleanable/oil/slippery{
+/obj/effect/decal/cleanable/vital/robotic/oil/slippery{
 	icon_state = "floor7"
 	},
 /obj/effect/turf_decal{
@@ -883,7 +883,7 @@
 /area/ruin/space/has_grav/infested_frigate)
 "or" = (
 /obj/item/ammo_casing/spent,
-/obj/effect/decal/cleanable/blood{
+/obj/effect/decal/cleanable/vital/organic/blood{
 	icon_state = "drip1"
 	},
 /obj/structure/cable,
@@ -891,7 +891,7 @@
 /turf/open/floor/mineral/plastitanium,
 /area/ruin/space/has_grav/infested_frigate)
 "oV" = (
-/obj/effect/decal/cleanable/xenoblood/xgibs/up{
+/obj/effect/decal/cleanable/vital/organic/xgibs/up{
 	icon_state = "xltrails_2";
 	dir = 8
 	},
@@ -966,7 +966,7 @@
 /turf/open/floor/mineral/plastitanium,
 /area/ruin/space/has_grav/infested_frigate)
 "qu" = (
-/obj/effect/decal/cleanable/blood{
+/obj/effect/decal/cleanable/vital/organic/blood{
 	icon_state = "floor7-old"
 	},
 /obj/effect/decal/cleanable/glass,
@@ -1023,12 +1023,12 @@
 /turf/template_noop,
 /area/template_noop)
 "qR" = (
-/obj/effect/decal/cleanable/blood/gibs/old,
+/obj/effect/decal/cleanable/vital/organic/gibs/old,
 /obj/effect/mob_spawn/corpse/human/syndicatecommando/lessenedgear,
 /turf/open/floor/mineral/plastitanium/airless,
 /area/ruin/space/has_grav/infested_frigate)
 "rd" = (
-/obj/effect/decal/cleanable/blood/gibs/old{
+/obj/effect/decal/cleanable/vital/organic/gibs/old{
 	icon_state = "gibmid1"
 	},
 /obj/effect/decal/cleanable/dirt,
@@ -1067,7 +1067,7 @@
 "rz" = (
 /obj/machinery/airalarm/directional/west,
 /obj/effect/mapping_helpers/airalarm/all_access,
-/obj/effect/decal/cleanable/blood/gibs{
+/obj/effect/decal/cleanable/vital/organic/gibs{
 	icon_state = "ltrails_1";
 	dir = 1
 	},
@@ -1110,7 +1110,7 @@
 /turf/open/floor/mineral/plastitanium,
 /area/ruin/space/has_grav/infested_frigate)
 "st" = (
-/obj/effect/decal/cleanable/blood/gibs{
+/obj/effect/decal/cleanable/vital/organic/gibs{
 	icon_state = "gibdown1"
 	},
 /obj/structure/cable,
@@ -1154,7 +1154,7 @@
 "sZ" = (
 /obj/structure/cable,
 /obj/effect/decal/cleanable/dirt,
-/obj/effect/decal/cleanable/blood/gibs{
+/obj/effect/decal/cleanable/vital/organic/gibs{
 	icon_state = "armorblood"
 	},
 /obj/item/ammo_casing/spent,
@@ -1169,7 +1169,7 @@
 	icon_state = "arrows_red";
 	dir = 4
 	},
-/obj/effect/decal/cleanable/blood/gibs{
+/obj/effect/decal/cleanable/vital/organic/gibs{
 	icon_state = "gibdown1"
 	},
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden,
@@ -1284,7 +1284,7 @@
 "vM" = (
 /obj/item/ammo_casing/spent,
 /obj/effect/decal/cleanable/dirt,
-/obj/effect/decal/cleanable/xenoblood{
+/obj/effect/decal/cleanable/vital/organic/xenoblood{
 	icon_state = "xltrails_1";
 	dir = 8
 	},
@@ -1353,7 +1353,7 @@
 	icon_state = "caution_red";
 	dir = 1
 	},
-/obj/effect/decal/cleanable/xenoblood/xgibs{
+/obj/effect/decal/cleanable/vital/organic/xgibs{
 	icon_state = "xltrails_1";
 	dir = 4
 	},
@@ -1456,7 +1456,7 @@
 /obj/item/ammo_casing/spent,
 /obj/item/ammo_casing/spent,
 /obj/item/ammo_casing/spent,
-/obj/effect/decal/cleanable/blood/gibs{
+/obj/effect/decal/cleanable/vital/organic/gibs{
 	icon_state = "gib1-old"
 	},
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden,
@@ -1469,7 +1469,7 @@
 /obj/effect/decal/cleanable/glass{
 	icon_state = "plastitaniumtiny"
 	},
-/obj/effect/decal/cleanable/blood/gibs{
+/obj/effect/decal/cleanable/vital/organic/gibs{
 	icon_state = "gib3-old"
 	},
 /obj/structure/alien/weeds/node{
@@ -1576,10 +1576,10 @@
 /turf/open/floor/mineral/plastitanium,
 /area/ruin/space/has_grav/infested_frigate)
 "yG" = (
-/obj/effect/decal/cleanable/robot_debris{
+/obj/effect/decal/cleanable/vital/robotic/debris{
 	icon_state = "gib4"
 	},
-/obj/effect/decal/cleanable/blood/tracks{
+/obj/effect/decal/cleanable/vital/organic/blood/tracks{
 	dir = 8
 	},
 /obj/effect/decal/cleanable/glass,
@@ -1670,10 +1670,10 @@
 	icon_state = "warn_end_white";
 	dir = 4
 	},
-/obj/effect/decal/cleanable/blood/gibs/old{
+/obj/effect/decal/cleanable/vital/organic/gibs/old{
 	icon_state = "gib4-old"
 	},
-/obj/effect/decal/cleanable/blood/old{
+/obj/effect/decal/cleanable/vital/organic/blood/old{
 	icon_state = "gib2"
 	},
 /obj/item/ammo_casing/spent,
@@ -1688,19 +1688,19 @@
 /area/ruin/space/has_grav/infested_frigate)
 "Ai" = (
 /obj/effect/mapping_helpers/broken_floor,
-/obj/effect/decal/cleanable/blood/gibs{
+/obj/effect/decal/cleanable/vital/organic/gibs{
 	icon_state = "gibleg";
 	pixel_x = -19
 	},
-/obj/effect/decal/cleanable/blood/gibs{
+/obj/effect/decal/cleanable/vital/organic/gibs{
 	icon_state = "ltrails_1";
 	dir = 5
 	},
-/obj/effect/decal/cleanable/blood/gibs{
+/obj/effect/decal/cleanable/vital/organic/gibs{
 	icon_state = "ltrails_1";
 	dir = 9
 	},
-/obj/effect/decal/cleanable/blood/gibs{
+/obj/effect/decal/cleanable/vital/organic/gibs{
 	icon_state = "floor7-old"
 	},
 /obj/item/ammo_casing/spent,
@@ -1737,7 +1737,7 @@
 	dir = 8
 	},
 /obj/item/ammo_casing/spent,
-/obj/effect/decal/cleanable/xenoblood/xgibs{
+/obj/effect/decal/cleanable/vital/organic/xgibs{
 	icon_state = "xtracks";
 	dir = 1
 	},
@@ -1746,14 +1746,14 @@
 "Bw" = (
 /obj/item/ammo_casing/spent,
 /obj/item/ammo_casing/spent,
-/obj/effect/decal/cleanable/xenoblood/xgibs/up{
+/obj/effect/decal/cleanable/vital/organic/xgibs/up{
 	icon_state = "xgibtorso";
 	dir = 4
 	},
 /turf/open/floor/mineral/plastitanium,
 /area/ruin/space/has_grav/infested_frigate)
 "BA" = (
-/obj/effect/decal/cleanable/blood/gibs{
+/obj/effect/decal/cleanable/vital/organic/gibs{
 	icon_state = "gibup1"
 	},
 /obj/machinery/light/small/broken/directional/west,
@@ -1815,7 +1815,7 @@
 /turf/open/floor/mineral/plastitanium,
 /area/ruin/space/has_grav/infested_frigate)
 "CK" = (
-/obj/effect/decal/cleanable/blood/gibs{
+/obj/effect/decal/cleanable/vital/organic/gibs{
 	icon_state = "gib6-old";
 	dir = 8
 	},
@@ -1871,7 +1871,7 @@
 /area/ruin/space/has_grav/infested_frigate)
 "Ez" = (
 /obj/structure/alien/weeds,
-/obj/effect/decal/cleanable/blood{
+/obj/effect/decal/cleanable/vital/organic/blood{
 	icon_state = "floor7-old"
 	},
 /turf/open/floor/mineral/plastitanium,
@@ -1904,11 +1904,11 @@
 "EQ" = (
 /obj/structure/sign/poster/contraband/random/directional/north,
 /obj/item/restraints/handcuffs/cable/zipties/used,
-/obj/effect/decal/cleanable/blood{
+/obj/effect/decal/cleanable/vital/organic/blood{
 	icon_state = "floor7-old"
 	},
 /obj/effect/decal/cleanable/glass,
-/obj/effect/decal/cleanable/blood/gibs{
+/obj/effect/decal/cleanable/vital/organic/gibs{
 	icon_state = "gib1-old"
 	},
 /obj/machinery/door/window/left/directional/east,
@@ -2002,7 +2002,7 @@
 /obj/effect/spawner/random/exotic/languagebook,
 /obj/machinery/airalarm/directional/south,
 /obj/effect/mapping_helpers/airalarm/all_access,
-/obj/effect/decal/cleanable/blood/gibs{
+/obj/effect/decal/cleanable/vital/organic/gibs{
 	icon_state = "gib6-old"
 	},
 /obj/item/reagent_containers/pill/cyanide{
@@ -2025,7 +2025,7 @@
 /turf/open/floor/pod/dark,
 /area/ruin/space/has_grav/infested_frigate)
 "Hc" = (
-/obj/effect/decal/cleanable/blood/gibs{
+/obj/effect/decal/cleanable/vital/organic/gibs{
 	icon_state = "larva_chest_s"
 	},
 /obj/structure/cable,
@@ -2053,7 +2053,7 @@
 	},
 /obj/effect/turf_decal,
 /obj/structure/alien/weeds,
-/obj/effect/decal/cleanable/blood/gibs{
+/obj/effect/decal/cleanable/vital/organic/gibs{
 	icon_state = "gib1-old"
 	},
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden,
@@ -2065,7 +2065,7 @@
 "Hx" = (
 /obj/structure/alien/weeds,
 /obj/effect/decal/cleanable/glass,
-/obj/effect/decal/cleanable/blood/gibs{
+/obj/effect/decal/cleanable/vital/organic/gibs{
 	icon_state = "floor1-old"
 	},
 /obj/structure/bed/nest,
@@ -2074,7 +2074,7 @@
 /area/ruin/space/has_grav/infested_frigate)
 "HA" = (
 /obj/item/ammo_casing/spent,
-/obj/effect/decal/cleanable/xenoblood/xgibs/up{
+/obj/effect/decal/cleanable/vital/organic/xgibs/up{
 	icon_state = "xgibhead";
 	dir = 4
 	},
@@ -2145,7 +2145,7 @@
 /obj/effect/turf_decal{
 	icon_state = "bot_red"
 	},
-/obj/effect/decal/cleanable/xenoblood/xgibs{
+/obj/effect/decal/cleanable/vital/organic/xgibs{
 	icon_state = "xgibup1"
 	},
 /turf/open/floor/mineral/plastitanium,
@@ -2195,10 +2195,10 @@
 /area/ruin/space/has_grav/infested_frigate)
 "JO" = (
 /obj/structure/sign/departments/engineering/directional/west,
-/obj/effect/decal/cleanable/blood/gibs{
+/obj/effect/decal/cleanable/vital/organic/gibs{
 	icon_state = "gibarm"
 	},
-/obj/effect/decal/cleanable/blood/gibs{
+/obj/effect/decal/cleanable/vital/organic/gibs{
 	icon_state = "ltrails_1";
 	dir = 4
 	},
@@ -2225,7 +2225,7 @@
 	},
 /obj/effect/turf_decal/tile/bar,
 /obj/effect/decal/cleanable/dirt,
-/obj/effect/decal/cleanable/blood/old{
+/obj/effect/decal/cleanable/vital/organic/blood/old{
 	icon_state = "floor4-old"
 	},
 /obj/item/ammo_casing/spent,
@@ -2250,7 +2250,7 @@
 "KC" = (
 /obj/item/ammo_casing/spent,
 /obj/item/ammo_casing/spent,
-/obj/effect/decal/cleanable/blood{
+/obj/effect/decal/cleanable/vital/organic/blood{
 	icon_state = "armorblood"
 	},
 /obj/structure/cable,
@@ -2340,7 +2340,7 @@
 /obj/effect/turf_decal{
 	dir = 8
 	},
-/obj/effect/decal/cleanable/xenoblood/xgibs{
+/obj/effect/decal/cleanable/vital/organic/xgibs{
 	icon_state = "xgibmid1"
 	},
 /obj/effect/mapping_helpers/broken_floor,
@@ -2378,7 +2378,7 @@
 /obj/effect/turf_decal{
 	icon_state = "bot_right_red"
 	},
-/obj/effect/decal/cleanable/xenoblood/xgibs{
+/obj/effect/decal/cleanable/vital/organic/xgibs{
 	icon_state = "xgibtorso"
 	},
 /turf/open/floor/mineral/plastitanium,
@@ -2589,7 +2589,7 @@
 	icon_state = "loadingarea_white";
 	dir = 8
 	},
-/obj/effect/decal/cleanable/blood/tracks{
+/obj/effect/decal/cleanable/vital/organic/blood/tracks{
 	desc = "Your instincts say you shouldn't be following these.";
 	dir = 8;
 	icon_state = "ltrails_1"
@@ -2783,7 +2783,7 @@
 "SM" = (
 /obj/structure/cable,
 /obj/structure/alien/weeds,
-/obj/effect/decal/cleanable/blood/gibs{
+/obj/effect/decal/cleanable/vital/organic/gibs{
 	icon_state = "floor6-old"
 	},
 /obj/item/shard{
@@ -2859,7 +2859,7 @@
 	},
 /obj/structure/cable,
 /obj/item/clothing/mask/facehugger/impregnated,
-/obj/effect/decal/cleanable/blood/gibs{
+/obj/effect/decal/cleanable/vital/organic/gibs{
 	icon_state = "gib6-old";
 	dir = 1
 	},
@@ -2892,7 +2892,7 @@
 /area/ruin/space/has_grav/infested_frigate)
 "UX" = (
 /obj/machinery/door/airlock/hatch,
-/obj/effect/decal/cleanable/blood{
+/obj/effect/decal/cleanable/vital/organic/blood{
 	icon_state = "tracks";
 	dir = 4
 	},
@@ -2910,7 +2910,7 @@
 /turf/open/floor/mineral/plastitanium,
 /area/ruin/space/has_grav/infested_frigate)
 "Vt" = (
-/obj/effect/decal/cleanable/blood/tracks{
+/obj/effect/decal/cleanable/vital/organic/blood/tracks{
 	desc = "Your instincts say you shouldn't be following these.";
 	icon_state = "ltrails_1";
 	dir = 10
@@ -2988,10 +2988,10 @@
 /area/ruin/space/has_grav/infested_frigate)
 "WG" = (
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden,
-/obj/effect/decal/cleanable/blood/gibs{
+/obj/effect/decal/cleanable/vital/organic/gibs{
 	icon_state = "floor7-old"
 	},
-/obj/effect/decal/cleanable/blood/gibs{
+/obj/effect/decal/cleanable/vital/organic/gibs{
 	icon_state = "gibleg";
 	pixel_x = 3;
 	pixel_y = 19;
@@ -3015,7 +3015,7 @@
 /turf/open/floor/plating,
 /area/ruin/space/has_grav/infested_frigate)
 "Xm" = (
-/obj/effect/decal/cleanable/xenoblood/xgibs{
+/obj/effect/decal/cleanable/vital/organic/xgibs{
 	icon_state = "xgibbl3"
 	},
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden,
@@ -3051,7 +3051,7 @@
 	dir = 8
 	},
 /obj/item/ammo_casing/spent,
-/obj/effect/decal/cleanable/blood{
+/obj/effect/decal/cleanable/vital/organic/blood{
 	icon_state = "tracks";
 	dir = 4
 	},
@@ -3083,7 +3083,7 @@
 	},
 /obj/effect/turf_decal/tile/bar,
 /obj/structure/cable,
-/obj/effect/decal/cleanable/blood/old{
+/obj/effect/decal/cleanable/vital/organic/blood/old{
 	icon_state = "gibbl4"
 	},
 /obj/item/ammo_casing/spent,
@@ -3136,7 +3136,7 @@
 /obj/item/ammo_casing/spent,
 /obj/item/ammo_casing/spent,
 /obj/item/ammo_casing/spent,
-/obj/effect/decal/cleanable/blood{
+/obj/effect/decal/cleanable/vital/organic/blood{
 	icon_state = "drip3"
 	},
 /obj/structure/sign/poster/contraband/random/directional/south,
@@ -3157,10 +3157,10 @@
 /turf/open/floor/plating,
 /area/ruin/space/has_grav/infested_frigate)
 "ZN" = (
-/obj/effect/decal/cleanable/robot_debris{
+/obj/effect/decal/cleanable/vital/robotic/debris{
 	icon_state = "gibup"
 	},
-/obj/effect/decal/cleanable/blood/gibs{
+/obj/effect/decal/cleanable/vital/organic/gibs{
 	icon_state = "floor7-old"
 	},
 /obj/item/ammo_casing/spent,

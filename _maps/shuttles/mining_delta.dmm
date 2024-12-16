@@ -51,7 +51,7 @@
 /area/shuttle/mining)
 "h" = (
 /obj/effect/decal/cleanable/dirt,
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /obj/effect/turf_decal/stripes/line{
 	dir = 4
 	},

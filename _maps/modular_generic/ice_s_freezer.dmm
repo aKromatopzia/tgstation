@@ -16,7 +16,7 @@
 	pixel_x = -4;
 	pixel_y = 3
 	},
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /turf/open/floor/plating/snowed,
 /area/template_noop)
 "d" = (
@@ -54,7 +54,7 @@
 /obj/effect/turf_decal/trimline/yellow/warning{
 	dir = 4
 	},
-/obj/effect/decal/cleanable/blood/gibs/old,
+/obj/effect/decal/cleanable/vital/organic/gibs/old,
 /obj/item/food/meat/slab/bear{
 	pixel_x = -7;
 	pixel_y = -3
@@ -89,7 +89,7 @@
 /turf/template_noop,
 /area/template_noop)
 "M" = (
-/obj/effect/decal/cleanable/xenoblood,
+/obj/effect/decal/cleanable/vital/organic/xenoblood,
 /obj/item/food/meat/slab/meatproduct{
 	pixel_y = 6;
 	pixel_x = 6

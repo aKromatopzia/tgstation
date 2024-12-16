@@ -31,7 +31,7 @@
 "e" = (
 /obj/structure/kitchenspike,
 /obj/effect/decal/cleanable/dirt,
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /turf/open/floor/plating,
 /area/station/maintenance/department/cargo)
 "f" = (
@@ -93,12 +93,12 @@
 /area/template_noop)
 "u" = (
 /obj/effect/decal/cleanable/dirt,
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /turf/open/floor/iron/cafeteria,
 /area/station/maintenance/department/cargo)
 "w" = (
 /obj/effect/decal/cleanable/dirt,
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /obj/structure/kitchenspike,
 /turf/open/floor/plating,
 /area/station/maintenance/department/cargo)

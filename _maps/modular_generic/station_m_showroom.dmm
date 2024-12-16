@@ -3,7 +3,7 @@
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /obj/structure/cable,
-/obj/effect/decal/cleanable/blood/tracks{
+/obj/effect/decal/cleanable/vital/organic/blood/tracks{
 	dir = 6
 	},
 /turf/open/floor/iron/dark/corner{
@@ -33,7 +33,7 @@
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /obj/structure/cable,
-/obj/effect/decal/cleanable/blood/gibs/down,
+/obj/effect/decal/cleanable/vital/organic/gibs/down,
 /turf/open/floor/plating,
 /area/template_noop)
 "j" = (
@@ -47,7 +47,7 @@
 /obj/effect/turf_decal/stripes/line{
 	dir = 1
 	},
-/obj/effect/decal/cleanable/blood/tracks,
+/obj/effect/decal/cleanable/vital/organic/blood/tracks,
 /turf/open/floor/iron,
 /area/template_noop)
 "l" = (
@@ -131,7 +131,7 @@
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /obj/structure/cable,
-/obj/effect/decal/cleanable/blood/tracks{
+/obj/effect/decal/cleanable/vital/organic/blood/tracks{
 	dir = 4
 	},
 /turf/open/floor/plating,
@@ -178,7 +178,7 @@
 	},
 /area/template_noop)
 "O" = (
-/obj/effect/decal/cleanable/blood/tracks{
+/obj/effect/decal/cleanable/vital/organic/blood/tracks{
 	dir = 1
 	},
 /obj/effect/spawner/random/trash/garbage,

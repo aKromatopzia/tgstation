@@ -215,7 +215,7 @@
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden,
 /obj/structure/cable,
 /obj/effect/decal/cleanable/dirt,
-/obj/effect/decal/cleanable/oil,
+/obj/effect/decal/cleanable/vital/robotic/oil,
 /turf/open/floor/plating,
 /area/shuttle/hunter)
 "jB" = (
@@ -226,7 +226,7 @@
 /area/shuttle/hunter)
 "ke" = (
 /obj/effect/decal/cleanable/dirt,
-/obj/effect/decal/cleanable/oil,
+/obj/effect/decal/cleanable/vital/robotic/oil,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden,
 /turf/open/floor/plating,
 /area/shuttle/hunter)
@@ -732,7 +732,7 @@
 /turf/open/floor/iron/grimy,
 /area/shuttle/hunter)
 "IE" = (
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden,
 /turf/open/floor/engine,
 /area/shuttle/hunter)
@@ -743,7 +743,7 @@
 /area/shuttle/hunter)
 "Jh" = (
 /obj/effect/decal/cleanable/dirt,
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /obj/machinery/iv_drip,
 /turf/open/floor/iron,
 /area/shuttle/hunter)
@@ -879,7 +879,7 @@
 /area/shuttle/hunter)
 "PS" = (
 /obj/effect/decal/cleanable/dirt,
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /turf/open/floor/plating,
 /area/shuttle/hunter)
 "PT" = (
@@ -898,7 +898,7 @@
 /obj/machinery/airalarm/directional/west,
 /obj/effect/mapping_helpers/airalarm/all_access,
 /obj/effect/decal/cleanable/dirt,
-/obj/effect/decal/cleanable/robot_debris/up,
+/obj/effect/decal/cleanable/vital/robotic/debris/up,
 /turf/open/floor/plating,
 /area/shuttle/hunter)
 "RK" = (

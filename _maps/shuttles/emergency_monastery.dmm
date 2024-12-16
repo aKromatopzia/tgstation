@@ -688,7 +688,7 @@
 /turf/open/floor/iron/dark,
 /area/shuttle/escape)
 "kN" = (
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /obj/machinery/atmospherics/components/unary/vent_pump/on/layer4{
 	dir = 4
 	},
@@ -2354,7 +2354,7 @@
 "Jg" = (
 /obj/structure/closet/emcloset,
 /obj/effect/decal/cleanable/cobweb,
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /turf/open/floor/iron/dark,
 /area/shuttle/escape)
 "Jp" = (

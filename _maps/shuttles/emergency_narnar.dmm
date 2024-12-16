@@ -107,7 +107,7 @@
 /turf/open/floor/cult,
 /area/shuttle/escape)
 "v" = (
-/obj/effect/decal/cleanable/blood,
+/obj/effect/decal/cleanable/vital/organic/blood,
 /turf/open/floor/cult,
 /area/shuttle/escape)
 "w" = (
@@ -119,7 +119,7 @@
 /turf/open/floor/plating,
 /area/shuttle/escape)
 "y" = (
-/obj/effect/decal/cleanable/blood/gibs/up,
+/obj/effect/decal/cleanable/vital/organic/gibs/up,
 /obj/item/flashlight/flare/candle/infinite,
 /turf/open/floor/cult,
 /area/shuttle/escape)
@@ -134,8 +134,8 @@
 "B" = (
 /obj/effect/rune/convert,
 /obj/effect/decal/remains/human,
-/obj/effect/decal/cleanable/blood/gibs/body,
-/obj/effect/decal/cleanable/blood/gibs/core,
+/obj/effect/decal/cleanable/vital/organic/gibs/body,
+/obj/effect/decal/cleanable/vital/organic/gibs/core,
 /turf/open/floor/cult,
 /area/shuttle/escape)
 "C" = (
@@ -155,7 +155,7 @@
 /turf/open/floor/plating,
 /area/shuttle/escape)
 "F" = (
-/obj/effect/decal/cleanable/blood/gibs/down,
+/obj/effect/decal/cleanable/vital/organic/gibs/down,
 /turf/open/floor/cult,
 /area/shuttle/escape)
 "G" = (
@@ -192,7 +192,7 @@
 /turf/open/floor/cult,
 /area/shuttle/escape)
 "L" = (
-/obj/effect/decal/cleanable/blood/drip,
+/obj/effect/decal/cleanable/vital/organic/blood/drip,
 /turf/open/floor/cult,
 /area/shuttle/escape)
 "M" = (

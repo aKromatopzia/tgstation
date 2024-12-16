@@ -159,7 +159,7 @@
 "U" = (
 /obj/effect/turf_decal/tile/neutral/fourcorners,
 /obj/effect/turf_decal/stripes/line,
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/iron,
 /area/virtual_domain/safehouse)

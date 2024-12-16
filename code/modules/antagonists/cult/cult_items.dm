@@ -1191,7 +1191,7 @@ Striking a noncultist, however, will tear their flesh."}
 		if(T)
 			T.visible_message(span_warning("[src] shatters and melts back into blood!"))
 			new /obj/effect/temp_visual/cult/sparks(T)
-			new /obj/effect/decal/cleanable/blood/splatter(T)
+			new /obj/effect/decal/cleanable/vital/organic/blood/splatter(T)
 			playsound(T, 'sound/effects/glass/glassbr3.ogg', 100)
 	qdel(src)
 

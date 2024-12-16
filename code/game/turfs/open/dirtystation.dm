@@ -50,14 +50,14 @@
 	))
 	if(is_type_in_typecache(A, engine_dirt_areas))
 		if(prob(3))
-			new /obj/effect/decal/cleanable/blood/old(src)
+			new /obj/effect/decal/cleanable/vital/organic/blood/old(src)
 		else
 			switch (rand(1, 100))
 				if(1 to 35)//35%
 					if(prob(4))
-						new /obj/effect/decal/cleanable/robot_debris/old(src)
+						new /obj/effect/decal/cleanable/vital/robotic/debris/old(src)
 					else
-						new /obj/effect/decal/cleanable/oil(src)
+						new /obj/effect/decal/cleanable/vital/robotic/oil(src)
 				if(35 to 95)//60%
 					new /obj/effect/decal/cleanable/dirt(src)
 				if(95 to 100)//5%
@@ -74,7 +74,7 @@
 			if(prob(90))
 				new /obj/effect/decal/cleanable/vomit/old(src)
 			else
-				new /obj/effect/decal/cleanable/blood/old(src)
+				new /obj/effect/decal/cleanable/vital/organic/blood/old(src)
 		else if(prob(40)) //16% effective chance
 			new /obj/effect/decal/cleanable/ants(src)
 		return
@@ -83,7 +83,7 @@
 	var/static/list/oily_areas = typecacheof(/area/station/cargo)
 	if(is_type_in_typecache(A, oily_areas))
 		if(prob(25))
-			new /obj/effect/decal/cleanable/oil(src)
+			new /obj/effect/decal/cleanable/vital/robotic/oil(src)
 		else if(prob(20))
 			// or occasionally the signs of opened packages
 			new /obj/effect/decal/cleanable/wrapping(src)
@@ -102,9 +102,9 @@
 	if(is_type_in_typecache(A, gib_covered_areas))
 		if(prob(20))
 			if(prob(5))
-				new /obj/effect/decal/cleanable/blood/gibs/old(src)
+				new /obj/effect/decal/cleanable/vital/organic/gibs/old(src)
 			else
-				new /obj/effect/decal/cleanable/blood/old(src)
+				new /obj/effect/decal/cleanable/vital/organic/blood/old(src)
 		return
 
 		//Kitchen areas. Broken eggs, flour, spilled milk (no crying allowed.), ants.
@@ -130,9 +130,9 @@
 	if(is_type_in_typecache(A, medical_dirt_areas))
 		if(prob(66))
 			if(prob(5))
-				new /obj/effect/decal/cleanable/blood/gibs/old(src)
+				new /obj/effect/decal/cleanable/vital/organic/gibs/old(src)
 			else
-				new /obj/effect/decal/cleanable/blood/old(src)
+				new /obj/effect/decal/cleanable/vital/organic/blood/old(src)
 		else if(prob(30))
 			if(istype(A, /area/station/medical/morgue))
 				new /obj/item/ectoplasm(src)

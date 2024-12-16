@@ -38,7 +38,7 @@ GLOBAL_LIST_INIT(heretic_start_knowledge, initialize_starting_knowledge())
 		to awaken your heart into a Living Heart. If your heart is cybernetic, \
 		you will additionally require a usable organic heart in the transmutation."
 	required_atoms = list(
-		/obj/effect/decal/cleanable/blood = 1,
+		/obj/effect/decal/cleanable/vital/organic/blood = 1,
 		/obj/item/food/grown/poppy = 1,
 	)
 	cost = 0

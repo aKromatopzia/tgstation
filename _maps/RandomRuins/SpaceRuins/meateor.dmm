@@ -8,10 +8,10 @@
 /area/ruin/space/meateor)
 "f" = (
 /obj/effect/mob_spawn/corpse/human/monkey,
-/obj/effect/decal/cleanable/blood/tracks{
+/obj/effect/decal/cleanable/vital/organic/blood/tracks{
 	dir = 8
 	},
-/obj/effect/decal/cleanable/blood,
+/obj/effect/decal/cleanable/vital/organic/blood,
 /turf/open/floor/material/meat/airless,
 /area/ruin/space/meateor)
 "g" = (
@@ -19,7 +19,7 @@
 /area/ruin/space/meateor)
 "j" = (
 /obj/item/gun/energy/recharge/kinetic_accelerator,
-/obj/effect/decal/cleanable/blood,
+/obj/effect/decal/cleanable/vital/organic/blood,
 /turf/open/floor/material/meat/airless,
 /area/ruin/space/meateor)
 "k" = (
@@ -36,18 +36,18 @@
 /area/ruin/space/meateor)
 "q" = (
 /obj/effect/mob_spawn/corpse/headcrab,
-/obj/effect/decal/cleanable/xenoblood,
+/obj/effect/decal/cleanable/vital/organic/xenoblood,
 /turf/open/floor/material/meat/airless,
 /area/ruin/space/meateor)
 "r" = (
-/obj/effect/decal/cleanable/blood/tracks{
+/obj/effect/decal/cleanable/vital/organic/blood/tracks{
 	dir = 8
 	},
 /turf/open/floor/material/meat/airless,
 /area/ruin/space/meateor)
 "s" = (
 /obj/effect/mob_spawn/corpse/headcrab,
-/obj/effect/decal/cleanable/xenoblood/xgibs,
+/obj/effect/decal/cleanable/vital/organic/xgibs,
 /turf/open/floor/material/meat/airless,
 /area/ruin/space/meateor)
 "v" = (
@@ -75,7 +75,7 @@
 /area/ruin/space/meateor)
 "C" = (
 /obj/effect/mob_spawn/corpse/human/miner,
-/obj/effect/decal/cleanable/blood,
+/obj/effect/decal/cleanable/vital/organic/blood,
 /turf/open/floor/material/meat/airless,
 /area/ruin/space/meateor)
 "D" = (

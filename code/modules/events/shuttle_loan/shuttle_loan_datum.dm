@@ -75,7 +75,7 @@
 		pack.generate(pick_n_take(empty_shuttle_turfs))
 
 	for(var/i in 1 to 5)
-		var/decal = pick(/obj/effect/decal/cleanable/food/flour, /obj/effect/decal/cleanable/robot_debris, /obj/effect/decal/cleanable/oil)
+		var/decal = pick(/obj/effect/decal/cleanable/food/flour, /obj/effect/decal/cleanable/vital/robotic/debris, /obj/effect/decal/cleanable/vital/robotic/oil)
 		new decal(pick_n_take(empty_shuttle_turfs))
 
 /datum/shuttle_loan_situation/syndiehijacking
@@ -123,7 +123,7 @@
 		spawn_list.Add(/mob/living/basic/bee/toxin)
 
 	for(var/i in 1 to 5)
-		var/decal = pick(/obj/effect/decal/cleanable/blood, /obj/effect/decal/cleanable/insectguts)
+		var/decal = pick(/obj/effect/decal/cleanable/vital/organic/blood, /obj/effect/decal/cleanable/insectguts)
 		new decal(pick_n_take(empty_shuttle_turfs))
 
 	for(var/i in 1 to 10)

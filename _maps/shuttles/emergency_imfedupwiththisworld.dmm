@@ -91,9 +91,9 @@
 /turf/open/floor/wood,
 /area/shuttle/escape)
 "w" = (
-/obj/effect/decal/cleanable/blood,
-/obj/effect/decal/cleanable/blood/drip,
-/obj/effect/decal/cleanable/blood/gibs,
+/obj/effect/decal/cleanable/vital/organic/blood,
+/obj/effect/decal/cleanable/vital/organic/blood/drip,
+/obj/effect/decal/cleanable/vital/organic/gibs,
 /obj/effect/mob_spawn/corpse/human,
 /obj/item/gun/ballistic/automatic/pistol/m1911,
 /obj/machinery/light/small/directional/west,

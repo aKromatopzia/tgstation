@@ -165,7 +165,7 @@
 /area/ruin/space/has_grav/whiteship/box)
 "gp" = (
 /obj/effect/decal/cleanable/dirt,
-/obj/effect/decal/cleanable/blood/footprints,
+/obj/effect/decal/cleanable/vital/organic/blood/footprints,
 /turf/open/floor/iron/showroomfloor/airless,
 /area/ruin/space/has_grav/whiteship/box)
 "gK" = (
@@ -232,7 +232,7 @@
 /obj/item/shard{
 	icon_state = "small"
 	},
-/obj/effect/decal/cleanable/blood/footprints,
+/obj/effect/decal/cleanable/vital/organic/blood/footprints,
 /obj/effect/turf_decal/tile/blue/anticorner/contrasted{
 	dir = 1
 	},
@@ -734,7 +734,7 @@
 "vk" = (
 /obj/effect/decal/cleanable/glass,
 /obj/structure/lattice,
-/obj/effect/decal/cleanable/blood,
+/obj/effect/decal/cleanable/vital/organic/blood,
 /turf/open/floor/plating/airless,
 /area/ruin/space/has_grav/whiteship/box)
 "vo" = (
@@ -754,7 +754,7 @@
 /turf/open/floor/iron/showroomfloor/airless,
 /area/ruin/space/has_grav/whiteship/box)
 "vz" = (
-/obj/effect/decal/cleanable/blood,
+/obj/effect/decal/cleanable/vital/organic/blood,
 /turf/open/floor/mineral/titanium/white/airless,
 /area/ruin/space/has_grav/whiteship/box)
 "wk" = (
@@ -1097,7 +1097,7 @@
 /area/ruin/space/has_grav/whiteship/box)
 "Jv" = (
 /obj/item/stack/sheet/glass,
-/obj/effect/decal/cleanable/blood/footprints,
+/obj/effect/decal/cleanable/vital/organic/blood/footprints,
 /obj/effect/turf_decal/tile/blue/half{
 	dir = 8
 	},
@@ -1373,7 +1373,7 @@
 "RN" = (
 /obj/effect/decal/cleanable/dirt,
 /obj/machinery/light/broken/directional/west,
-/obj/effect/decal/cleanable/blood,
+/obj/effect/decal/cleanable/vital/organic/blood,
 /turf/open/floor/mineral/titanium/white/airless,
 /area/ruin/space/has_grav/whiteship/box)
 "RQ" = (

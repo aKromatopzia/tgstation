@@ -78,7 +78,7 @@
 /obj/effect/turf_decal/siding/purple{
 	dir = 8
 	},
-/obj/effect/decal/cleanable/blood/splatter,
+/obj/effect/decal/cleanable/vital/organic/blood/splatter,
 /turf/open/indestructible/white,
 /area/ruin/space/has_grav/powered/biooutpost)
 "bR" = (
@@ -138,7 +138,7 @@
 /turf/open/floor/iron/white,
 /area/ruin/space/has_grav/powered/biooutpost)
 "dW" = (
-/obj/effect/decal/cleanable/blood/tracks{
+/obj/effect/decal/cleanable/vital/organic/blood/tracks{
 	dir = 8
 	},
 /obj/effect/turf_decal/tile/purple/opposingcorners,
@@ -293,7 +293,7 @@
 "gQ" = (
 /obj/item/ammo_casing/spent,
 /obj/effect/turf_decal/tile/neutral/opposingcorners,
-/obj/effect/decal/cleanable/blood/tracks{
+/obj/effect/decal/cleanable/vital/organic/blood/tracks{
 	dir = 8
 	},
 /turf/open/indestructible/dark,
@@ -338,7 +338,7 @@
 /area/ruin/space/has_grav/powered/biooutpost/vault)
 "hW" = (
 /obj/effect/turf_decal/siding/purple,
-/obj/effect/decal/cleanable/blood/splatter,
+/obj/effect/decal/cleanable/vital/organic/blood/splatter,
 /obj/item/scalpel{
 	pixel_y = 16;
 	pixel_x = 4
@@ -362,7 +362,7 @@
 /turf/open/floor/carpet,
 /area/ruin/space/has_grav/powered/biooutpost)
 "ih" = (
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /obj/effect/turf_decal/tile/purple/opposingcorners,
 /turf/open/indestructible/white,
 /area/ruin/space/has_grav/powered/biooutpost)
@@ -581,7 +581,7 @@
 /turf/open/indestructible/dark,
 /area/ruin/space/has_grav/powered/biooutpost)
 "lm" = (
-/obj/effect/decal/cleanable/blood/tracks{
+/obj/effect/decal/cleanable/vital/organic/blood/tracks{
 	dir = 10
 	},
 /obj/item/ammo_casing/c45/spent,
@@ -608,11 +608,11 @@
 /area/ruin/space/has_grav/powered/biooutpost)
 "mA" = (
 /obj/effect/turf_decal/tile/purple/opposingcorners,
-/obj/effect/decal/cleanable/blood/innards,
+/obj/effect/decal/cleanable/vital/organic/blood/innards,
 /turf/open/indestructible/white,
 /area/ruin/space/has_grav/powered/biooutpost)
 "mM" = (
-/obj/effect/decal/cleanable/blood/splatter,
+/obj/effect/decal/cleanable/vital/organic/blood/splatter,
 /turf/open/indestructible/white,
 /area/ruin/space/has_grav/powered/biooutpost)
 "mO" = (
@@ -684,7 +684,7 @@
 /turf/open/indestructible/white,
 /area/ruin/space/has_grav/powered/biooutpost)
 "nY" = (
-/obj/effect/decal/cleanable/blood/tracks,
+/obj/effect/decal/cleanable/vital/organic/blood/tracks,
 /obj/effect/turf_decal/stripes,
 /obj/effect/turf_decal/siding/purple,
 /turf/open/indestructible/white,
@@ -704,7 +704,7 @@
 	dir = 8
 	},
 /obj/effect/turf_decal/tile/neutral/opposingcorners,
-/obj/effect/decal/cleanable/blood/tracks{
+/obj/effect/decal/cleanable/vital/organic/blood/tracks{
 	dir = 8
 	},
 /turf/open/indestructible/dark,
@@ -757,12 +757,12 @@
 	id_tag = "md_scis"
 	},
 /obj/effect/mapping_helpers/airlock/locked,
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /obj/effect/turf_decal/tile/purple/opposingcorners,
 /turf/open/indestructible/white,
 /area/ruin/space/has_grav/powered/biooutpost)
 "pk" = (
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /turf/open/indestructible/white{
 	icon_state = "showroomfloor"
 	},
@@ -842,7 +842,7 @@
 	},
 /area/ruin/space/has_grav/powered/biooutpost)
 "qs" = (
-/obj/effect/decal/cleanable/blood/tracks{
+/obj/effect/decal/cleanable/vital/organic/blood/tracks{
 	dir = 9
 	},
 /obj/effect/turf_decal/tile/purple/opposingcorners,
@@ -938,12 +938,12 @@
 /obj/effect/turf_decal/siding/purple{
 	dir = 1
 	},
-/obj/effect/decal/cleanable/blood/splatter,
+/obj/effect/decal/cleanable/vital/organic/blood/splatter,
 /turf/open/indestructible/white,
 /area/ruin/space/has_grav/powered/biooutpost)
 "sl" = (
 /obj/effect/spawner/structure/window/reinforced/shuttle/indestructible,
-/obj/effect/decal/cleanable/blood/splatter/over_window,
+/obj/effect/decal/cleanable/vital/organic/blood/splatter/over_window,
 /turf/open/indestructible/plating,
 /area/ruin/space/has_grav/powered/biooutpost)
 "sp" = (
@@ -953,7 +953,7 @@
 	id = "md_scis";
 	name = "safety lock control"
 	},
-/obj/effect/decal/cleanable/blood/tracks{
+/obj/effect/decal/cleanable/vital/organic/blood/tracks{
 	dir = 6
 	},
 /obj/effect/turf_decal/tile/purple/opposingcorners,
@@ -1007,7 +1007,7 @@
 /turf/open/indestructible/plating,
 /area/ruin/space/has_grav/powered/biooutpost)
 "tv" = (
-/obj/effect/decal/cleanable/blood/tracks,
+/obj/effect/decal/cleanable/vital/organic/blood/tracks,
 /mob/living/simple_animal/hostile/zombie,
 /turf/open/indestructible/white{
 	icon_state = "showroomfloor"
@@ -1060,7 +1060,7 @@
 /area/ruin/space/has_grav/powered/biooutpost)
 "uq" = (
 /obj/machinery/door/airlock/external,
-/obj/effect/decal/cleanable/blood/tracks,
+/obj/effect/decal/cleanable/vital/organic/blood/tracks,
 /turf/open/floor/plating,
 /area/ruin/space/has_grav/powered/biooutpost)
 "us" = (
@@ -1069,11 +1069,11 @@
 /turf/open/floor/plating,
 /area/ruin/space/has_grav/powered/biooutpost)
 "uC" = (
-/obj/effect/decal/cleanable/blood/tracks,
+/obj/effect/decal/cleanable/vital/organic/blood/tracks,
 /turf/open/indestructible/white,
 /area/ruin/space/has_grav/powered/biooutpost)
 "uH" = (
-/obj/effect/decal/cleanable/blood/tracks,
+/obj/effect/decal/cleanable/vital/organic/blood/tracks,
 /obj/structure/holosign/barrier,
 /turf/open/floor/plating/airless,
 /area/ruin/space)
@@ -1278,7 +1278,7 @@
 /turf/open/indestructible/meat,
 /area/ruin/space/has_grav/powered/biooutpost)
 "yl" = (
-/obj/effect/decal/cleanable/blood/tracks{
+/obj/effect/decal/cleanable/vital/organic/blood/tracks{
 	dir = 8
 	},
 /turf/open/indestructible/white,
@@ -1440,7 +1440,7 @@
 "Bu" = (
 /obj/item/ammo_casing/spent,
 /obj/item/ammo_casing/spent,
-/obj/effect/decal/cleanable/blood/splatter,
+/obj/effect/decal/cleanable/vital/organic/blood/splatter,
 /turf/open/indestructible/white,
 /area/ruin/space/has_grav/powered/biooutpost)
 "Bx" = (
@@ -1480,7 +1480,7 @@
 /obj/effect/turf_decal/tile/yellow/half/contrasted{
 	dir = 4
 	},
-/obj/effect/decal/cleanable/blood/splatter,
+/obj/effect/decal/cleanable/vital/organic/blood/splatter,
 /turf/open/indestructible/white,
 /area/ruin/space/has_grav/powered/biooutpost)
 "Cl" = (
@@ -1601,7 +1601,7 @@
 /turf/open/indestructible/white,
 /area/ruin/space/has_grav/powered/biooutpost)
 "Ew" = (
-/obj/effect/decal/cleanable/blood/tracks{
+/obj/effect/decal/cleanable/vital/organic/blood/tracks{
 	dir = 5
 	},
 /turf/open/indestructible/white,
@@ -1807,7 +1807,7 @@
 "Jf" = (
 /obj/effect/turf_decal/tile/purple/anticorner/contrasted,
 /obj/structure/sign/departments/security/directional/east,
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /turf/open/indestructible/white,
 /area/ruin/space/has_grav/powered/biooutpost)
 "Jh" = (
@@ -1836,7 +1836,7 @@
 /area/ruin/space/has_grav/powered/biooutpost)
 "Ju" = (
 /obj/effect/turf_decal/tile/purple/opposingcorners,
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /turf/open/indestructible/white,
 /area/ruin/space/has_grav/powered/biooutpost)
 "Jx" = (
@@ -1856,7 +1856,7 @@
 "Ka" = (
 /mob/living/basic/living_floor/white,
 /obj/effect/decal/cleanable/dirt,
-/obj/effect/decal/cleanable/blood/tracks,
+/obj/effect/decal/cleanable/vital/organic/blood/tracks,
 /turf/open/indestructible/meat,
 /area/ruin/space/has_grav/powered/biooutpost)
 "Kc" = (
@@ -1885,7 +1885,7 @@
 /obj/effect/turf_decal/siding/purple/corner{
 	dir = 4
 	},
-/obj/effect/decal/cleanable/blood/splatter,
+/obj/effect/decal/cleanable/vital/organic/blood/splatter,
 /turf/open/indestructible/white,
 /area/ruin/space/has_grav/powered/biooutpost)
 "KC" = (
@@ -1907,7 +1907,7 @@
 /turf/open/indestructible/plating,
 /area/ruin/space/has_grav/powered/biooutpost)
 "KP" = (
-/obj/effect/decal/cleanable/blood/tracks,
+/obj/effect/decal/cleanable/vital/organic/blood/tracks,
 /obj/effect/turf_decal/tile/purple,
 /turf/open/floor/iron/white,
 /area/ruin/space/has_grav/powered/biooutpost)
@@ -1961,7 +1961,7 @@
 /area/ruin/space/has_grav/powered/biooutpost)
 "Mp" = (
 /obj/effect/decal/cleanable/dirt,
-/obj/effect/decal/cleanable/blood/tracks,
+/obj/effect/decal/cleanable/vital/organic/blood/tracks,
 /turf/open/indestructible/white,
 /area/ruin/space/has_grav/powered/biooutpost)
 "MF" = (
@@ -1975,7 +1975,7 @@
 /area/ruin/space/has_grav/powered/biooutpost)
 "MH" = (
 /obj/effect/turf_decal/siding/wood,
-/obj/effect/decal/cleanable/blood/splatter,
+/obj/effect/decal/cleanable/vital/organic/blood/splatter,
 /turf/open/floor/carpet,
 /area/ruin/space/has_grav/powered/biooutpost)
 "ML" = (
@@ -2065,7 +2065,7 @@
 /turf/open/indestructible,
 /area/ruin/space/has_grav/powered/biooutpost)
 "Oo" = (
-/obj/effect/decal/cleanable/blood/tracks,
+/obj/effect/decal/cleanable/vital/organic/blood/tracks,
 /turf/open/floor/plating,
 /area/ruin/space/has_grav/powered/biooutpost)
 "OC" = (
@@ -2180,7 +2180,7 @@
 "Qj" = (
 /obj/machinery/door/airlock/external,
 /obj/effect/mapping_helpers/airlock/welded,
-/obj/effect/decal/cleanable/blood/tracks,
+/obj/effect/decal/cleanable/vital/organic/blood/tracks,
 /turf/open/indestructible/plating,
 /area/ruin/space/has_grav/powered/biooutpost)
 "Qw" = (
@@ -2201,7 +2201,7 @@
 /turf/open/indestructible/white,
 /area/ruin/space/has_grav/powered/biooutpost)
 "QP" = (
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /obj/structure/chair/office/light,
 /obj/effect/turf_decal/tile/purple/opposingcorners,
 /turf/open/indestructible/white,
@@ -2232,7 +2232,7 @@
 /area/ruin/space)
 "RH" = (
 /mob/living/basic/living_floor/white,
-/obj/effect/decal/cleanable/blood/tracks,
+/obj/effect/decal/cleanable/vital/organic/blood/tracks,
 /turf/open/indestructible/meat,
 /area/ruin/space/has_grav/powered/biooutpost)
 "RN" = (
@@ -2245,7 +2245,7 @@
 /obj/effect/decal/cleanable/glass,
 /mob/living/basic/living_limb_flesh,
 /obj/item/kirbyplants/random/dead,
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /obj/effect/turf_decal/tile/purple/opposingcorners,
 /turf/open/indestructible/white,
 /area/ruin/space/has_grav/powered/biooutpost)
@@ -2573,7 +2573,7 @@
 "YD" = (
 /obj/item/ammo_casing/spent,
 /obj/item/ammo_casing/spent,
-/obj/effect/decal/cleanable/blood/tracks,
+/obj/effect/decal/cleanable/vital/organic/blood/tracks,
 /obj/item/ammo_casing/c45/spent,
 /turf/open/indestructible/white,
 /area/ruin/space/has_grav/powered/biooutpost)

@@ -101,7 +101,7 @@
 /area/shuttle/abandoned)
 "hP" = (
 /obj/effect/decal/cleanable/dirt,
-/obj/effect/decal/cleanable/oil,
+/obj/effect/decal/cleanable/vital/robotic/oil,
 /obj/item/stack/cable_coil,
 /turf/open/floor/iron/airless,
 /area/shuttle/abandoned)
@@ -178,7 +178,7 @@
 /area/shuttle/abandoned)
 "qy" = (
 /obj/effect/decal/cleanable/dirt,
-/obj/effect/decal/cleanable/oil/slippery,
+/obj/effect/decal/cleanable/vital/robotic/oil/slippery,
 /turf/open/floor/plating/airless,
 /area/shuttle/abandoned)
 "rq" = (
@@ -195,7 +195,7 @@
 "sg" = (
 /obj/effect/decal/cleanable/dirt,
 /obj/effect/decal/cleanable/generic,
-/obj/effect/decal/cleanable/oil,
+/obj/effect/decal/cleanable/vital/robotic/oil,
 /turf/open/floor/iron/airless,
 /area/shuttle/abandoned)
 "sw" = (
@@ -349,7 +349,7 @@
 /area/shuttle/abandoned)
 "KZ" = (
 /obj/effect/decal/cleanable/dirt,
-/obj/effect/decal/cleanable/blood/splatter,
+/obj/effect/decal/cleanable/vital/organic/blood/splatter,
 /turf/open/floor/plating/airless,
 /area/shuttle/abandoned)
 "Lb" = (
@@ -381,7 +381,7 @@
 /area/shuttle/abandoned)
 "Nm" = (
 /obj/effect/decal/cleanable/dirt,
-/obj/effect/decal/cleanable/blood/gibs/old,
+/obj/effect/decal/cleanable/vital/organic/gibs/old,
 /obj/item/stack/rods,
 /turf/open/floor/iron/airless,
 /area/shuttle/abandoned)

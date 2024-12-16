@@ -43,8 +43,8 @@
 
 /mob/living/basic/demon/slaughter/grant_loot()
 	var/static/list/droppable_loot = list(
-		/obj/effect/decal/cleanable/blood,
-		/obj/effect/decal/cleanable/blood/innards,
+		/obj/effect/decal/cleanable/vital/organic/blood,
+		/obj/effect/decal/cleanable/vital/organic/blood/innards,
 		/obj/item/organ/heart/demon,
 	)
 

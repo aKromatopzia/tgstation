@@ -63,7 +63,7 @@
 /area/lavaland/surface/outdoors/virtual_domain)
 "bR" = (
 /obj/item/paper/crumpled/bloody/ruins/lavaland/clown_planet/hope,
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /obj/effect/mapping_helpers/no_lava,
 /turf/open/floor/noslip,
 /area/lavaland/surface/outdoors/virtual_domain)
@@ -113,7 +113,7 @@
 /area/lavaland/surface/outdoors/virtual_domain)
 "fh" = (
 /obj/effect/mob_spawn/corpse/human/damaged,
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /obj/structure/disposalpipe/segment{
 	invisibility = 101
 	},
@@ -326,7 +326,7 @@
 /area/lavaland/surface/outdoors/virtual_domain)
 "tv" = (
 /obj/effect/mob_spawn/corpse/human/damaged,
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /obj/effect/turf_decal/tile/yellow/fourcorners,
 /turf/open/indestructible/permalube,
 /area/lavaland/surface/outdoors/virtual_domain)
@@ -547,7 +547,7 @@
 /area/lavaland/surface/outdoors/virtual_domain)
 "Kh" = (
 /obj/effect/mob_spawn/corpse/human/damaged,
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /turf/open/indestructible/honk,
 /area/lavaland/surface/outdoors/virtual_domain)
 "KG" = (
@@ -701,7 +701,7 @@
 /turf/open/floor/carpet,
 /area/lavaland/surface/outdoors/virtual_domain)
 "UL" = (
-/obj/effect/decal/cleanable/oil,
+/obj/effect/decal/cleanable/vital/robotic/oil,
 /obj/structure/disposalpipe/segment{
 	dir = 10
 	},

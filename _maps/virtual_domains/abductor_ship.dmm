@@ -132,7 +132,7 @@
 /turf/closed/indestructible/alien/nodiagonal,
 /area/virtual_domain)
 "pT" = (
-/obj/effect/decal/cleanable/blood/footprints,
+/obj/effect/decal/cleanable/vital/organic/blood/footprints,
 /turf/open/floor/plating/abductor,
 /area/virtual_domain)
 "rw" = (
@@ -214,7 +214,7 @@
 /turf/open/floor/plating/abductor,
 /area/virtual_domain)
 "yt" = (
-/obj/effect/decal/cleanable/blood/xtracks,
+/obj/effect/decal/cleanable/vital/organic/blood/xtracks,
 /turf/open/floor/plating/abductor,
 /area/virtual_domain)
 "zX" = (
@@ -262,7 +262,7 @@
 /area/virtual_domain)
 "KK" = (
 /obj/structure/bed/abductor,
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /turf/open/floor/plating/abductor,
 /area/virtual_domain)
 "KX" = (
@@ -386,7 +386,7 @@
 	pixel_x = 9;
 	pixel_y = -5
 	},
-/obj/effect/decal/cleanable/xenoblood,
+/obj/effect/decal/cleanable/vital/organic/xenoblood,
 /turf/open/floor/plating/abductor,
 /area/virtual_domain)
 "We" = (
@@ -410,11 +410,11 @@
 /turf/open/floor/plating/abductor,
 /area/virtual_domain)
 "XU" = (
-/obj/effect/decal/cleanable/xenoblood/xgibs/body,
+/obj/effect/decal/cleanable/vital/organic/xgibs/body,
 /turf/open/floor/plating/abductor,
 /area/virtual_domain)
 "Yq" = (
-/obj/effect/decal/cleanable/xenoblood/xsplatter,
+/obj/effect/decal/cleanable/vital/organic/xenoblood/xsplatter,
 /turf/open/floor/plating/abductor,
 /area/virtual_domain)
 "YV" = (

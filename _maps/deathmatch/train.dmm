@@ -23,7 +23,7 @@
 /area/deathmatch)
 "bR" = (
 /obj/effect/landmark/deathmatch_player_spawn,
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /turf/open/floor/iron/kitchen,
 /area/deathmatch)
 "bY" = (
@@ -63,7 +63,7 @@
 "cv" = (
 /obj/structure/safe,
 /obj/item/gun/energy/laser/instakill,
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /obj/effect/mapping_helpers/broken_floor,
 /turf/open/indestructible/plating,
 /area/deathmatch)
@@ -92,7 +92,7 @@
 /area/deathmatch)
 "ec" = (
 /obj/item/ammo_casing/shotgun/breacher,
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /obj/effect/mapping_helpers/broken_floor,
 /turf/open/indestructible/plating,
 /area/deathmatch)
@@ -188,7 +188,7 @@
 /area/deathmatch)
 "kd" = (
 /obj/structure/closet/crate/bin,
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /turf/open/floor/iron/kitchen,
 /area/deathmatch)
 "ke" = (
@@ -268,7 +268,7 @@
 /turf/open/floor/wood,
 /area/deathmatch)
 "pm" = (
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /turf/open/floor/iron/kitchen,
 /area/deathmatch)
 "pO" = (
@@ -298,7 +298,7 @@
 /area/deathmatch)
 "qY" = (
 /obj/effect/landmark/deathmatch_player_spawn,
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /obj/effect/mapping_helpers/broken_floor,
 /turf/open/indestructible/plating,
 /area/deathmatch)
@@ -432,7 +432,7 @@
 	dir = 1
 	},
 /obj/effect/decal/cleanable/glass,
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /obj/effect/mapping_helpers/broken_floor,
 /turf/open/indestructible/plating,
 /area/deathmatch)
@@ -542,7 +542,7 @@
 "BC" = (
 /obj/item/ammo_casing/shotgun/scatterlaser,
 /obj/structure/kitchenspike,
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /obj/effect/mapping_helpers/broken_floor,
 /turf/open/indestructible/plating,
 /area/deathmatch)
@@ -665,7 +665,7 @@
 /turf/open/floor/iron/kitchen,
 /area/deathmatch)
 "GQ" = (
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /obj/effect/mapping_helpers/broken_floor,
 /turf/open/indestructible/plating,
 /area/deathmatch)
@@ -714,7 +714,7 @@
 /area/deathmatch)
 "IJ" = (
 /obj/structure/kitchenspike,
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /obj/effect/mapping_helpers/broken_floor,
 /turf/open/indestructible/plating,
 /area/deathmatch)
@@ -737,7 +737,7 @@
 "Kv" = (
 /obj/structure/table/reinforced,
 /obj/item/gun/ballistic/shotgun/doublebarrel,
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /obj/effect/mapping_helpers/broken_floor,
 /turf/open/indestructible/plating,
 /area/deathmatch)
@@ -773,7 +773,7 @@
 "Ow" = (
 /obj/item/ammo_casing/shotgun/pulverizer,
 /obj/structure/kitchenspike,
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /obj/effect/mapping_helpers/broken_floor,
 /turf/open/indestructible/plating,
 /area/deathmatch)
@@ -836,7 +836,7 @@
 /area/deathmatch)
 "TA" = (
 /obj/machinery/griddle,
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /turf/open/floor/iron/kitchen,
 /area/deathmatch)
 "Uq" = (
@@ -846,7 +846,7 @@
 /area/deathmatch)
 "Vc" = (
 /obj/effect/decal/cleanable/glass,
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /obj/effect/mapping_helpers/broken_floor,
 /turf/open/indestructible/plating,
 /area/deathmatch)
@@ -866,7 +866,7 @@
 /obj/item/food/grown/potato,
 /obj/item/food/grown/potato,
 /obj/item/food/grown/potato,
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /turf/open/floor/iron/kitchen,
 /area/deathmatch)
 "VT" = (
@@ -879,7 +879,7 @@
 /area/deathmatch)
 "Ww" = (
 /obj/machinery/computer/old,
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /obj/effect/mapping_helpers/broken_floor,
 /turf/open/indestructible/plating,
 /area/deathmatch)

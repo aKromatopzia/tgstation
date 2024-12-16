@@ -29,7 +29,7 @@
 	gain_text = "Hundreds of us starved, but not me... I found strength in my greed."
 	required_atoms = list(
 		/obj/item/knife = 1,
-		/obj/effect/decal/cleanable/blood = 1,
+		/obj/effect/decal/cleanable/vital/organic/blood = 1,
 	)
 	result_atoms = list(/obj/item/melee/sickly_blade/flesh)
 	limit = 3 // Bumped up so they can arm up their ghouls too.
@@ -226,7 +226,7 @@
 		The screams... once constant, now silenced by their wretched appearance. Nothing was out of reach."
 	required_atoms = list(
 		/obj/item/organ/eyes = 1,
-		/obj/effect/decal/cleanable/blood = 1,
+		/obj/effect/decal/cleanable/vital/organic/blood = 1,
 		/obj/item/bodypart/arm/left = 1,
 	)
 	mob_to_summon = /mob/living/basic/heretic_summon/raw_prophet

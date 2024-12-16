@@ -142,7 +142,7 @@
 /turf/open/floor/circuit/red/airless,
 /area/ruin/space/unpowered)
 "jt" = (
-/obj/effect/decal/cleanable/oil,
+/obj/effect/decal/cleanable/vital/robotic/oil,
 /obj/effect/spawner/random/maintenance,
 /turf/open/floor/mineral/plastitanium/red/airless,
 /area/ruin/space/unpowered)
@@ -180,7 +180,7 @@
 /turf/open/floor/mineral/plastitanium/red,
 /area/ruin/space/unpowered)
 "mq" = (
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /turf/open/floor/mineral/plastitanium/red,
 /area/ruin/space/unpowered)
 "mr" = (
@@ -209,7 +209,7 @@
 /area/template_noop)
 "nF" = (
 /obj/item/radio/intercom/directional/south,
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /obj/item/ammo_casing/c357/match,
 /obj/item/ammo_casing/c357/match{
 	pixel_y = -4;
@@ -330,7 +330,7 @@
 /turf/open/floor/iron/dark/airless,
 /area/ruin/space/unpowered)
 "vK" = (
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /turf/open/floor/mineral/plastitanium/red/airless,
 /area/ruin/space/unpowered)
 "wJ" = (
@@ -391,7 +391,7 @@
 /turf/open/floor/mineral/plastitanium/red,
 /area/ruin/space/unpowered)
 "AX" = (
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /obj/item/ammo_casing/spent,
 /obj/item/ammo_casing/spent{
 	pixel_y = -8;
@@ -473,7 +473,7 @@
 /turf/open/floor/circuit/red/airless,
 /area/ruin/space/unpowered)
 "Fn" = (
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /obj/item/shield/riot{
 	pixel_y = 4;
 	pixel_x = 7
@@ -566,7 +566,7 @@
 	pixel_x = 32
 	},
 /obj/machinery/light/directional/east,
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /turf/open/floor/mineral/plastitanium/red,
 /area/ruin/space/unpowered)
 "MB" = (
@@ -696,7 +696,7 @@
 /turf/open/floor/mineral/plastitanium/red,
 /area/ruin/space/unpowered)
 "WS" = (
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /obj/item/ammo_casing/spent{
 	pixel_y = -6;
 	pixel_x = -4

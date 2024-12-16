@@ -70,7 +70,7 @@
 
 	var/static/list/cult_appetite = list(
 		/obj/item/organ,
-		/obj/effect/decal/cleanable/blood,
+		/obj/effect/decal/cleanable/vital/organic/blood,
 	)
 
 	var/static/list/death_loot = list(

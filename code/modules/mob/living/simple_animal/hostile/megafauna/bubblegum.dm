@@ -101,7 +101,7 @@ Difficulty: Hard
 	RegisterSignal(src, COMSIG_FINISHED_CHARGE, PROC_REF(after_charge))
 	if(spawn_blood)
 		AddComponent(/datum/component/blood_walk, \
-			blood_type = /obj/effect/decal/cleanable/blood/bubblegum, \
+			blood_type = /obj/effect/decal/cleanable/vital/organic/blood/bubblegum, \
 			sound_played = 'sound/effects/meteorimpact.ogg', \
 			sound_volume = 200)
 
@@ -281,7 +281,7 @@ Difficulty: Hard
 	if(hallucination_charge)
 		hallucination_charge.enraged = BUBBLEGUM_SMASH
 	if(. > 0 && prob(25))
-		var/obj/effect/decal/cleanable/blood/gibs/bubblegum/B = new /obj/effect/decal/cleanable/blood/gibs/bubblegum(loc)
+		var/obj/effect/decal/cleanable/vital/organic/gibs/bubblegum/B = new /obj/effect/decal/cleanable/vital/organic/gibs/bubblegum(loc)
 		if(prob(40))
 			step(B, pick(GLOB.cardinals))
 		else
@@ -337,7 +337,7 @@ Difficulty: Hard
 
 /mob/living/simple_animal/hostile/megafauna/bubblegum/hallucination/Destroy()
 	if(spawn_blood)
-		new /obj/effect/decal/cleanable/blood(get_turf(src))
+		new /obj/effect/decal/cleanable/vital/organic/blood(get_turf(src))
 	. = ..()
 
 /mob/living/simple_animal/hostile/megafauna/bubblegum/hallucination/Life(seconds_per_tick = SSMOBS_DT, times_fired)
@@ -355,19 +355,19 @@ Difficulty: Hard
 /mob/living/simple_animal/hostile/megafauna/bubblegum/hallucination/try_bloodattack()
 	return
 
-/obj/effect/decal/cleanable/blood/bubblegum
+/obj/effect/decal/cleanable/vital/organic/blood/bubblegum
 	bloodiness = 0
 
-/obj/effect/decal/cleanable/blood/bubblegum/can_bloodcrawl_in()
+/obj/effect/decal/cleanable/vital/organic/blood/bubblegum/can_bloodcrawl_in()
 	return TRUE
 
-/obj/effect/decal/cleanable/blood/gibs/bubblegum
+/obj/effect/decal/cleanable/vital/organic/gibs/bubblegum
 	name = "thick blood"
 	desc = "Thick, splattered blood."
 	random_icon_states = list("gib3", "gib5", "gib6")
 	bloodiness = 20
 
-/obj/effect/decal/cleanable/blood/gibs/bubblegum/can_bloodcrawl_in()
+/obj/effect/decal/cleanable/vital/organic/gibs/bubblegum/can_bloodcrawl_in()
 	return TRUE
 
 /obj/effect/temp_visual/dragon_swoop/bubblegum

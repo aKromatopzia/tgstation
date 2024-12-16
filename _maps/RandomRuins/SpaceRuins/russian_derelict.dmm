@@ -80,7 +80,7 @@
 /turf/open/floor/plating/airless,
 /area/ruin/space/ks13/science/rnd)
 "aD" = (
-/obj/effect/decal/cleanable/blood/footprints{
+/obj/effect/decal/cleanable/vital/organic/blood/footprints{
 	dir = 8
 	},
 /obj/effect/decal/cleanable/dirt,
@@ -233,7 +233,7 @@
 /turf/open/floor/iron/airless,
 /area/ruin/space/ks13/tool_storage)
 "cj" = (
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /obj/effect/decal/cleanable/dirt,
 /obj/effect/decal/cleanable/dirt,
 /obj/structure/cable,
@@ -249,11 +249,11 @@
 /area/ruin/space/ks13/security/cell)
 "cr" = (
 /obj/effect/mapping_helpers/broken_floor,
-/obj/effect/decal/cleanable/blood/drip{
+/obj/effect/decal/cleanable/vital/organic/blood/drip{
 	pixel_y = 17;
 	pixel_x = 10
 	},
-/obj/effect/decal/cleanable/blood/drip{
+/obj/effect/decal/cleanable/vital/organic/blood/drip{
 	pixel_y = 9;
 	pixel_x = 13
 	},
@@ -675,7 +675,7 @@
 "hY" = (
 /obj/item/stack/cable_coil/cut,
 /obj/effect/mapping_helpers/broken_floor,
-/obj/effect/decal/cleanable/blood/splatter,
+/obj/effect/decal/cleanable/vital/organic/blood/splatter,
 /turf/open/floor/plating/airless,
 /area/ruin/space/ks13/security/sec)
 "ia" = (
@@ -1300,7 +1300,7 @@
 /turf/open/floor/circuit/red/airless,
 /area/ruin/space/ks13/ai/vault)
 "pc" = (
-/obj/effect/decal/cleanable/blood/splatter,
+/obj/effect/decal/cleanable/vital/organic/blood/splatter,
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/iron/airless,
 /area/ruin/space/ks13/service/cafe)
@@ -1400,7 +1400,7 @@
 /area/ruin/space/ks13/command/eva)
 "pB" = (
 /obj/effect/mapping_helpers/broken_floor,
-/obj/effect/decal/cleanable/blood/footprints{
+/obj/effect/decal/cleanable/vital/organic/blood/footprints{
 	dir = 4
 	},
 /obj/effect/decal/cleanable/dirt,
@@ -1408,7 +1408,7 @@
 /turf/open/floor/plating/airless,
 /area/ruin/space/ks13/security/sec)
 "pC" = (
-/obj/effect/decal/cleanable/blood/gibs/old,
+/obj/effect/decal/cleanable/vital/organic/gibs/old,
 /obj/effect/decal/cleanable/glass,
 /obj/item/shard,
 /turf/open/floor/iron/airless,
@@ -1485,7 +1485,7 @@
 /turf/open/floor/plating,
 /area/ruin/space/ks13/command/bridge_hall)
 "pX" = (
-/obj/effect/decal/cleanable/blood/footprints{
+/obj/effect/decal/cleanable/vital/organic/blood/footprints{
 	dir = 4
 	},
 /obj/effect/decal/cleanable/dirt,
@@ -1733,14 +1733,14 @@
 /turf/closed/wall,
 /area/ruin/space/ks13/service/chapel)
 "ry" = (
-/obj/effect/decal/cleanable/blood/splatter,
+/obj/effect/decal/cleanable/vital/organic/blood/splatter,
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/plating/airless,
 /area/ruin/space/ks13/science/genetics)
 "rz" = (
 /obj/structure/chair/stool/directional/east,
 /obj/effect/decal/remains/human,
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /obj/effect/decal/cleanable/dirt,
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/plating/airless,
@@ -2012,8 +2012,8 @@
 /turf/open/floor/iron/airless,
 /area/ruin/space/ks13/ai/vault)
 "sH" = (
-/obj/effect/decal/cleanable/blood/drip,
-/obj/effect/decal/cleanable/blood/drip{
+/obj/effect/decal/cleanable/vital/organic/blood/drip,
+/obj/effect/decal/cleanable/vital/organic/blood/drip{
 	pixel_y = 5;
 	pixel_x = 6
 	},
@@ -2093,7 +2093,7 @@
 /turf/closed/wall/r_wall,
 /area/ruin/space/ks13/engineering/supermatter)
 "sX" = (
-/obj/effect/decal/cleanable/blood/footprints{
+/obj/effect/decal/cleanable/vital/organic/blood/footprints{
 	dir = 1
 	},
 /obj/effect/decal/cleanable/dirt,
@@ -2260,7 +2260,7 @@
 /turf/open/floor/iron/dark,
 /area/ruin/space/ks13/medical/morgue)
 "ub" = (
-/obj/effect/decal/cleanable/blood/splatter,
+/obj/effect/decal/cleanable/vital/organic/blood/splatter,
 /obj/structure/window/reinforced/spawner/directional/north,
 /obj/effect/decal/cleanable/dirt,
 /obj/effect/mapping_helpers/broken_floor,
@@ -2488,19 +2488,19 @@
 /area/ruin/space/ks13/engineering/atmos)
 "vz" = (
 /obj/effect/mapping_helpers/burnt_floor,
-/obj/effect/decal/cleanable/blood/footprints,
+/obj/effect/decal/cleanable/vital/organic/blood/footprints,
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/plating/airless,
 /area/ruin/space/ks13/security/sec)
 "vA" = (
-/obj/effect/decal/cleanable/blood/gibs/old,
+/obj/effect/decal/cleanable/vital/organic/gibs/old,
 /obj/effect/decal/cleanable/dirt,
 /obj/structure/frame/machine,
 /turf/open/floor/plating/airless,
 /area/ruin/space/ks13/service/cafe)
 "vB" = (
 /obj/effect/mapping_helpers/broken_floor,
-/obj/effect/decal/cleanable/blood/splatter,
+/obj/effect/decal/cleanable/vital/organic/blood/splatter,
 /turf/open/floor/plating/airless,
 /area/ruin/space/ks13/security/cell)
 "vC" = (
@@ -2583,7 +2583,7 @@
 /turf/closed/wall/r_wall,
 /area/ruin/space/ks13/dorms)
 "we" = (
-/obj/effect/decal/cleanable/blood/footprints,
+/obj/effect/decal/cleanable/vital/organic/blood/footprints,
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/iron/airless,
 /area/ruin/space/ks13/hallway/aft)
@@ -2798,7 +2798,7 @@
 /area/ruin/space/ks13/ai/vault)
 "xg" = (
 /obj/structure/cable,
-/obj/effect/decal/cleanable/blood/splatter,
+/obj/effect/decal/cleanable/vital/organic/blood/splatter,
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/iron/airless,
 /area/ruin/space/ks13/hallway/aft)
@@ -2953,7 +2953,7 @@
 /area/ruin/space/ks13/engineering/aux_storage)
 "xV" = (
 /obj/effect/mapping_helpers/broken_floor,
-/obj/effect/decal/cleanable/blood/splatter,
+/obj/effect/decal/cleanable/vital/organic/blood/splatter,
 /turf/open/floor/plating/airless,
 /area/ruin/space/ks13/security/sec)
 "xW" = (
@@ -3410,7 +3410,7 @@
 	pixel_y = -2
 	},
 /obj/effect/decal/cleanable/glass,
-/obj/effect/decal/cleanable/blood/splatter,
+/obj/effect/decal/cleanable/vital/organic/blood/splatter,
 /turf/open/floor/plating/airless,
 /area/ruin/space/ks13/security/sec)
 "Aj" = (
@@ -3502,7 +3502,7 @@
 	pixel_x = 3;
 	pixel_y = -2
 	},
-/obj/effect/decal/cleanable/blood/splatter,
+/obj/effect/decal/cleanable/vital/organic/blood/splatter,
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/plating/airless,
 /area/ruin/space/ks13/security/sec)
@@ -3541,7 +3541,7 @@
 "AO" = (
 /obj/effect/decal/cleanable/glass,
 /obj/effect/mapping_helpers/broken_floor,
-/obj/effect/decal/cleanable/blood/splatter,
+/obj/effect/decal/cleanable/vital/organic/blood/splatter,
 /turf/open/floor/plating/airless,
 /area/ruin/space/ks13/security/sec)
 "AP" = (
@@ -3551,7 +3551,7 @@
 /area/ruin/space/ks13/engineering/secure_storage)
 "AQ" = (
 /obj/effect/mapping_helpers/burnt_floor,
-/obj/effect/decal/cleanable/blood/splatter,
+/obj/effect/decal/cleanable/vital/organic/blood/splatter,
 /turf/open/floor/plating/airless,
 /area/ruin/space/ks13/hallway/central)
 "AR" = (
@@ -3570,7 +3570,7 @@
 /turf/open/floor/plating/airless,
 /area/ruin/space/ks13/science/genetics)
 "AV" = (
-/obj/effect/decal/cleanable/blood/gibs/old,
+/obj/effect/decal/cleanable/vital/organic/gibs/old,
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/plating/airless,
 /area/ruin/space/ks13/security/cell)
@@ -3598,7 +3598,7 @@
 "Bb" = (
 /obj/effect/decal/cleanable/glass,
 /obj/effect/mapping_helpers/burnt_floor,
-/obj/effect/decal/cleanable/blood/splatter,
+/obj/effect/decal/cleanable/vital/organic/blood/splatter,
 /obj/effect/decal/cleanable/dirt,
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/iron/airless,
@@ -3612,7 +3612,7 @@
 /turf/open/floor/plating,
 /area/ruin/space/ks13/science/ordnance)
 "Bf" = (
-/obj/effect/decal/cleanable/blood/splatter,
+/obj/effect/decal/cleanable/vital/organic/blood/splatter,
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/plating/airless,
 /area/ruin/space/ks13/security/sec)
@@ -3841,7 +3841,7 @@
 /area/ruin/space/ks13/hallway/central)
 "Cx" = (
 /obj/structure/cable,
-/obj/effect/decal/cleanable/blood/footprints,
+/obj/effect/decal/cleanable/vital/organic/blood/footprints,
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/iron/airless,
 /area/ruin/space/ks13/hallway/aft)
@@ -4511,11 +4511,11 @@
 /turf/open/floor/iron/white/airless,
 /area/ruin/space/ks13/medical/medbay)
 "FY" = (
-/obj/effect/decal/cleanable/blood/drip{
+/obj/effect/decal/cleanable/vital/organic/blood/drip{
 	pixel_x = -4;
 	pixel_y = 10
 	},
-/obj/effect/decal/cleanable/blood/drip{
+/obj/effect/decal/cleanable/vital/organic/blood/drip{
 	pixel_y = 9;
 	pixel_x = 13
 	},
@@ -4523,7 +4523,7 @@
 /turf/open/floor/iron/airless,
 /area/ruin/space/ks13/hallway/aft)
 "FZ" = (
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/plating/airless,
 /area/ruin/space/ks13/science/genetics)
@@ -4545,11 +4545,11 @@
 /area/space/nearstation)
 "Gg" = (
 /obj/structure/cable,
-/obj/effect/decal/cleanable/blood/drip{
+/obj/effect/decal/cleanable/vital/organic/blood/drip{
 	pixel_y = 5;
 	pixel_x = 6
 	},
-/obj/effect/decal/cleanable/blood/drip{
+/obj/effect/decal/cleanable/vital/organic/blood/drip{
 	pixel_x = -4;
 	pixel_y = 10
 	},
@@ -4572,7 +4572,7 @@
 /area/ruin/space/ks13/engineering/atmos)
 "Gl" = (
 /obj/effect/mapping_helpers/burnt_floor,
-/obj/effect/decal/cleanable/blood/splatter,
+/obj/effect/decal/cleanable/vital/organic/blood/splatter,
 /obj/effect/decal/cleanable/dirt,
 /obj/structure/cable,
 /turf/open/floor/plating/airless,
@@ -4696,15 +4696,15 @@
 /turf/open/floor/plating/airless,
 /area/ruin/space/ks13/engineering/supermatter)
 "GU" = (
-/obj/effect/decal/cleanable/blood/drip{
+/obj/effect/decal/cleanable/vital/organic/blood/drip{
 	pixel_x = -4;
 	pixel_y = 10
 	},
-/obj/effect/decal/cleanable/blood/drip{
+/obj/effect/decal/cleanable/vital/organic/blood/drip{
 	pixel_y = 5;
 	pixel_x = 6
 	},
-/obj/effect/decal/cleanable/blood/drip{
+/obj/effect/decal/cleanable/vital/organic/blood/drip{
 	pixel_y = 17;
 	pixel_x = 10
 	},
@@ -4939,7 +4939,7 @@
 /area/ruin/space/ks13/command/bridge_hall)
 "Ib" = (
 /obj/effect/mapping_helpers/broken_floor,
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/iron/airless,
 /area/ruin/space/ks13/security/sec)
@@ -5003,7 +5003,7 @@
 /turf/open/floor/iron/airless,
 /area/ruin/space/ks13/hallway/aft)
 "IC" = (
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/iron/dark,
 /area/ruin/space/ks13/medical/morgue)
@@ -5472,7 +5472,7 @@
 /turf/open/floor/iron/airless,
 /area/ruin/space/ks13/engineering/secure_storage)
 "KZ" = (
-/obj/effect/decal/cleanable/blood/splatter,
+/obj/effect/decal/cleanable/vital/organic/blood/splatter,
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/iron/dark,
 /area/ruin/space/ks13/medical/morgue)
@@ -5514,7 +5514,7 @@
 /turf/open/floor/plating/airless,
 /area/ruin/space/ks13/hallway/central)
 "Lo" = (
-/obj/effect/decal/cleanable/blood/gibs/up,
+/obj/effect/decal/cleanable/vital/organic/gibs/up,
 /obj/effect/decal/cleanable/dirt,
 /obj/effect/decal/cleanable/dirt,
 /obj/effect/decal/cleanable/dirt,
@@ -5740,7 +5740,7 @@
 /turf/open/floor/iron/airless,
 /area/ruin/space/ks13/hallway/central)
 "MA" = (
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /turf/open/floor/plating/airless,
 /area/ruin/space/ks13/security/sec)
 "MB" = (
@@ -6003,7 +6003,7 @@
 	},
 /area/ruin/space/ks13/service/chapel)
 "NP" = (
-/obj/effect/decal/cleanable/blood/footprints{
+/obj/effect/decal/cleanable/vital/organic/blood/footprints{
 	dir = 8
 	},
 /turf/open/floor/iron/airless,
@@ -6154,7 +6154,7 @@
 /turf/open/floor/iron,
 /area/ruin/space/ks13/command/bridge_hall)
 "OI" = (
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/iron/airless,
 /area/ruin/space/ks13/hallway/aft)
@@ -6411,7 +6411,7 @@
 /turf/open/floor/plating/airless,
 /area/ruin/space/ks13/engineering/supermatter)
 "PJ" = (
-/obj/effect/decal/cleanable/blood/footprints{
+/obj/effect/decal/cleanable/vital/organic/blood/footprints{
 	dir = 4
 	},
 /obj/effect/decal/cleanable/dirt,
@@ -6473,7 +6473,7 @@
 /area/space/nearstation)
 "Qh" = (
 /obj/structure/table_frame,
-/obj/effect/decal/cleanable/blood/gibs/old,
+/obj/effect/decal/cleanable/vital/organic/gibs/old,
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/iron/dark,
 /area/ruin/space/ks13/medical/morgue)
@@ -6902,7 +6902,7 @@
 /area/ruin/space/ks13/science/rnd)
 "Sv" = (
 /obj/effect/mapping_helpers/broken_floor,
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /obj/effect/decal/cleanable/dirt,
 /obj/item/stack/cable_coil/cut,
 /turf/open/floor/plating/airless,
@@ -6948,7 +6948,7 @@
 /area/ruin/space/ks13/service/chapel)
 "SD" = (
 /obj/item/food/monkeycube,
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /obj/effect/decal/cleanable/dirt,
 /obj/effect/mapping_helpers/broken_floor,
 /turf/open/floor/plating/airless,
@@ -6988,13 +6988,13 @@
 /turf/open/floor/iron,
 /area/ruin/space/ks13/science/ordnance)
 "SK" = (
-/obj/effect/decal/cleanable/blood/splatter,
+/obj/effect/decal/cleanable/vital/organic/blood/splatter,
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/plating,
 /area/ruin/space/ks13/medical/morgue)
 "SL" = (
 /obj/effect/decal/cleanable/glass,
-/obj/effect/decal/cleanable/blood/splatter,
+/obj/effect/decal/cleanable/vital/organic/blood/splatter,
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/plating/airless,
 /area/ruin/space/ks13/security/sec)
@@ -7064,11 +7064,11 @@
 /turf/open/floor/plating,
 /area/ruin/space/ks13/medical/morgue)
 "SX" = (
-/obj/effect/decal/cleanable/blood/drip{
+/obj/effect/decal/cleanable/vital/organic/blood/drip{
 	pixel_y = 11;
 	pixel_x = -2
 	},
-/obj/effect/decal/cleanable/blood/drip{
+/obj/effect/decal/cleanable/vital/organic/blood/drip{
 	pixel_y = 9;
 	pixel_x = 13
 	},
@@ -7096,7 +7096,7 @@
 /turf/open/floor/iron/airless,
 /area/ruin/space/ks13/service/chapel)
 "Tc" = (
-/obj/effect/decal/cleanable/blood/gibs/old,
+/obj/effect/decal/cleanable/vital/organic/gibs/old,
 /obj/effect/decal/cleanable/dirt,
 /obj/effect/mapping_helpers/broken_floor,
 /obj/structure/cable,
@@ -8208,7 +8208,7 @@
 /turf/open/floor/iron/airless,
 /area/ruin/space/ks13/science/rnd)
 "Za" = (
-/obj/effect/decal/cleanable/blood/splatter,
+/obj/effect/decal/cleanable/vital/organic/blood/splatter,
 /obj/effect/mapping_helpers/broken_floor,
 /turf/open/floor/plating/airless,
 /area/ruin/space/ks13/science/genetics)
@@ -8254,7 +8254,7 @@
 /obj/structure/chair{
 	dir = 8
 	},
-/obj/effect/decal/cleanable/blood/gibs/body,
+/obj/effect/decal/cleanable/vital/organic/gibs/body,
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/plating/airless,
 /area/ruin/space/ks13/security/cell)
@@ -8381,7 +8381,7 @@
 /turf/open/floor/iron/airless,
 /area/ruin/space/ks13/tool_storage)
 "ZF" = (
-/obj/effect/decal/cleanable/blood/footprints{
+/obj/effect/decal/cleanable/vital/organic/blood/footprints{
 	dir = 8
 	},
 /obj/effect/decal/cleanable/dirt,
@@ -8431,7 +8431,7 @@
 /turf/open/floor/iron/airless,
 /area/ruin/space/ks13/security/sec)
 "ZR" = (
-/obj/effect/decal/cleanable/blood/gibs/torso,
+/obj/effect/decal/cleanable/vital/organic/gibs/torso,
 /turf/open/floor/iron/dark,
 /area/ruin/space/ks13/medical/morgue)
 "ZS" = (

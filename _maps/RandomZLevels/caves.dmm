@@ -37,13 +37,13 @@
 	},
 /area/awaymission/caves/bmp_asteroid/level_four)
 "ar" = (
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /turf/open/floor/engine/cult{
 	initial_gas_mix = "n2=23;o2=14;TEMP=2.7"
 	},
 /area/awaymission/caves/bmp_asteroid/level_four)
 "as" = (
-/obj/effect/decal/cleanable/blood/gibs/old,
+/obj/effect/decal/cleanable/vital/organic/gibs/old,
 /turf/open/floor/engine/cult{
 	initial_gas_mix = "n2=23;o2=14;TEMP=2.7"
 	},
@@ -232,7 +232,7 @@
 	},
 /area/awaymission/caves/bmp_asteroid/level_four)
 "bf" = (
-/obj/effect/decal/cleanable/blood,
+/obj/effect/decal/cleanable/vital/organic/blood,
 /turf/open/floor/engine/cult{
 	initial_gas_mix = "n2=23;o2=14;TEMP=2.7"
 	},
@@ -256,7 +256,7 @@
 /turf/open/floor/wood,
 /area/awaymission/caves/northblock)
 "bw" = (
-/obj/effect/decal/cleanable/blood,
+/obj/effect/decal/cleanable/vital/organic/blood,
 /obj/structure/spawner/skeleton,
 /turf/open/floor/engine/cult{
 	initial_gas_mix = "n2=23;o2=14;TEMP=2.7"
@@ -264,7 +264,7 @@
 /area/awaymission/caves/bmp_asteroid/level_four)
 "bz" = (
 /obj/effect/decal/remains/human,
-/obj/effect/decal/cleanable/blood,
+/obj/effect/decal/cleanable/vital/organic/blood,
 /turf/open/floor/engine/cult{
 	initial_gas_mix = "n2=23;o2=14;TEMP=2.7"
 	},
@@ -272,7 +272,7 @@
 "bA" = (
 /obj/structure/destructible/cult/item_dispenser/archives,
 /obj/item/necromantic_stone,
-/obj/effect/decal/cleanable/blood,
+/obj/effect/decal/cleanable/vital/organic/blood,
 /turf/open/floor/engine/cult{
 	initial_gas_mix = "n2=23;o2=14;TEMP=2.7"
 	},
@@ -290,7 +290,7 @@
 /area/awaymission/caves/bmp_asteroid/level_three)
 "bE" = (
 /obj/structure/destructible/cult/pylon,
-/obj/effect/decal/cleanable/blood,
+/obj/effect/decal/cleanable/vital/organic/blood,
 /turf/open/floor/engine/cult{
 	initial_gas_mix = "n2=23;o2=14;TEMP=2.7"
 	},
@@ -417,15 +417,15 @@
 "ct" = (
 /obj/item/shard,
 /obj/item/stack/rods,
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /turf/open/floor/iron,
 /area/awaymission/caves/research)
 "cu" = (
-/obj/effect/decal/cleanable/blood/gibs,
+/obj/effect/decal/cleanable/vital/organic/gibs,
 /turf/open/floor/iron,
 /area/awaymission/caves/research)
 "cv" = (
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /turf/open/floor/iron,
 /area/awaymission/caves/research)
 "cw" = (
@@ -472,7 +472,7 @@
 /area/awaymission/caves/bmp_asteroid/level_two)
 "cN" = (
 /obj/machinery/door/window/left/directional/east,
-/obj/effect/decal/cleanable/xenoblood/xgibs,
+/obj/effect/decal/cleanable/vital/organic/xgibs,
 /turf/open/floor/plating,
 /area/awaymission/caves/research)
 "cP" = (
@@ -488,7 +488,7 @@
 /turf/open/floor/plating,
 /area/awaymission/caves/research)
 "cV" = (
-/obj/effect/decal/cleanable/xenoblood/xgibs,
+/obj/effect/decal/cleanable/vital/organic/xgibs,
 /turf/open/floor/plating,
 /area/awaymission/caves/research)
 "cX" = (
@@ -724,7 +724,7 @@
 	},
 /area/awaymission/caves/northblock)
 "eg" = (
-/obj/effect/decal/cleanable/robot_debris/old,
+/obj/effect/decal/cleanable/vital/robotic/debris/old,
 /turf/open/floor/iron,
 /area/awaymission/caves/listeningpost)
 "eh" = (
@@ -845,7 +845,7 @@
 /turf/open/floor/iron,
 /area/awaymission/caves/listeningpost)
 "eN" = (
-/obj/effect/decal/cleanable/oil,
+/obj/effect/decal/cleanable/vital/robotic/oil,
 /turf/open/floor/iron,
 /area/awaymission/caves/listeningpost)
 "eO" = (
@@ -1045,7 +1045,7 @@
 /turf/open/floor/iron,
 /area/awaymission/caves/bmp_asteroid)
 "gm" = (
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /turf/open/floor/iron,
 /area/awaymission/caves/bmp_asteroid)
 "go" = (
@@ -1676,7 +1676,7 @@
 /turf/open/floor/iron,
 /area/awaymission/caves/bmp_asteroid)
 "FV" = (
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /turf/open/misc/asteroid/basalt{
 	initial_gas_mix = "n2=23;o2=14;TEMP=2.7"
 	},
@@ -1749,7 +1749,7 @@
 /area/awaymission/caves/bmp_asteroid/level_three)
 "JP" = (
 /obj/structure/window/reinforced/spawner/directional/east,
-/obj/effect/decal/cleanable/xenoblood,
+/obj/effect/decal/cleanable/vital/organic/xenoblood,
 /turf/open/floor/plating,
 /area/awaymission/caves/research)
 "Kq" = (
@@ -1828,7 +1828,7 @@
 /turf/open/floor/iron,
 /area/awaymission/caves/research)
 "NX" = (
-/obj/effect/decal/cleanable/blood/gibs/old,
+/obj/effect/decal/cleanable/vital/organic/gibs/old,
 /turf/open/misc/asteroid/basalt{
 	initial_gas_mix = "n2=23;o2=14;TEMP=2.7"
 	},

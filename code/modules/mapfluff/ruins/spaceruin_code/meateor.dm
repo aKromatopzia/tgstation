@@ -114,7 +114,7 @@
 
 /obj/structure/meateor_fluff/flesh_pod/atom_destruction(damage_flag)
 	new stored_organ(loc)
-	new /obj/effect/decal/cleanable/blood(loc)
+	new /obj/effect/decal/cleanable/vital/organic/blood(loc)
 	new /obj/structure/meateor_fluff/flesh_pod_open(loc)
 	playsound(loc, 'sound/effects/wounds/blood3.ogg', vol = 50, vary = TRUE, pressure_affected = FALSE)
 	return ..()
@@ -137,6 +137,6 @@
 	max_integrity = 15
 
 /obj/structure/meateor_fluff/abandoned_headcrab_egg/atom_destruction(damage_flag)
-	new /obj/effect/decal/cleanable/xenoblood(loc)
+	new /obj/effect/decal/cleanable/vital/organic/xenoblood(loc)
 	playsound(loc, 'sound/effects/footstep/gib_step.ogg', vol = 50, vary = TRUE, pressure_affected = FALSE)
 	return ..()

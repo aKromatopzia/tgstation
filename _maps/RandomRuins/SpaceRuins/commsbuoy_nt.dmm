@@ -17,7 +17,7 @@
 /turf/closed/wall/mineral/titanium/nodiagonal,
 /area/ruin/space/nt_commsbuoy)
 "dO" = (
-/obj/effect/decal/cleanable/blood/splatter,
+/obj/effect/decal/cleanable/vital/organic/blood/splatter,
 /turf/open/floor/mineral/titanium/white,
 /area/ruin/space/nt_commsbuoy)
 "dX" = (
@@ -111,7 +111,7 @@
 	desc = "A console for adjusting the satellite's radio dishes manually. The screen won't even power on without proper authorization, which you know you're never getting.";
 	pixel_y = 30
 	},
-/obj/effect/decal/cleanable/blood/gibs/old,
+/obj/effect/decal/cleanable/vital/organic/gibs/old,
 /obj/effect/mob_spawn/corpse/human/engineer,
 /obj/item/keycard/nt_commsbuoy{
 	pixel_y = 9;
@@ -155,7 +155,7 @@
 /turf/open/floor/mineral/titanium,
 /area/ruin/space/nt_commsbuoy)
 "kZ" = (
-/obj/effect/decal/cleanable/blood/splatter,
+/obj/effect/decal/cleanable/vital/organic/blood/splatter,
 /turf/open/floor/mineral/titanium,
 /area/ruin/space/nt_commsbuoy)
 "lu" = (
@@ -163,10 +163,10 @@
 /turf/open/floor/mineral/titanium/yellow,
 /area/ruin/space/nt_commsbuoy)
 "lB" = (
-/obj/effect/decal/cleanable/blood/trails{
+/obj/effect/decal/cleanable/vital/organic/blood/trails{
 	dir = 4
 	},
-/obj/effect/decal/cleanable/blood/footprints{
+/obj/effect/decal/cleanable/vital/organic/blood/footprints{
 	dir = 4
 	},
 /turf/open/floor/mineral/titanium,
@@ -300,7 +300,7 @@
 /turf/template_noop,
 /area/space/nearstation)
 "zt" = (
-/obj/effect/decal/cleanable/blood,
+/obj/effect/decal/cleanable/vital/organic/blood,
 /obj/effect/mapping_helpers/airlock/cutaiwire,
 /obj/machinery/door/airlock/titanium{
 	name = "Comms Buoy Airlock"
@@ -353,7 +353,7 @@
 /area/ruin/space/nt_commsbuoy)
 "CN" = (
 /obj/effect/mob_spawn/corpse/human/nanotrasensoldier,
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /turf/open/floor/mineral/titanium,
 /area/ruin/space/nt_commsbuoy)
 "DW" = (
@@ -479,7 +479,7 @@
 /turf/open/floor/mineral/titanium/yellow,
 /area/ruin/space/nt_commsbuoy)
 "Qd" = (
-/obj/effect/decal/cleanable/blood/trails{
+/obj/effect/decal/cleanable/vital/organic/blood/trails{
 	dir = 6
 	},
 /obj/item/paper/fluff/ruins/nt_commsbuoy/torn_page,

@@ -134,7 +134,7 @@
 /turf/open/floor/engine,
 /area/deathmatch)
 "aR" = (
-/obj/effect/decal/cleanable/blood/drip,
+/obj/effect/decal/cleanable/vital/organic/blood/drip,
 /turf/open/floor/engine,
 /area/deathmatch)
 "aS" = (
@@ -319,7 +319,7 @@
 /turf/open/floor/engine,
 /area/deathmatch)
 "bL" = (
-/obj/effect/decal/cleanable/blood/gibs,
+/obj/effect/decal/cleanable/vital/organic/gibs,
 /turf/open/floor/engine,
 /area/deathmatch)
 "bM" = (
@@ -343,7 +343,7 @@
 /turf/open/floor/engine,
 /area/deathmatch)
 "bS" = (
-/obj/effect/decal/cleanable/blood/splatter,
+/obj/effect/decal/cleanable/vital/organic/blood/splatter,
 /turf/open/floor/engine,
 /area/deathmatch)
 "bT" = (

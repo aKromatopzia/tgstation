@@ -119,7 +119,7 @@
 	if(reac_volume < 3)
 		return
 
-	var/obj/effect/decal/cleanable/blood/bloodsplatter = locate() in exposed_turf //find some blood here
+	var/obj/effect/decal/cleanable/vital/organic/blood/bloodsplatter = locate() in exposed_turf //find some blood here
 	if(!bloodsplatter)
 		bloodsplatter = new(exposed_turf, data["viruses"])
 	if(LAZYLEN(data["viruses"]))
@@ -1884,7 +1884,7 @@
 	burning_volume = 0.05 //but has a lot of hydrocarbons
 	chemical_flags = REAGENT_CAN_BE_SYNTHESIZED
 	addiction_types = null
-	default_container = /obj/effect/decal/cleanable/oil
+	default_container = /obj/effect/decal/cleanable/vital/robotic/oil
 
 /datum/reagent/stable_plasma
 	name = "Stable Plasma"

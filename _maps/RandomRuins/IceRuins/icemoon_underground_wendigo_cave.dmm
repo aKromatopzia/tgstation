@@ -50,7 +50,7 @@
 /turf/closed/indestructible/rock/snow/ice/ore,
 /area/icemoon/underground/explored)
 "m" = (
-/obj/effect/decal/cleanable/blood,
+/obj/effect/decal/cleanable/vital/organic/blood,
 /turf/open/indestructible/necropolis{
 	initial_gas_mix = "ICEMOON_ATMOS"
 	},
@@ -79,7 +79,7 @@
 	},
 /area/icemoon/underground/explored)
 "q" = (
-/obj/effect/decal/cleanable/blood/gibs/core,
+/obj/effect/decal/cleanable/vital/organic/gibs/core,
 /turf/open/indestructible/necropolis{
 	initial_gas_mix = "ICEMOON_ATMOS"
 	},
@@ -93,12 +93,12 @@
 	},
 /area/icemoon/underground/unexplored)
 "u" = (
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /turf/open/misc/asteroid/snow/icemoon,
 /area/icemoon/underground/explored)
 "w" = (
-/obj/effect/decal/cleanable/blood/drip,
-/obj/effect/decal/cleanable/blood/drip{
+/obj/effect/decal/cleanable/vital/organic/blood/drip,
+/obj/effect/decal/cleanable/vital/organic/blood/drip{
 	pixel_x = 11;
 	pixel_y = 18
 	},
@@ -113,8 +113,8 @@
 /turf/open/misc/asteroid/snow/icemoon,
 /area/icemoon/underground/explored)
 "A" = (
-/obj/effect/decal/cleanable/blood/gibs/torso,
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/gibs/torso,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /turf/open/indestructible/necropolis{
 	initial_gas_mix = "ICEMOON_ATMOS"
 	},
@@ -127,11 +127,11 @@
 /area/icemoon/underground/explored)
 "C" = (
 /obj/effect/mob_spawn/corpse/human/miner/explorer,
-/obj/effect/decal/cleanable/blood/gibs/old,
+/obj/effect/decal/cleanable/vital/organic/gibs/old,
 /turf/open/misc/asteroid/snow/icemoon,
 /area/icemoon/underground/unexplored)
 "D" = (
-/obj/effect/decal/cleanable/blood/splatter,
+/obj/effect/decal/cleanable/vital/organic/blood/splatter,
 /turf/open/indestructible/necropolis{
 	initial_gas_mix = "ICEMOON_ATMOS"
 	},
@@ -140,11 +140,11 @@
 /obj/effect/turf_decal/weather/snow/corner{
 	dir = 6
 	},
-/obj/effect/decal/cleanable/blood/drip{
+/obj/effect/decal/cleanable/vital/organic/blood/drip{
 	pixel_x = 2;
 	pixel_y = 3
 	},
-/obj/effect/decal/cleanable/blood/drip{
+/obj/effect/decal/cleanable/vital/organic/blood/drip{
 	pixel_x = 8;
 	pixel_y = 11
 	},
@@ -216,14 +216,14 @@
 	},
 /area/icemoon/underground/explored)
 "Q" = (
-/obj/effect/decal/cleanable/blood/drip{
+/obj/effect/decal/cleanable/vital/organic/blood/drip{
 	pixel_x = -5
 	},
-/obj/effect/decal/cleanable/blood/drip{
+/obj/effect/decal/cleanable/vital/organic/blood/drip{
 	pixel_x = 7;
 	pixel_y = 17
 	},
-/obj/effect/decal/cleanable/blood/drip{
+/obj/effect/decal/cleanable/vital/organic/blood/drip{
 	pixel_x = 10;
 	pixel_y = 7
 	},
@@ -233,7 +233,7 @@
 /obj/effect/landmark/portal_exit{
 	id = "wendigo arena"
 	},
-/obj/effect/decal/cleanable/blood/drip,
+/obj/effect/decal/cleanable/vital/organic/blood/drip,
 /turf/open/misc/asteroid/snow/icemoon,
 /area/icemoon/underground/explored)
 "S" = (

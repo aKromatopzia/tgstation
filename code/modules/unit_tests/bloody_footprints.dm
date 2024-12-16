@@ -12,7 +12,7 @@
 	//We need to not be "on" the same tile as the pool
 	blood_master.forceMove(move_to)
 
-	var/obj/effect/decal/cleanable/blood/pool = allocate(/obj/effect/decal/cleanable/blood)
+	var/obj/effect/decal/cleanable/vital/organic/blood/pool = allocate(/obj/effect/decal/cleanable/vital/organic/blood)
 
 	//Max out the pools blood, so each step will make things stained enough to matter
 	pool.bloodiness = BLOOD_POOL_MAX
@@ -38,7 +38,7 @@
 	blood_master.forceMove(run_loc_floor_bottom_left)
 
 	var/footprint_total = 0
-	for(var/obj/effect/decal/cleanable/blood/footprints/print_set in move_to)
+	for(var/obj/effect/decal/cleanable/vital/organic/blood/footprints/print_set in move_to)
 		if(print_set.blood_state == blood_type)
 			footprint_total += 1
 
@@ -53,7 +53,7 @@
 	blood_master.forceMove(run_loc_floor_bottom_left)
 
 	footprint_total = 0
-	for(var/obj/effect/decal/cleanable/blood/footprints/print_set in move_to)
+	for(var/obj/effect/decal/cleanable/vital/organic/blood/footprints/print_set in move_to)
 		if(print_set.blood_state == blood_type)
 			footprint_total += 1
 

@@ -56,7 +56,7 @@
 	pixel_x = -13;
 	pixel_y = 2
 	},
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /obj/effect/decal/cleanable/glass,
 /obj/effect/turf_decal/trimline/dark_blue/corner{
 	dir = 4

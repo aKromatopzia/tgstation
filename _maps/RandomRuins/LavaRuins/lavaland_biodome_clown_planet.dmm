@@ -246,7 +246,7 @@
 /turf/open/floor/plating,
 /area/ruin/powered/clownplanet)
 "bE" = (
-/obj/effect/decal/cleanable/oil,
+/obj/effect/decal/cleanable/vital/robotic/oil,
 /obj/structure/disposalpipe/segment{
 	dir = 10
 	},
@@ -328,7 +328,7 @@
 /area/ruin/powered/clownplanet)
 "bY" = (
 /obj/effect/mob_spawn/corpse/human/damaged,
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /turf/open/indestructible/honk,
 /area/ruin/powered/clownplanet)
 "bZ" = (
@@ -470,7 +470,7 @@
 /area/ruin/powered/clownplanet)
 "lx" = (
 /obj/effect/mob_spawn/corpse/human/damaged,
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /obj/effect/turf_decal/tile/yellow/fourcorners,
 /turf/open/indestructible/permalube,
 /area/ruin/powered/clownplanet)
@@ -582,7 +582,7 @@
 /area/ruin/powered/clownplanet)
 "CB" = (
 /obj/item/paper/crumpled/bloody/ruins/lavaland/clown_planet/hope,
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /obj/effect/mapping_helpers/no_lava,
 /turf/open/floor/noslip,
 /area/ruin/powered/clownplanet)
@@ -691,7 +691,7 @@
 /area/ruin/powered/clownplanet)
 "TI" = (
 /obj/effect/mob_spawn/corpse/human/damaged,
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /obj/structure/disposalpipe/segment{
 	invisibility = 101
 	},

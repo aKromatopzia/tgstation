@@ -56,7 +56,7 @@
 /turf/open/floor/plating/airless,
 /area/ruin/space/abandoned_tele)
 "n" = (
-/obj/effect/decal/cleanable/robot_debris/old,
+/obj/effect/decal/cleanable/vital/robotic/debris/old,
 /turf/open/floor/plating/airless,
 /area/ruin/space/abandoned_tele)
 "o" = (
@@ -85,11 +85,11 @@
 /turf/open/floor/plating/airless,
 /area/ruin/space/abandoned_tele)
 "u" = (
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /turf/open/floor/plating/airless,
 /area/ruin/space/abandoned_tele)
 "v" = (
-/obj/effect/decal/cleanable/oil,
+/obj/effect/decal/cleanable/vital/robotic/oil,
 /turf/open/floor/plating/airless,
 /area/ruin/space/abandoned_tele)
 "w" = (

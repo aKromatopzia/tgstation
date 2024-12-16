@@ -29,7 +29,7 @@
 /turf/open/floor/iron/checker,
 /area/ruin/powered)
 "cB" = (
-/obj/effect/decal/cleanable/blood,
+/obj/effect/decal/cleanable/vital/organic/blood,
 /turf/open/floor/wood,
 /area/ruin/powered)
 "dh" = (
@@ -39,7 +39,7 @@
 /area/ruin/powered)
 "fD" = (
 /obj/structure/bed,
-/obj/effect/decal/cleanable/blood/bubblegum,
+/obj/effect/decal/cleanable/vital/organic/blood/bubblegum,
 /obj/effect/spawner/random/bedsheet/any,
 /turf/open/floor/wood,
 /area/ruin/powered)
@@ -59,7 +59,7 @@
 /turf/open/floor/carpet,
 /area/ruin/powered)
 "hD" = (
-/obj/effect/decal/cleanable/blood/gibs/limb,
+/obj/effect/decal/cleanable/vital/organic/gibs/limb,
 /turf/open/floor/engine/cult,
 /area/ruin/powered)
 "iz" = (
@@ -106,7 +106,7 @@
 /turf/open/floor/holofloor/wood,
 /area/ruin/powered)
 "la" = (
-/obj/effect/decal/cleanable/blood/gibs/up,
+/obj/effect/decal/cleanable/vital/organic/gibs/up,
 /obj/effect/mob_spawn/corpse/human/assistant,
 /mob/living/basic/skeleton/settler{
 	name = "Village Hunter"
@@ -125,10 +125,10 @@
 /turf/open/floor/wood,
 /area/ruin/powered)
 "lo" = (
-/obj/effect/decal/cleanable/blood/tracks{
+/obj/effect/decal/cleanable/vital/organic/blood/tracks{
 	dir = 4
 	},
-/obj/effect/decal/cleanable/blood/footprints{
+/obj/effect/decal/cleanable/vital/organic/blood/footprints{
 	dir = 8
 	},
 /turf/open/misc/asteroid/snow/icemoon,
@@ -242,8 +242,8 @@
 /turf/open/floor/wood,
 /area/ruin/powered)
 "us" = (
-/obj/effect/decal/cleanable/blood/splatter,
-/obj/effect/decal/cleanable/blood/footprints{
+/obj/effect/decal/cleanable/vital/organic/blood/splatter,
+/obj/effect/decal/cleanable/vital/organic/blood/footprints{
 	dir = 8
 	},
 /turf/open/misc/asteroid/snow/icemoon,
@@ -256,7 +256,7 @@
 /turf/open/floor/wood,
 /area/ruin/powered)
 "vi" = (
-/obj/effect/decal/cleanable/blood/drip,
+/obj/effect/decal/cleanable/vital/organic/blood/drip,
 /obj/structure/fence/door,
 /turf/open/misc/asteroid/snow/icemoon,
 /area/icemoon/underground/explored)
@@ -280,7 +280,7 @@
 /turf/open/floor/wood,
 /area/ruin/powered)
 "yS" = (
-/obj/effect/decal/cleanable/blood/drip,
+/obj/effect/decal/cleanable/vital/organic/blood/drip,
 /turf/open/misc/asteroid/snow/icemoon,
 /area/icemoon/underground/explored)
 "zR" = (
@@ -298,7 +298,7 @@
 /turf/open/floor/holofloor/wood,
 /area/ruin/powered)
 "AM" = (
-/obj/effect/decal/cleanable/blood/gibs/down,
+/obj/effect/decal/cleanable/vital/organic/gibs/down,
 /obj/item/pickaxe,
 /turf/open/floor/engine/cult,
 /area/ruin/powered)
@@ -327,7 +327,7 @@
 /area/ruin/powered)
 "Cl" = (
 /obj/structure/sacrificealtar,
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /obj/item/knife/bloodletter,
 /turf/open/floor/engine/cult,
 /area/ruin/powered)
@@ -358,7 +358,7 @@
 /turf/closed/mineral/snowmountain/cavern/icemoon,
 /area/icemoon/underground/explored)
 "EF" = (
-/obj/effect/decal/cleanable/blood/gibs/torso,
+/obj/effect/decal/cleanable/vital/organic/gibs/torso,
 /obj/effect/decal/remains/human,
 /mob/living/basic/construct/juggernaut/hostile{
 	health = 450;
@@ -368,7 +368,7 @@
 /turf/open/floor/engine/cult,
 /area/ruin/powered)
 "FR" = (
-/obj/effect/decal/cleanable/blood/splatter,
+/obj/effect/decal/cleanable/vital/organic/blood/splatter,
 /turf/open/floor/plating/snowed/smoothed/icemoon,
 /area/icemoon/underground/explored)
 "Gr" = (
@@ -388,7 +388,7 @@
 /turf/open/floor/plating,
 /area/ruin/powered)
 "Hf" = (
-/obj/effect/decal/cleanable/blood/drip,
+/obj/effect/decal/cleanable/vital/organic/blood/drip,
 /turf/open/floor/wood,
 /area/ruin/powered)
 "Hx" = (
@@ -438,7 +438,7 @@
 /turf/open/floor/carpet,
 /area/ruin/powered)
 "PQ" = (
-/obj/effect/decal/cleanable/blood/splatter,
+/obj/effect/decal/cleanable/vital/organic/blood/splatter,
 /mob/living/simple_animal/hostile/illusion{
 	death_message = "disperses into the air in a cloud of red mist, you feel slightly more at ease.";
 	desc = "You can't quite make out what you're seeing.";
@@ -454,7 +454,7 @@
 "Qh" = (
 /obj/structure/closet/crate/trashcart,
 /obj/effect/decal/cleanable/dirt,
-/obj/effect/decal/cleanable/blood,
+/obj/effect/decal/cleanable/vital/organic/blood,
 /obj/item/bodypart/head,
 /obj/item/bodypart/arm/left{
 	pixel_x = -9;
@@ -472,7 +472,7 @@
 /turf/open/floor/iron/freezer,
 /area/ruin/powered)
 "Qt" = (
-/obj/effect/decal/cleanable/blood/footprints{
+/obj/effect/decal/cleanable/vital/organic/blood/footprints{
 	dir = 1
 	},
 /obj/item/restraints/legcuffs/beartrap{
@@ -489,8 +489,8 @@
 /turf/open/misc/asteroid/snow/icemoon,
 /area/icemoon/underground/explored)
 "Sk" = (
-/obj/effect/decal/cleanable/blood/tracks,
-/obj/effect/decal/cleanable/blood/footprints{
+/obj/effect/decal/cleanable/vital/organic/blood/tracks,
+/obj/effect/decal/cleanable/vital/organic/blood/footprints{
 	dir = 1
 	},
 /turf/open/misc/asteroid/snow/icemoon,
@@ -513,7 +513,7 @@
 /area/icemoon/underground/explored)
 "UI" = (
 /obj/machinery/washing_machine,
-/obj/effect/decal/cleanable/blood,
+/obj/effect/decal/cleanable/vital/organic/blood,
 /obj/item/food/meat/slab/corgi,
 /turf/open/floor/wood,
 /area/ruin/powered)

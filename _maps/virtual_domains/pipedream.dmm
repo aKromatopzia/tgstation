@@ -286,7 +286,7 @@
 	dir = 8
 	},
 /obj/effect/turf_decal/trimline/yellow/corner,
-/obj/effect/decal/cleanable/blood/drip,
+/obj/effect/decal/cleanable/vital/organic/blood/drip,
 /turf/open/floor/iron,
 /area/virtual_domain)
 "jv" = (
@@ -540,7 +540,7 @@
 	dir = 4
 	},
 /obj/effect/mob_spawn/corpse/human/factory,
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /turf/open/floor/iron,
 /area/virtual_domain)
 "qT" = (
@@ -587,7 +587,7 @@
 /area/virtual_domain)
 "rJ" = (
 /obj/structure/railing,
-/obj/effect/decal/cleanable/oil,
+/obj/effect/decal/cleanable/vital/robotic/oil,
 /turf/open/floor/plating,
 /area/virtual_domain)
 "rM" = (
@@ -615,15 +615,15 @@
 /turf/open/floor/iron,
 /area/virtual_domain)
 "sW" = (
-/obj/effect/decal/cleanable/oil/streak,
+/obj/effect/decal/cleanable/vital/robotic/oil/streak,
 /obj/effect/turf_decal/trimline/yellow/corner{
 	dir = 1
 	},
 /obj/effect/turf_decal/trimline/yellow/corner{
 	dir = 4
 	},
-/obj/effect/decal/cleanable/blood/drip,
-/obj/effect/decal/cleanable/blood/drip,
+/obj/effect/decal/cleanable/vital/organic/blood/drip,
+/obj/effect/decal/cleanable/vital/organic/blood/drip,
 /turf/open/floor/iron,
 /area/virtual_domain)
 "tl" = (
@@ -644,14 +644,14 @@
 /turf/open/floor/plating,
 /area/virtual_domain)
 "ud" = (
-/obj/effect/decal/cleanable/blood/drip,
+/obj/effect/decal/cleanable/vital/organic/blood/drip,
 /turf/open/floor/carpet/royalblue{
 	icon_state = "carpet_royalblue-110"
 	},
 /area/virtual_domain)
 "uk" = (
 /obj/effect/spawner/structure/window/reinforced,
-/obj/effect/decal/cleanable/blood/splatter/over_window,
+/obj/effect/decal/cleanable/vital/organic/blood/splatter/over_window,
 /turf/open/floor/plating,
 /area/virtual_domain)
 "um" = (
@@ -966,7 +966,7 @@
 /turf/open/floor/iron,
 /area/virtual_domain)
 "BX" = (
-/obj/effect/decal/cleanable/robot_debris/old,
+/obj/effect/decal/cleanable/vital/robotic/debris/old,
 /turf/open/floor/iron,
 /area/virtual_domain)
 "Ci" = (
@@ -1049,7 +1049,7 @@
 /obj/effect/turf_decal/stripes{
 	dir = 8
 	},
-/obj/effect/decal/cleanable/oil,
+/obj/effect/decal/cleanable/vital/robotic/oil,
 /turf/open/floor/iron,
 /area/virtual_domain)
 "EJ" = (
@@ -1198,7 +1198,7 @@
 /turf/open/chasm,
 /area/virtual_domain)
 "Jl" = (
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /turf/open/floor/iron,
 /area/virtual_domain)
 "Jm" = (
@@ -1503,7 +1503,7 @@
 /area/virtual_domain)
 "QP" = (
 /obj/structure/sign/poster/contraband/random/directional/east,
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /turf/open/floor/plating,
 /area/virtual_domain)
 "QW" = (
@@ -1536,7 +1536,7 @@
 /turf/closed/indestructible/binary,
 /area/virtual_domain/fullbright)
 "RK" = (
-/obj/effect/decal/cleanable/blood/drip,
+/obj/effect/decal/cleanable/vital/organic/blood/drip,
 /turf/open/floor/iron,
 /area/virtual_domain)
 "RZ" = (
@@ -1588,7 +1588,7 @@
 /turf/open/floor/iron,
 /area/virtual_domain)
 "Te" = (
-/obj/effect/decal/cleanable/blood/tracks{
+/obj/effect/decal/cleanable/vital/organic/blood/tracks{
 	dir = 5
 	},
 /obj/effect/mob_spawn/corpse/human/factory/qm,
@@ -1648,7 +1648,7 @@
 /turf/open/floor/iron,
 /area/virtual_domain)
 "UY" = (
-/obj/effect/decal/cleanable/blood/tracks{
+/obj/effect/decal/cleanable/vital/organic/blood/tracks{
 	dir = 4
 	},
 /turf/open/floor/iron,
@@ -1867,7 +1867,7 @@
 /turf/open/floor/iron,
 /area/virtual_domain)
 "Zb" = (
-/obj/effect/decal/cleanable/oil,
+/obj/effect/decal/cleanable/vital/robotic/oil,
 /turf/open/floor/plating,
 /area/virtual_domain)
 "Zg" = (

@@ -23,7 +23,7 @@
 /obj/effect/decal/cleanable/dirt,
 /obj/effect/mapping_helpers/airlock/cutaiwire,
 /obj/structure/cable,
-/obj/effect/decal/cleanable/blood/tracks{
+/obj/effect/decal/cleanable/vital/organic/blood/tracks{
 	dir = 8
 	},
 /obj/effect/spawner/random/structure/barricade{
@@ -36,7 +36,7 @@
 /area/shuttle/abandoned/bridge)
 "bY" = (
 /obj/structure/cable,
-/obj/effect/decal/cleanable/blood/gibs/core,
+/obj/effect/decal/cleanable/vital/organic/gibs/core,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden{
 	dir = 4
 	},
@@ -44,7 +44,7 @@
 /area/shuttle/abandoned/engine)
 "cd" = (
 /obj/effect/spawner/structure/window/reinforced/shuttle,
-/obj/effect/decal/cleanable/blood/splatter/over_window,
+/obj/effect/decal/cleanable/vital/organic/blood/splatter/over_window,
 /obj/machinery/door/poddoor{
 	id = "whiteship_windows"
 	},
@@ -114,7 +114,7 @@
 /area/shuttle/abandoned/medbay)
 "gi" = (
 /obj/structure/cable,
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden{
 	dir = 4
 	},
@@ -132,7 +132,7 @@
 /area/shuttle/abandoned/engine)
 "hg" = (
 /mob/living/basic/construct/proteon/hostile,
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /obj/structure/cable,
 /turf/open/floor/mineral/titanium/white,
 /area/shuttle/abandoned/medbay)
@@ -196,7 +196,7 @@
 /area/shuttle/abandoned/crew)
 "lP" = (
 /obj/structure/cable,
-/obj/effect/decal/cleanable/blood/gibs/up,
+/obj/effect/decal/cleanable/vital/organic/gibs/up,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden{
 	dir = 4
 	},
@@ -248,7 +248,7 @@
 /area/shuttle/abandoned/bridge)
 "ne" = (
 /obj/effect/decal/cleanable/crayon/rune4,
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /obj/machinery/atmospherics/components/unary/vent_pump/on{
 	dir = 4
 	},
@@ -314,7 +314,7 @@
 /area/shuttle/abandoned/bridge)
 "qh" = (
 /obj/structure/cable,
-/obj/effect/decal/cleanable/blood/footprints{
+/obj/effect/decal/cleanable/vital/organic/blood/footprints{
 	dir = 4
 	},
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden{
@@ -378,7 +378,7 @@
 "uk" = (
 /obj/effect/decal/cleanable/dirt,
 /obj/structure/cable,
-/obj/effect/decal/cleanable/blood/tracks{
+/obj/effect/decal/cleanable/vital/organic/blood/tracks{
 	dir = 8
 	},
 /obj/effect/decal/cleanable/ash,
@@ -389,7 +389,7 @@
 /area/shuttle/abandoned/bridge)
 "us" = (
 /obj/structure/cable,
-/obj/effect/decal/cleanable/blood/splatter,
+/obj/effect/decal/cleanable/vital/organic/blood/splatter,
 /obj/effect/spawner/random/trash/garbage,
 /obj/machinery/airalarm/directional/east,
 /obj/effect/mapping_helpers/airalarm/all_access,
@@ -446,7 +446,7 @@
 	pixel_y = 30
 	},
 /obj/item/cigbutt/cigarbutt,
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden{
 	dir = 4
 	},
@@ -454,7 +454,7 @@
 /area/shuttle/abandoned/engine)
 "AX" = (
 /obj/machinery/light/small/directional/west,
-/obj/effect/decal/cleanable/blood/gibs/up,
+/obj/effect/decal/cleanable/vital/organic/gibs/up,
 /obj/effect/spawner/random/decoration/glowstick,
 /turf/open/floor/plating,
 /area/shuttle/abandoned/engine)
@@ -487,20 +487,20 @@
 /area/shuttle/abandoned)
 "CX" = (
 /obj/structure/cable,
-/obj/effect/decal/cleanable/blood/gibs/down,
+/obj/effect/decal/cleanable/vital/organic/gibs/down,
 /obj/machinery/atmospherics/components/unary/vent_pump/on,
 /turf/open/floor/mineral/titanium/purple,
 /area/shuttle/abandoned/bar)
 "DE" = (
 /obj/effect/spawner/structure/window/reinforced/shuttle,
-/obj/effect/decal/cleanable/blood/splatter/over_window,
+/obj/effect/decal/cleanable/vital/organic/blood/splatter/over_window,
 /obj/machinery/door/poddoor{
 	id = "whiteship_windows"
 	},
 /turf/open/floor/plating,
 /area/shuttle/abandoned/medbay)
 "EB" = (
-/obj/effect/decal/cleanable/blood/gibs/up,
+/obj/effect/decal/cleanable/vital/organic/gibs/up,
 /obj/machinery/airalarm/directional/north,
 /obj/effect/mapping_helpers/airalarm/all_access,
 /obj/effect/spawner/random/maintenance,
@@ -527,7 +527,7 @@
 	name = "Sleeping Quarter"
 	},
 /obj/structure/cable,
-/obj/effect/decal/cleanable/blood/footprints{
+/obj/effect/decal/cleanable/vital/organic/blood/footprints{
 	dir = 4
 	},
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden{
@@ -597,7 +597,7 @@
 "IH" = (
 /obj/structure/cable,
 /mob/living/basic/construct/proteon/hostile,
-/obj/effect/decal/cleanable/blood/gibs/core,
+/obj/effect/decal/cleanable/vital/organic/gibs/core,
 /obj/machinery/atmospherics/components/unary/vent_pump/on{
 	dir = 1
 	},
@@ -674,7 +674,7 @@
 /area/shuttle/abandoned)
 "NM" = (
 /obj/structure/cable,
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /obj/machinery/light/broken/directional/east,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden{
 	dir = 4
@@ -709,7 +709,7 @@
 "Qn" = (
 /obj/structure/cable,
 /obj/effect/decal/cleanable/glass,
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /obj/effect/decal/cleanable/ash,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden{
 	dir = 4
@@ -747,7 +747,7 @@
 /turf/open/floor/mineral/titanium/purple,
 /area/shuttle/abandoned/bar)
 "Sb" = (
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /turf/open/floor/mineral/titanium/white,
 /area/shuttle/abandoned/crew)
 "Su" = (
@@ -780,7 +780,7 @@
 /area/shuttle/abandoned/medbay)
 "Ua" = (
 /obj/structure/cable,
-/obj/effect/decal/cleanable/blood/gibs,
+/obj/effect/decal/cleanable/vital/organic/gibs,
 /obj/effect/decal/cleanable/ash,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden{
 	dir = 4
@@ -803,13 +803,13 @@
 /area/shuttle/abandoned/bar)
 "Wr" = (
 /obj/machinery/power/apc/auto_name/directional/east,
-/obj/effect/decal/cleanable/blood/gibs/torso,
+/obj/effect/decal/cleanable/vital/organic/gibs/torso,
 /obj/structure/cable,
 /turf/open/floor/catwalk_floor/iron_smooth,
 /area/shuttle/abandoned/engine)
 "WX" = (
 /obj/effect/spawner/structure/window/reinforced/shuttle,
-/obj/effect/decal/cleanable/blood/splatter/over_window,
+/obj/effect/decal/cleanable/vital/organic/blood/splatter/over_window,
 /obj/machinery/door/poddoor{
 	id = "whiteship_bridgewindows"
 	},
@@ -858,7 +858,7 @@
 /area/shuttle/abandoned)
 "YA" = (
 /obj/structure/cable,
-/obj/effect/decal/cleanable/blood/footprints{
+/obj/effect/decal/cleanable/vital/organic/blood/footprints{
 	dir = 4
 	},
 /obj/machinery/airalarm/directional/south,
@@ -869,7 +869,7 @@
 /turf/open/floor/mineral/titanium/white,
 /area/shuttle/abandoned/crew)
 "ZB" = (
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /obj/machinery/atmospherics/components/unary/vent_pump/on{
 	dir = 4
 	},

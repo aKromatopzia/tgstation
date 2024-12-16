@@ -145,7 +145,7 @@
 /obj/effect/mob_spawn/corpse/human/engineer{
 	brute_damage = 200
 	},
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /turf/open/floor/catwalk_floor/iron_dark,
 /area/shuttle/abandoned/cargo)
 "cm" = (
@@ -248,7 +248,7 @@
 /obj/item/knife/combat/survival,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden,
 /obj/machinery/firealarm/directional/east,
-/obj/effect/decal/cleanable/blood/gibs/old,
+/obj/effect/decal/cleanable/vital/organic/gibs/old,
 /turf/open/floor/wood,
 /area/shuttle/abandoned/crew)
 "kO" = (
@@ -401,7 +401,7 @@
 /obj/effect/decal/cleanable/dirt,
 /obj/item/paper/crumpled/bloody/ruins/whiteship/cere/told_you_so,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden,
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /turf/open/floor/wood,
 /area/shuttle/abandoned/crew)
 "pr" = (
@@ -764,7 +764,7 @@
 /obj/machinery/atmospherics/components/unary/vent_pump/on{
 	dir = 4
 	},
-/obj/effect/decal/cleanable/blood/splatter,
+/obj/effect/decal/cleanable/vital/organic/blood/splatter,
 /turf/open/floor/wood,
 /area/shuttle/abandoned/bar)
 "KL" = (
@@ -927,7 +927,7 @@
 	dir = 4
 	},
 /obj/machinery/firealarm/directional/south,
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /obj/machinery/airalarm/directional/west,
 /obj/effect/mapping_helpers/airalarm/unlocked,
 /turf/open/floor/wood,
@@ -985,7 +985,7 @@
 /obj/structure/cable,
 /obj/effect/decal/cleanable/dirt,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden,
-/obj/effect/decal/cleanable/blood/splatter,
+/obj/effect/decal/cleanable/vital/organic/blood/splatter,
 /turf/open/floor/wood,
 /area/shuttle/abandoned/bar)
 "ZC" = (

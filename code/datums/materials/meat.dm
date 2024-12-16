@@ -59,7 +59,7 @@
 
 	source.AddComponent(
 		/datum/component/blood_walk,\
-		blood_type = /obj/effect/decal/cleanable/blood,\
+		blood_type = /obj/effect/decal/cleanable/vital/organic/blood,\
 		blood_spawn_chance = 35,\
 		max_blood = (nutriment_count + oil_count) * 0.3 * multiplier,\
 	)

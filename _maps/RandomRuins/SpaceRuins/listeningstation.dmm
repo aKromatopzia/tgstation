@@ -251,7 +251,7 @@
 /turf/open/floor/plating/airless,
 /area/ruin/space)
 "nG" = (
-/obj/effect/decal/cleanable/blood/drip,
+/obj/effect/decal/cleanable/vital/organic/blood/drip,
 /obj/structure/table,
 /obj/item/camera,
 /turf/open/floor/iron,
@@ -344,7 +344,7 @@
 /area/ruin/space/has_grav/listeningstation)
 "uI" = (
 /obj/machinery/airalarm/directional/north,
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /obj/effect/mapping_helpers/airalarm/syndicate_access,
 /turf/open/floor/iron,
 /area/ruin/space/has_grav/listeningstation)

@@ -14,7 +14,7 @@
 "e" = (
 /obj/structure/mirror/directional/west,
 /obj/item/clothing/suit/hooded/bloated_human,
-/obj/effect/decal/cleanable/blood,
+/obj/effect/decal/cleanable/vital/organic/blood,
 /turf/open/floor/plating,
 /area/ruin/unpowered)
 "f" = (
@@ -23,19 +23,19 @@
 /turf/open/floor/plating,
 /area/ruin/unpowered)
 "g" = (
-/obj/effect/decal/cleanable/blood/tracks,
+/obj/effect/decal/cleanable/vital/organic/blood/tracks,
 /obj/structure/mirror/directional/west,
 /turf/open/floor/plating,
 /area/ruin/unpowered)
 "h" = (
-/obj/effect/decal/cleanable/blood,
+/obj/effect/decal/cleanable/vital/organic/blood,
 /turf/open/floor/plating,
 /area/ruin/unpowered)
 "i" = (
 /turf/open/floor/plating,
 /area/ruin/unpowered)
 "j" = (
-/obj/effect/decal/cleanable/blood/splatter,
+/obj/effect/decal/cleanable/vital/organic/blood/splatter,
 /turf/open/floor/plating,
 /area/ruin/unpowered)
 "k" = (

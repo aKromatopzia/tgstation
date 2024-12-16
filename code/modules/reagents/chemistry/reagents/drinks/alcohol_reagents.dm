@@ -1001,7 +1001,7 @@
 	mob/living/source,
 	datum/action/cooldown/spell/jaunt/bloodcrawl/crawl,
 	mob/living/jaunter,
-	obj/effect/decal/cleanable/blood,
+	obj/effect/decal/cleanable/vital/organic/blood,
 )
 
 	SIGNAL_HANDLER

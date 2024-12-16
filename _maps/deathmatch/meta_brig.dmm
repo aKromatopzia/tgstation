@@ -66,7 +66,7 @@
 /turf/open/floor/carpet,
 /area/deathmatch)
 "aI" = (
-/obj/effect/decal/cleanable/oil/slippery,
+/obj/effect/decal/cleanable/vital/robotic/oil/slippery,
 /turf/open/floor/iron/grimy,
 /area/deathmatch)
 "aR" = (
@@ -100,7 +100,7 @@
 /turf/open/indestructible,
 /area/deathmatch)
 "bh" = (
-/obj/effect/decal/cleanable/blood/footprints{
+/obj/effect/decal/cleanable/vital/organic/blood/footprints{
 	dir = 8
 	},
 /turf/open/indestructible,
@@ -137,7 +137,7 @@
 	dir = 8
 	},
 /obj/structure/cable,
-/obj/effect/decal/cleanable/blood/splatter,
+/obj/effect/decal/cleanable/vital/organic/blood/splatter,
 /turf/open/indestructible,
 /area/deathmatch)
 "by" = (
@@ -147,7 +147,7 @@
 /turf/open/indestructible/dark,
 /area/deathmatch)
 "bA" = (
-/obj/effect/decal/cleanable/blood/tracks,
+/obj/effect/decal/cleanable/vital/organic/blood/tracks,
 /turf/open/indestructible/dark,
 /area/deathmatch)
 "bI" = (
@@ -193,7 +193,7 @@
 /turf/open/indestructible/dark,
 /area/deathmatch)
 "cN" = (
-/obj/effect/decal/cleanable/blood/drip,
+/obj/effect/decal/cleanable/vital/organic/blood/drip,
 /turf/open/indestructible,
 /area/deathmatch)
 "cW" = (
@@ -279,7 +279,7 @@
 /area/deathmatch)
 "dN" = (
 /obj/effect/turf_decal/trimline/red/filled/corner,
-/obj/effect/decal/cleanable/oil/slippery,
+/obj/effect/decal/cleanable/vital/robotic/oil/slippery,
 /turf/open/indestructible/dark,
 /area/deathmatch)
 "ew" = (
@@ -1100,7 +1100,7 @@
 /area/deathmatch)
 "qk" = (
 /obj/structure/cable,
-/obj/effect/decal/cleanable/blood/gibs/body,
+/obj/effect/decal/cleanable/vital/organic/gibs/body,
 /turf/open/indestructible,
 /area/deathmatch)
 "qv" = (
@@ -1156,7 +1156,7 @@
 /obj/structure/disposalpipe/segment{
 	dir = 1
 	},
-/obj/effect/decal/cleanable/oil/slippery,
+/obj/effect/decal/cleanable/vital/robotic/oil/slippery,
 /turf/open/indestructible,
 /area/deathmatch)
 "sb" = (
@@ -1289,7 +1289,7 @@
 	dir = 1
 	},
 /obj/structure/extinguisher_cabinet/directional/west,
-/obj/effect/decal/cleanable/blood/drip,
+/obj/effect/decal/cleanable/vital/organic/blood/drip,
 /turf/open/indestructible,
 /area/deathmatch)
 "th" = (
@@ -1505,7 +1505,7 @@
 	dir = 4
 	},
 /obj/structure/cable,
-/obj/effect/decal/cleanable/blood/drip,
+/obj/effect/decal/cleanable/vital/organic/blood/drip,
 /turf/open/indestructible,
 /area/deathmatch)
 "wm" = (
@@ -1540,7 +1540,7 @@
 /area/deathmatch)
 "wT" = (
 /obj/structure/cable,
-/obj/effect/decal/cleanable/blood/gibs/limb,
+/obj/effect/decal/cleanable/vital/organic/gibs/limb,
 /turf/open/indestructible,
 /area/deathmatch)
 "wX" = (
@@ -1931,7 +1931,7 @@
 /turf/open/indestructible/dark,
 /area/deathmatch)
 "CS" = (
-/obj/effect/decal/cleanable/blood/tracks{
+/obj/effect/decal/cleanable/vital/organic/blood/tracks{
 	dir = 4
 	},
 /turf/open/indestructible/dark,
@@ -2243,8 +2243,8 @@
 /obj/structure/disposalpipe/segment{
 	dir = 4
 	},
-/obj/effect/decal/cleanable/blood/tracks,
-/obj/effect/decal/cleanable/blood,
+/obj/effect/decal/cleanable/vital/organic/blood/tracks,
+/obj/effect/decal/cleanable/vital/organic/blood,
 /turf/open/indestructible,
 /area/deathmatch)
 "GY" = (
@@ -2266,8 +2266,8 @@
 /area/deathmatch)
 "Hd" = (
 /obj/structure/cable,
-/obj/effect/decal/cleanable/blood/drip,
-/obj/effect/decal/cleanable/blood/footprints{
+/obj/effect/decal/cleanable/vital/organic/blood/drip,
+/obj/effect/decal/cleanable/vital/organic/blood/footprints{
 	dir = 8
 	},
 /turf/open/indestructible,
@@ -2307,7 +2307,7 @@
 	dir = 1
 	},
 /obj/structure/cable,
-/obj/effect/decal/cleanable/blood/drip,
+/obj/effect/decal/cleanable/vital/organic/blood/drip,
 /turf/open/indestructible,
 /area/deathmatch)
 "Hz" = (
@@ -2547,7 +2547,7 @@
 	dir = 5
 	},
 /obj/structure/cable,
-/obj/effect/decal/cleanable/blood,
+/obj/effect/decal/cleanable/vital/organic/blood,
 /turf/open/indestructible,
 /area/deathmatch)
 "Kz" = (
@@ -2796,7 +2796,7 @@
 /turf/open/indestructible,
 /area/deathmatch)
 "Oy" = (
-/obj/effect/decal/cleanable/blood/gibs/torso,
+/obj/effect/decal/cleanable/vital/organic/gibs/torso,
 /turf/open/indestructible,
 /area/deathmatch)
 "Oz" = (
@@ -2918,7 +2918,7 @@
 /area/deathmatch)
 "Qe" = (
 /obj/structure/table,
-/obj/effect/decal/cleanable/blood,
+/obj/effect/decal/cleanable/vital/organic/blood,
 /turf/open/indestructible/dark,
 /area/deathmatch)
 "Qp" = (
@@ -3012,13 +3012,13 @@
 /obj/structure/disposalpipe/segment{
 	dir = 1
 	},
-/obj/effect/decal/cleanable/blood/footprints{
+/obj/effect/decal/cleanable/vital/organic/blood/footprints{
 	dir = 1
 	},
 /turf/open/indestructible,
 /area/deathmatch)
 "Se" = (
-/obj/effect/decal/cleanable/blood/gibs,
+/obj/effect/decal/cleanable/vital/organic/gibs,
 /turf/open/indestructible,
 /area/deathmatch)
 "Sg" = (
@@ -3052,7 +3052,7 @@
 /obj/structure/disposalpipe/segment{
 	dir = 10
 	},
-/obj/effect/decal/cleanable/blood/footprints{
+/obj/effect/decal/cleanable/vital/organic/blood/footprints{
 	dir = 1
 	},
 /turf/open/indestructible,
@@ -3071,7 +3071,7 @@
 "SF" = (
 /obj/structure/extinguisher_cabinet/directional/north,
 /obj/machinery/light/directional/north,
-/obj/effect/decal/cleanable/blood/splatter,
+/obj/effect/decal/cleanable/vital/organic/blood/splatter,
 /turf/open/indestructible,
 /area/deathmatch)
 "SG" = (
@@ -3111,7 +3111,7 @@
 /area/deathmatch)
 "TK" = (
 /obj/structure/cable,
-/obj/effect/decal/cleanable/blood,
+/obj/effect/decal/cleanable/vital/organic/blood,
 /turf/open/indestructible,
 /area/deathmatch)
 "TY" = (
@@ -3206,7 +3206,7 @@
 /obj/structure/disposalpipe/segment{
 	dir = 4
 	},
-/obj/effect/decal/cleanable/blood/footprints{
+/obj/effect/decal/cleanable/vital/organic/blood/footprints{
 	dir = 8
 	},
 /turf/open/indestructible,
@@ -3294,7 +3294,7 @@
 /turf/open/floor/plating,
 /area/deathmatch)
 "Wp" = (
-/obj/effect/decal/cleanable/oil/slippery,
+/obj/effect/decal/cleanable/vital/robotic/oil/slippery,
 /turf/open/indestructible,
 /area/deathmatch)
 "Wv" = (
@@ -3411,7 +3411,7 @@
 /area/deathmatch)
 "XL" = (
 /obj/structure/cable,
-/obj/effect/decal/cleanable/oil/slippery,
+/obj/effect/decal/cleanable/vital/robotic/oil/slippery,
 /turf/open/indestructible,
 /area/deathmatch)
 "XS" = (
@@ -3623,7 +3623,7 @@
 /turf/open/indestructible,
 /area/deathmatch)
 "ZO" = (
-/obj/effect/decal/cleanable/robot_debris/down,
+/obj/effect/decal/cleanable/vital/robotic/debris/down,
 /turf/open/floor/plating,
 /area/deathmatch)
 

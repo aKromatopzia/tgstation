@@ -38,7 +38,7 @@
 /turf/closed/mineral/strong/wasteland,
 /area/ruin/unpowered/elephant_graveyard)
 "bh" = (
-/obj/effect/decal/cleanable/oil,
+/obj/effect/decal/cleanable/vital/robotic/oil,
 /obj/structure/chair/office/light,
 /turf/open/floor/mineral/titanium/white,
 /area/ruin/powered/graveyard_shuttle)
@@ -83,7 +83,7 @@
 /turf/closed/wall,
 /area/ruin/unpowered/elephant_graveyard)
 "bS" = (
-/obj/effect/decal/cleanable/oil/slippery,
+/obj/effect/decal/cleanable/vital/robotic/oil/slippery,
 /obj/machinery/rnd/destructive_analyzer,
 /turf/open/floor/mineral/titanium/white,
 /area/ruin/powered/graveyard_shuttle)
@@ -124,17 +124,17 @@
 /turf/open/misc/asteroid/basalt/wasteland,
 /area/ruin/unpowered/elephant_graveyard)
 "ei" = (
-/obj/effect/decal/cleanable/blood/gibs/old,
-/obj/effect/decal/cleanable/blood/splatter,
+/obj/effect/decal/cleanable/vital/organic/gibs/old,
+/obj/effect/decal/cleanable/vital/organic/blood/splatter,
 /turf/open/misc/asteroid/basalt/wasteland,
 /area/ruin/unpowered/elephant_graveyard)
 "eu" = (
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /turf/open/misc/asteroid/basalt/wasteland,
 /area/ruin/unpowered/elephant_graveyard)
 "gl" = (
 /obj/effect/decal/remains/human,
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /obj/effect/decal/cleanable/shreds,
 /turf/open/misc/asteroid/basalt/wasteland,
 /area/ruin/unpowered/elephant_graveyard)
@@ -167,7 +167,7 @@
 /turf/open/misc/asteroid/basalt/lava_land_surface,
 /area/ruin/powered/graveyard_shuttle)
 "jK" = (
-/obj/effect/decal/cleanable/blood/tracks{
+/obj/effect/decal/cleanable/vital/organic/blood/tracks{
 	dir = 4
 	},
 /turf/open/misc/asteroid/basalt/wasteland,
@@ -224,7 +224,7 @@
 /turf/open/misc/asteroid/basalt/wasteland,
 /area/ruin/unpowered/elephant_graveyard)
 "ov" = (
-/obj/effect/decal/cleanable/blood/drip,
+/obj/effect/decal/cleanable/vital/organic/blood/drip,
 /obj/structure/stone_tile/cracked,
 /turf/open/misc/asteroid/basalt/wasteland,
 /area/ruin/unpowered/elephant_graveyard)
@@ -236,7 +236,7 @@
 /obj/structure/bonfire/prelit,
 /obj/effect/decal/cleanable/ash,
 /obj/item/organ/tail/lizard,
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /obj/structure/stone_tile/slab/cracked,
 /turf/open/misc/asteroid/basalt/wasteland,
 /area/ruin/unpowered/elephant_graveyard)
@@ -285,7 +285,7 @@
 "uy" = (
 /obj/effect/decal/cleanable/cobweb,
 /obj/structure/closet/crate/grave/filled/lead_researcher,
-/obj/effect/decal/cleanable/blood/gibs/old,
+/obj/effect/decal/cleanable/vital/organic/gibs/old,
 /obj/effect/mob_spawn/corpse/human/skeleton,
 /turf/open/misc/asteroid/basalt/wasteland,
 /area/ruin/unpowered/elephant_graveyard)
@@ -314,7 +314,7 @@
 "wp" = (
 /obj/item/knife/combat/bone,
 /obj/item/organ/tongue,
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /turf/open/misc/asteroid/basalt/wasteland,
 /area/ruin/unpowered/elephant_graveyard)
 "xr" = (
@@ -328,12 +328,12 @@
 /turf/open/misc/asteroid/basalt/wasteland,
 /area/ruin/unpowered/elephant_graveyard)
 "yG" = (
-/obj/effect/decal/cleanable/oil/streak,
+/obj/effect/decal/cleanable/vital/robotic/oil/streak,
 /obj/effect/decal/cleanable/glass,
 /turf/open/misc/asteroid/basalt/wasteland,
 /area/ruin/unpowered/elephant_graveyard)
 "zY" = (
-/obj/effect/decal/cleanable/blood/drip,
+/obj/effect/decal/cleanable/vital/organic/blood/drip,
 /turf/open/misc/asteroid/basalt/wasteland,
 /area/ruin/unpowered/elephant_graveyard)
 "AB" = (
@@ -388,7 +388,7 @@
 "Di" = (
 /obj/item/organ/lungs,
 /obj/item/organ/liver,
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /turf/open/misc/asteroid/basalt/wasteland,
 /area/ruin/unpowered/elephant_graveyard)
 "Dw" = (
@@ -471,13 +471,13 @@
 /obj/item/organ/heart,
 /obj/item/organ/eyes,
 /obj/item/organ/ears,
-/obj/effect/decal/cleanable/blood/gibs/old,
+/obj/effect/decal/cleanable/vital/organic/gibs/old,
 /turf/open/misc/asteroid/basalt/wasteland,
 /area/ruin/unpowered/elephant_graveyard)
 "Kq" = (
 /obj/structure/barricade/wooden/crude,
 /obj/structure/barricade/wooden,
-/obj/effect/decal/cleanable/blood/splatter,
+/obj/effect/decal/cleanable/vital/organic/blood/splatter,
 /turf/open/misc/asteroid/basalt/wasteland,
 /area/ruin/unpowered/elephant_graveyard)
 "Ks" = (
@@ -504,7 +504,7 @@
 "MF" = (
 /obj/effect/decal/remains/human,
 /obj/item/tank/internals/emergency_oxygen/empty,
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /turf/open/misc/asteroid/basalt/wasteland,
 /area/ruin/unpowered/elephant_graveyard)
 "MI" = (
@@ -574,7 +574,7 @@
 /turf/open/misc/asteroid/basalt/wasteland,
 /area/ruin/unpowered/elephant_graveyard)
 "WI" = (
-/obj/effect/decal/cleanable/blood/tracks{
+/obj/effect/decal/cleanable/vital/organic/blood/tracks{
 	dir = 4
 	},
 /obj/item/paper/fluff/ruins/elephant_graveyard/final_message,

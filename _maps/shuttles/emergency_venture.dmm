@@ -404,7 +404,7 @@
 /turf/open/floor/mineral/plastitanium/red,
 /area/shuttle/escape/brig)
 "vB" = (
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /turf/open/floor/mineral/plastitanium/red,
 /area/shuttle/escape/brig)
 "vX" = (
@@ -729,7 +729,7 @@
 /obj/structure/chair/comfy/shuttle{
 	dir = 8
 	},
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /turf/open/floor/mineral/plastitanium/red,
 /area/shuttle/escape/brig)
 "OS" = (

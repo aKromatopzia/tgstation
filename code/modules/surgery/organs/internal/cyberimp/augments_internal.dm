@@ -264,7 +264,7 @@
 		owner.visible_message(span_userdanger("[owner]'s brain falls off the back of [owner.p_their()] head!!!"), span_boldwarning("You feel like you're missing something."))
 		return chippy_brain
 
-	new /obj/effect/decal/cleanable/blood/gibs/up(get_turf(owner))
+	new /obj/effect/decal/cleanable/vital/organic/gibs/up(get_turf(owner))
 	return FALSE
 
 /obj/item/organ/cyberimp/brain/connector/proc/reboot()

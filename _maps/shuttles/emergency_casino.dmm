@@ -85,7 +85,7 @@
 /turf/open/floor/mineral/titanium,
 /area/shuttle/escape)
 "dp" = (
-/obj/effect/decal/cleanable/blood/splatter,
+/obj/effect/decal/cleanable/vital/organic/blood/splatter,
 /turf/open/floor/mineral/plastitanium/red,
 /area/shuttle/escape/brig)
 "dr" = (
@@ -101,7 +101,7 @@
 /area/shuttle/escape)
 "ep" = (
 /obj/structure/chair/comfy/shuttle,
-/obj/effect/decal/cleanable/blood,
+/obj/effect/decal/cleanable/vital/organic/blood,
 /turf/open/floor/mineral/plastitanium/red,
 /area/shuttle/escape/brig)
 "et" = (
@@ -504,7 +504,7 @@
 /turf/open/floor/carpet/green,
 /area/shuttle/escape)
 "oz" = (
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /turf/open/floor/mineral/plastitanium/red,
 /area/shuttle/escape/brig)
 "oB" = (

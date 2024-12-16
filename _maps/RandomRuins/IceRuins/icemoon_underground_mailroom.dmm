@@ -4,7 +4,7 @@
 	dir = 4
 	},
 /obj/effect/mob_spawn/corpse/human/skeleton,
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /turf/open/floor/carpet/royalblack,
 /area/ruin/powered/mailroom)
 "az" = (
@@ -68,7 +68,7 @@
 /turf/open/floor/carpet/royalblack,
 /area/ruin/powered/mailroom)
 "hk" = (
-/obj/effect/decal/cleanable/blood/drip,
+/obj/effect/decal/cleanable/vital/organic/blood/drip,
 /turf/open/floor/carpet/royalblack,
 /area/ruin/powered/mailroom)
 "hN" = (
@@ -194,7 +194,7 @@
 /turf/open/floor/plating/snowed/smoothed/icemoon,
 /area/ruin/powered/mailroom)
 "uI" = (
-/obj/effect/decal/cleanable/blood/drip,
+/obj/effect/decal/cleanable/vital/organic/blood/drip,
 /turf/open/floor/carpet/green,
 /area/ruin/powered/mailroom)
 "uK" = (
@@ -207,7 +207,7 @@
 /turf/closed/indestructible/reinforced,
 /area/ruin/powered/mailroom)
 "vV" = (
-/obj/effect/decal/cleanable/oil,
+/obj/effect/decal/cleanable/vital/robotic/oil,
 /turf/open/floor/iron/smooth_large,
 /area/ruin/powered/mailroom)
 "wc" = (
@@ -377,7 +377,7 @@
 /turf/open/floor/plating/snowed/smoothed/icemoon,
 /area/ruin/powered/mailroom)
 "PO" = (
-/obj/effect/decal/cleanable/blood/drip,
+/obj/effect/decal/cleanable/vital/organic/blood/drip,
 /obj/effect/turf_decal/siding/thinplating/corner,
 /obj/item/paper/crumpled/fluff/poem,
 /obj/structure/closet/crate/bin,
@@ -433,7 +433,7 @@
 /turf/open/floor/iron/smooth_large,
 /area/ruin/powered/mailroom)
 "TN" = (
-/obj/effect/decal/cleanable/oil,
+/obj/effect/decal/cleanable/vital/robotic/oil,
 /obj/machinery/door/puzzle/keycard/icebox/office,
 /turf/open/floor/iron/white,
 /area/ruin/powered/mailroom)

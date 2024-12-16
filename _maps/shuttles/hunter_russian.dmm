@@ -107,7 +107,7 @@
 /area/shuttle/hunter/russian)
 "ho" = (
 /obj/effect/decal/cleanable/dirt,
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /turf/open/floor/mineral/plastitanium,
 /area/shuttle/hunter/russian)
 "iM" = (

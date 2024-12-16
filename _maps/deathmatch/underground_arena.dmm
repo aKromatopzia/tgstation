@@ -3,7 +3,7 @@
 /obj/effect/turf_decal/siding/wideplating/dark{
 	dir = 1
 	},
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /turf/open/indestructible/vault,
 /area/deathmatch)
 "ao" = (
@@ -50,7 +50,7 @@
 /obj/effect/turf_decal/stripes/line{
 	dir = 8
 	},
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /obj/machinery/light/floor,
 /turf/open/indestructible/dark/smooth_large,
 /area/deathmatch)
@@ -60,12 +60,12 @@
 /obj/effect/turf_decal/stripes/line{
 	dir = 4
 	},
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /turf/open/indestructible/plating,
 /area/deathmatch)
 "cY" = (
 /obj/structure/barricade/security/murderdome,
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /turf/open/indestructible/dark/smooth_large,
 /area/deathmatch)
 "dp" = (
@@ -82,7 +82,7 @@
 /obj/effect/turf_decal/stripes/line{
 	dir = 8
 	},
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /turf/open/indestructible/dark/smooth_large,
 /area/deathmatch)
 "dU" = (
@@ -93,7 +93,7 @@
 /obj/structure/railing{
 	dir = 8
 	},
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /turf/open/indestructible/dark/smooth_large,
 /area/deathmatch)
 "ek" = (
@@ -104,7 +104,7 @@
 /obj/effect/turf_decal/siding/wideplating/dark{
 	dir = 4
 	},
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /turf/open/indestructible/vault,
 /area/deathmatch)
 "fp" = (
@@ -146,13 +146,13 @@
 /obj/structure/chair/office/tactical{
 	dir = 8
 	},
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /obj/effect/decal/cleanable/dirt/dust,
 /turf/open/indestructible/dark/smooth_large,
 /area/deathmatch)
 "lQ" = (
 /obj/item/gun/ballistic/revolver/reverse,
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /obj/effect/light_emitter{
 	set_cap = 2;
 	light_color = "#DEEFFF";
@@ -190,7 +190,7 @@
 /obj/effect/turf_decal/stripes/line{
 	dir = 8
 	},
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /turf/open/indestructible/plating,
 /area/deathmatch)
 "ns" = (
@@ -227,7 +227,7 @@
 	light_color = "#DEEFFF";
 	set_luminosity = 4
 	},
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /turf/open/indestructible/plating,
 /area/deathmatch)
 "pR" = (
@@ -251,7 +251,7 @@
 /obj/effect/turf_decal/siding/wideplating/dark{
 	dir = 8
 	},
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /turf/open/indestructible/vault,
 /area/deathmatch)
 "rc" = (
@@ -308,7 +308,7 @@
 /turf/open/indestructible/dark/smooth_large,
 /area/deathmatch)
 "ud" = (
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /obj/effect/light_emitter{
 	set_cap = 2;
 	light_color = "#DEEFFF";
@@ -318,8 +318,8 @@
 /area/deathmatch)
 "un" = (
 /obj/structure/barricade/security/murderdome,
-/obj/effect/decal/cleanable/blood/old,
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /turf/open/indestructible/dark/smooth_large,
 /area/deathmatch)
 "vm" = (
@@ -356,7 +356,7 @@
 /turf/open/indestructible/vault,
 /area/deathmatch)
 "xD" = (
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /obj/effect/decal/cleanable/dirt/dust,
 /turf/open/indestructible/dark/smooth_large,
 /area/deathmatch)
@@ -383,19 +383,19 @@
 /obj/effect/turf_decal/siding/wideplating/dark{
 	dir = 4
 	},
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /obj/effect/decal/cleanable/dirt/dust,
 /turf/open/indestructible/vault,
 /area/deathmatch)
 "yA" = (
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /turf/open/indestructible/dark/smooth_large,
 /area/deathmatch)
 "zd" = (
 /obj/effect/turf_decal/stripes/line{
 	dir = 8
 	},
-/obj/effect/decal/cleanable/blood/tracks{
+/obj/effect/decal/cleanable/vital/organic/blood/tracks{
 	dir = 4
 	},
 /turf/open/indestructible/dark/smooth_large,
@@ -523,7 +523,7 @@
 /turf/open/indestructible/vault,
 /area/deathmatch)
 "Ih" = (
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /turf/open/indestructible/vault,
 /area/deathmatch)
 "In" = (
@@ -559,7 +559,7 @@
 /obj/structure/railing{
 	dir = 8
 	},
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /turf/open/indestructible/dark/smooth_large,
 /area/deathmatch)
 "Kb" = (
@@ -599,7 +599,7 @@
 /area/deathmatch)
 "LA" = (
 /obj/effect/spawner/random/medical/medkit_rare,
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /turf/open/indestructible/vault,
 /area/deathmatch)
 "Ml" = (
@@ -642,8 +642,8 @@
 /turf/open/indestructible/vault,
 /area/deathmatch)
 "OU" = (
-/obj/effect/decal/cleanable/blood/old,
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /turf/open/indestructible/dark/smooth_large,
 /area/deathmatch)
 "PU" = (
@@ -660,7 +660,7 @@
 /area/deathmatch)
 "QQ" = (
 /obj/effect/decal/cleanable/dirt/dust,
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /turf/open/indestructible/plating,
 /area/deathmatch)
 "QY" = (
@@ -684,7 +684,7 @@
 	light_color = "#DEEFFF";
 	set_luminosity = 2
 	},
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /obj/effect/decal/cleanable/dirt/dust,
 /turf/open/indestructible/vault,
 /area/deathmatch)
@@ -710,7 +710,7 @@
 /turf/open/indestructible/dark/smooth_large,
 /area/deathmatch)
 "TQ" = (
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /obj/machinery/light/floor,
 /turf/open/indestructible/dark/smooth_large,
 /area/deathmatch)
@@ -845,7 +845,7 @@
 /obj/effect/turf_decal/siding/wideplating/dark{
 	dir = 1
 	},
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /turf/open/indestructible/vault,
 /area/deathmatch)
 "YI" = (
@@ -867,7 +867,7 @@
 /obj/structure/railing/corner/end{
 	dir = 8
 	},
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /turf/open/indestructible/dark/smooth_large,
 /area/deathmatch)
 "ZR" = (

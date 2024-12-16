@@ -410,7 +410,7 @@
 
 /obj/effect/meteor/meaty/ram_turf(turf/T)
 	if(!isspaceturf(T))
-		new /obj/effect/decal/cleanable/blood(T)
+		new /obj/effect/decal/cleanable/vital/organic/blood(T)
 
 /obj/effect/meteor/meaty/Bump(atom/A)
 	EX_ACT(A, hitpwr)
@@ -429,7 +429,7 @@
 
 /obj/effect/meteor/meaty/xeno/ram_turf(turf/T)
 	if(!isspaceturf(T))
-		new /obj/effect/decal/cleanable/xenoblood(T)
+		new /obj/effect/decal/cleanable/vital/organic/xenoblood(T)
 
 //Station buster Tunguska
 /obj/effect/meteor/tunguska

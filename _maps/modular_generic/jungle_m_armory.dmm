@@ -55,7 +55,7 @@
 	},
 /obj/effect/turf_decal/weather/dirt,
 /obj/item/hatchet/wooden,
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /turf/open/floor/wood,
 /area/template_noop)
 "k" = (
@@ -135,7 +135,7 @@
 /obj/effect/turf_decal/weather/dirt{
 	dir = 6
 	},
-/obj/effect/decal/cleanable/xenoblood,
+/obj/effect/decal/cleanable/vital/organic/xenoblood,
 /obj/effect/decal/remains/xeno,
 /obj/structure/flora/bush/large/style_random{
 	pixel_y = -3
@@ -338,7 +338,7 @@
 /obj/item/stack/sheet/mineral/wood{
 	pixel_x = 7
 	},
-/obj/effect/decal/cleanable/blood/old{
+/obj/effect/decal/cleanable/vital/organic/blood/old{
 	icon_state = "floor5-old"
 	},
 /turf/open/floor/wood,

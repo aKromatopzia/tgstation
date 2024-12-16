@@ -145,7 +145,7 @@
 /turf/open/floor/fakebasalt,
 /area/ruin/bughabitat)
 "oZ" = (
-/obj/effect/decal/cleanable/blood/drip,
+/obj/effect/decal/cleanable/vital/organic/blood/drip,
 /turf/open/floor/iron,
 /area/ruin/bughabitat)
 "pc" = (
@@ -184,7 +184,7 @@
 /area/ruin/bughabitat)
 "sl" = (
 /obj/machinery/light/warm/directional/east,
-/obj/effect/decal/cleanable/blood/footprints,
+/obj/effect/decal/cleanable/vital/organic/blood/footprints,
 /turf/open/floor/iron,
 /area/ruin/bughabitat)
 "sr" = (

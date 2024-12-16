@@ -65,7 +65,7 @@
 "dN" = (
 /obj/effect/turf_decal/tile/blue/opposingcorners,
 /obj/effect/turf_decal/tile/blue/opposingcorners,
-/obj/effect/decal/cleanable/blood/xtracks,
+/obj/effect/decal/cleanable/vital/organic/blood/xtracks,
 /turf/open/floor/iron/kitchen,
 /area/virtual_domain)
 "dV" = (
@@ -82,7 +82,7 @@
 /obj/structure/closet/gmcloset,
 /obj/effect/turf_decal/tile/blue/opposingcorners,
 /obj/effect/turf_decal/tile/blue/opposingcorners,
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /turf/open/floor/iron/kitchen,
 /area/virtual_domain)
 "eW" = (
@@ -117,7 +117,7 @@
 /turf/open/floor/iron/kitchen,
 /area/virtual_domain)
 "fU" = (
-/obj/effect/decal/cleanable/blood/footprints,
+/obj/effect/decal/cleanable/vital/organic/blood/footprints,
 /turf/open/floor/iron/kitchen,
 /area/virtual_domain)
 "gl" = (
@@ -128,7 +128,7 @@
 /obj/effect/turf_decal/tile/dark_red/opposingcorners,
 /obj/effect/turf_decal/tile/dark_red/opposingcorners,
 /obj/item/toy/balloon/heart,
-/obj/effect/decal/cleanable/blood/tracks{
+/obj/effect/decal/cleanable/vital/organic/blood/tracks{
 	dir = 4
 	},
 /obj/machinery/light/built/directional/east,
@@ -219,7 +219,7 @@
 "ms" = (
 /obj/effect/turf_decal/tile/blue/opposingcorners,
 /obj/effect/turf_decal/tile/blue/opposingcorners,
-/obj/effect/decal/cleanable/blood/tracks,
+/obj/effect/decal/cleanable/vital/organic/blood/tracks,
 /turf/open/floor/iron/kitchen,
 /area/virtual_domain)
 "mC" = (
@@ -237,7 +237,7 @@
 /turf/open/floor/iron/kitchen,
 /area/virtual_domain)
 "ng" = (
-/obj/effect/decal/cleanable/blood/drip,
+/obj/effect/decal/cleanable/vital/organic/blood/drip,
 /turf/open/floor/iron/kitchen,
 /area/virtual_domain)
 "nF" = (
@@ -283,7 +283,7 @@
 /turf/open/floor/iron/kitchen,
 /area/virtual_domain)
 "pK" = (
-/obj/effect/decal/cleanable/blood/tracks{
+/obj/effect/decal/cleanable/vital/organic/blood/tracks{
 	dir = 4
 	},
 /turf/open/floor/wood,
@@ -313,7 +313,7 @@
 /obj/structure/chair/comfy/black{
 	dir = 8
 	},
-/obj/effect/decal/cleanable/blood/splatter,
+/obj/effect/decal/cleanable/vital/organic/blood/splatter,
 /turf/open/floor/iron/kitchen,
 /area/virtual_domain)
 "re" = (
@@ -328,7 +328,7 @@
 /obj/structure/chair/greyscale{
 	dir = 8
 	},
-/obj/effect/decal/cleanable/blood/tracks,
+/obj/effect/decal/cleanable/vital/organic/blood/tracks,
 /turf/open/floor/iron/kitchen,
 /area/virtual_domain)
 "rB" = (
@@ -347,7 +347,7 @@
 "rY" = (
 /obj/effect/turf_decal/tile/blue/opposingcorners,
 /obj/effect/turf_decal/tile/blue/opposingcorners,
-/obj/effect/decal/cleanable/blood/tracks{
+/obj/effect/decal/cleanable/vital/organic/blood/tracks{
 	dir = 4
 	},
 /turf/open/floor/iron/kitchen,
@@ -442,7 +442,7 @@
 "vy" = (
 /obj/effect/turf_decal/tile/bar/opposingcorners,
 /obj/effect/turf_decal/tile/bar/opposingcorners,
-/obj/effect/decal/cleanable/blood/gibs/down,
+/obj/effect/decal/cleanable/vital/organic/gibs/down,
 /turf/open/floor/iron/kitchen,
 /area/virtual_domain)
 "vz" = (
@@ -518,13 +518,13 @@
 /area/virtual_domain)
 "yB" = (
 /obj/structure/railing,
-/obj/effect/decal/cleanable/blood/tracks,
+/obj/effect/decal/cleanable/vital/organic/blood/tracks,
 /turf/open/floor/wood,
 /area/virtual_domain)
 "zU" = (
 /obj/effect/turf_decal/tile/bar/opposingcorners,
 /obj/effect/turf_decal/tile/bar/opposingcorners,
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /turf/open/floor/iron/kitchen,
 /area/virtual_domain)
 "Ag" = (
@@ -567,7 +567,7 @@
 /turf/open/floor/iron/kitchen/small,
 /area/virtual_domain)
 "BU" = (
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /turf/open/floor/iron/cafeteria,
 /area/virtual_domain/protected_space/fullbright)
 "Ce" = (
@@ -576,7 +576,7 @@
 /obj/structure/chair/greyscale{
 	dir = 8
 	},
-/obj/effect/decal/cleanable/blood/gibs/up,
+/obj/effect/decal/cleanable/vital/organic/gibs/up,
 /turf/open/floor/iron/kitchen,
 /area/virtual_domain)
 "Cm" = (
@@ -641,7 +641,7 @@
 /turf/open/floor/iron/kitchen/small,
 /area/virtual_domain)
 "GD" = (
-/obj/effect/decal/cleanable/blood,
+/obj/effect/decal/cleanable/vital/organic/blood,
 /turf/open/floor/iron/kitchen,
 /area/virtual_domain)
 "GK" = (
@@ -716,7 +716,7 @@
 "JD" = (
 /obj/effect/turf_decal/tile/dark_red/opposingcorners,
 /obj/effect/turf_decal/tile/dark_red/opposingcorners,
-/obj/effect/decal/cleanable/blood/tracks,
+/obj/effect/decal/cleanable/vital/organic/blood/tracks,
 /turf/open/floor/iron/kitchen,
 /area/virtual_domain)
 "JF" = (
@@ -766,7 +766,7 @@
 "Mc" = (
 /obj/effect/turf_decal/tile/blue/opposingcorners,
 /obj/effect/turf_decal/tile/blue/opposingcorners,
-/obj/effect/decal/cleanable/blood/tracks{
+/obj/effect/decal/cleanable/vital/organic/blood/tracks{
 	dir = 4
 	},
 /obj/effect/turf_decal/caution/stand_clear,
@@ -844,7 +844,7 @@
 /area/virtual_domain)
 "PK" = (
 /obj/structure/curtain/cloth/fancy/mechanical,
-/obj/effect/decal/cleanable/blood/tracks,
+/obj/effect/decal/cleanable/vital/organic/blood/tracks,
 /turf/open/floor/wood,
 /area/virtual_domain)
 "Qg" = (
@@ -866,7 +866,7 @@
 /turf/open/floor/iron/kitchen,
 /area/virtual_domain)
 "Sr" = (
-/obj/effect/decal/cleanable/blood/footprints{
+/obj/effect/decal/cleanable/vital/organic/blood/footprints{
 	dir = 4
 	},
 /turf/open/floor/iron/kitchen,
@@ -946,7 +946,7 @@
 "Vs" = (
 /obj/effect/turf_decal/tile/dark_red/opposingcorners,
 /obj/effect/turf_decal/tile/dark_red/opposingcorners,
-/obj/effect/decal/cleanable/blood/gibs/old,
+/obj/effect/decal/cleanable/vital/organic/gibs/old,
 /obj/machinery/light/built/directional/west,
 /turf/open/floor/iron/kitchen,
 /area/virtual_domain)
@@ -1025,7 +1025,7 @@
 /obj/structure/chair/comfy/black{
 	dir = 8
 	},
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /turf/open/floor/iron/kitchen,
 /area/virtual_domain)
 "ZL" = (

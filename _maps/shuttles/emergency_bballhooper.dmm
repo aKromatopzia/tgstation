@@ -503,7 +503,7 @@
 	name = "TIMEOUT BOX"
 	},
 /obj/effect/mapping_helpers/airlock/access/all/security/general,
-/obj/effect/decal/cleanable/oil/slippery,
+/obj/effect/decal/cleanable/vital/robotic/oil/slippery,
 /turf/open/floor/mineral/plastitanium/red,
 /area/shuttle/escape/brig)
 "Cf" = (
@@ -979,7 +979,7 @@
 /turf/open/floor/mineral/titanium/blue,
 /area/shuttle/escape)
 "YB" = (
-/obj/effect/decal/cleanable/blood,
+/obj/effect/decal/cleanable/vital/organic/blood,
 /turf/open/floor/mineral/plastitanium/red,
 /area/shuttle/escape/brig)
 "YF" = (

@@ -178,7 +178,7 @@
 		var/mob/living/carbon/human/gibee = occupant
 		sourcejob = gibee.job
 	var/sourcenutriment = mob_occupant.nutrition / 15
-	var/gibtype = /obj/effect/decal/cleanable/blood/gibs
+	var/gibtype = /obj/effect/decal/cleanable/vital/organic/gibs
 	var/typeofmeat = /obj/item/food/meat/slab/human
 	var/typeofskin
 

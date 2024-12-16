@@ -443,7 +443,7 @@
 /turf/open/floor/plating,
 /area/awaymission/undergroundoutpost45/central)
 "ci" = (
-/obj/effect/decal/cleanable/blood/gibs/limb,
+/obj/effect/decal/cleanable/vital/organic/gibs/limb,
 /turf/open/misc/asteroid/plasma,
 /area/awaymission/undergroundoutpost45/caves)
 "cm" = (
@@ -6454,7 +6454,7 @@
 /turf/open/misc/asteroid/plasma,
 /area/awaymission/undergroundoutpost45/caves)
 "zO" = (
-/obj/effect/decal/cleanable/blood/gibs/up,
+/obj/effect/decal/cleanable/vital/organic/gibs/up,
 /turf/open/misc/asteroid/plasma,
 /area/awaymission/undergroundoutpost45/caves)
 "zX" = (
@@ -6575,7 +6575,7 @@
 /area/awaymission/undergroundoutpost45/crew_quarters)
 "BL" = (
 /obj/structure/alien/weeds,
-/obj/effect/decal/cleanable/blood/gibs/down,
+/obj/effect/decal/cleanable/vital/organic/gibs/down,
 /obj/effect/mob_spawn/corpse/human,
 /turf/open/misc/asteroid/plasma,
 /area/awaymission/undergroundoutpost45/caves)
@@ -6589,13 +6589,13 @@
 /turf/open/floor/iron,
 /area/awaymission/undergroundoutpost45/engineering)
 "BQ" = (
-/obj/effect/decal/cleanable/blood/splatter,
+/obj/effect/decal/cleanable/vital/organic/blood/splatter,
 /turf/open/misc/asteroid/plasma,
 /area/awaymission/undergroundoutpost45/caves)
 "Cd" = (
 /obj/structure/alien/weeds,
 /obj/structure/glowshroom/single,
-/obj/effect/decal/cleanable/blood/gibs/down,
+/obj/effect/decal/cleanable/vital/organic/gibs/down,
 /turf/open/misc/asteroid/plasma,
 /area/awaymission/undergroundoutpost45/caves)
 "Cj" = (
@@ -7059,7 +7059,7 @@
 /area/awaymission/undergroundoutpost45/research)
 "KN" = (
 /obj/structure/alien/weeds,
-/obj/effect/decal/cleanable/blood/splatter,
+/obj/effect/decal/cleanable/vital/organic/blood/splatter,
 /turf/open/misc/asteroid/plasma,
 /area/awaymission/undergroundoutpost45/caves)
 "KO" = (
@@ -7102,12 +7102,12 @@
 /area/awaymission/undergroundoutpost45/engineering)
 "Lb" = (
 /obj/structure/alien/weeds,
-/obj/effect/decal/cleanable/blood/splatter,
+/obj/effect/decal/cleanable/vital/organic/blood/splatter,
 /obj/effect/mob_spawn/corpse/human,
 /turf/open/misc/asteroid/plasma,
 /area/awaymission/undergroundoutpost45/caves)
 "Lk" = (
-/obj/effect/decal/cleanable/blood/splatter,
+/obj/effect/decal/cleanable/vital/organic/blood/splatter,
 /obj/effect/mob_spawn/corpse/human,
 /turf/open/misc/asteroid/plasma,
 /area/awaymission/undergroundoutpost45/caves)
@@ -7602,7 +7602,7 @@
 /area/awaymission/undergroundoutpost45/research)
 "UH" = (
 /obj/structure/alien/weeds,
-/obj/effect/decal/cleanable/blood/gibs/down,
+/obj/effect/decal/cleanable/vital/organic/gibs/down,
 /turf/open/misc/asteroid/plasma,
 /area/awaymission/undergroundoutpost45/caves)
 "UM" = (
@@ -7853,7 +7853,7 @@
 /area/awaymission/undergroundoutpost45/caves)
 "ZD" = (
 /obj/structure/alien/weeds,
-/obj/effect/decal/cleanable/blood/gibs/core,
+/obj/effect/decal/cleanable/vital/organic/gibs/core,
 /turf/open/misc/asteroid/plasma,
 /area/awaymission/undergroundoutpost45/caves)
 "ZH" = (

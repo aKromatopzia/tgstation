@@ -35,7 +35,7 @@
 	},
 /area/icemoon/underground/explored/virtual_domain)
 "ah" = (
-/obj/effect/decal/cleanable/blood,
+/obj/effect/decal/cleanable/vital/organic/blood,
 /turf/open/indestructible/necropolis{
 	initial_gas_mix = "ICEMOON_ATMOS"
 	},
@@ -176,8 +176,8 @@
 	},
 /area/icemoon/underground/explored/virtual_domain)
 "aJ" = (
-/obj/effect/decal/cleanable/blood/gibs/torso,
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/gibs/torso,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /turf/open/indestructible/necropolis{
 	initial_gas_mix = "ICEMOON_ATMOS"
 	},
@@ -197,7 +197,7 @@
 /turf/closed/indestructible/binary,
 /area/virtual_domain/fullbright)
 "aM" = (
-/obj/effect/decal/cleanable/blood/gibs/core,
+/obj/effect/decal/cleanable/vital/organic/gibs/core,
 /turf/open/indestructible/necropolis{
 	initial_gas_mix = "ICEMOON_ATMOS"
 	},
@@ -282,7 +282,7 @@
 	},
 /area/icemoon/underground/explored/virtual_domain)
 "aY" = (
-/obj/effect/decal/cleanable/blood/drip{
+/obj/effect/decal/cleanable/vital/organic/blood/drip{
 	pixel_x = 2;
 	pixel_y = 3
 	},
@@ -337,7 +337,7 @@
 	},
 /area/icemoon/underground/explored/virtual_domain)
 "sn" = (
-/obj/effect/decal/cleanable/blood/splatter,
+/obj/effect/decal/cleanable/vital/organic/blood/splatter,
 /turf/open/indestructible/necropolis{
 	initial_gas_mix = "ICEMOON_ATMOS"
 	},

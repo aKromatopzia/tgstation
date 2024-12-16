@@ -138,7 +138,7 @@
 	dir = 4
 	},
 /obj/effect/mob_spawn/corpse/human/prisoner,
-/obj/effect/decal/cleanable/blood,
+/obj/effect/decal/cleanable/vital/organic/blood,
 /obj/effect/turf_decal/tile/brown/fourcorners,
 /turf/open/floor/iron/dark/airless,
 /area/ruin/space/prison_shuttle)
@@ -148,7 +148,7 @@
 /area/ruin/space/prison_shuttle)
 "O" = (
 /obj/effect/turf_decal/tile/brown/fourcorners,
-/obj/effect/decal/cleanable/xenoblood/xsplatter,
+/obj/effect/decal/cleanable/vital/organic/xenoblood/xsplatter,
 /turf/open/floor/iron/dark/airless,
 /area/ruin/space/prison_shuttle)
 "P" = (

@@ -51,7 +51,7 @@
 /obj/effect/decal/cleanable/dirt,
 /obj/effect/decal/cleanable/dirt,
 /obj/effect/mapping_helpers/broken_floor,
-/obj/effect/decal/cleanable/blood/gibs/down,
+/obj/effect/decal/cleanable/vital/organic/gibs/down,
 /turf/open/indestructible/plating,
 /area/deathmatch)
 "cL" = (
@@ -222,7 +222,7 @@
 /area/deathmatch)
 "iq" = (
 /obj/effect/decal/cleanable/dirt,
-/obj/effect/decal/cleanable/blood/gibs/core,
+/obj/effect/decal/cleanable/vital/organic/gibs/core,
 /obj/effect/spawner/random/maintenance/two,
 /turf/open/indestructible/plating,
 /area/deathmatch)
@@ -327,7 +327,7 @@
 /turf/open/indestructible/plating,
 /area/deathmatch)
 "nV" = (
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /obj/effect/spawner/random/trash/bin,
 /obj/item/reagent_containers/cup/glass/drinkingglass,
 /turf/open/indestructible/plating,
@@ -524,7 +524,7 @@
 /area/deathmatch)
 "tm" = (
 /obj/effect/decal/cleanable/dirt,
-/obj/effect/decal/cleanable/blood/splatter,
+/obj/effect/decal/cleanable/vital/organic/blood/splatter,
 /turf/open/indestructible/plating,
 /area/deathmatch)
 "to" = (
@@ -628,8 +628,8 @@
 /area/deathmatch)
 "zB" = (
 /obj/structure/grille/broken,
-/obj/effect/decal/cleanable/blood/gibs/up,
-/obj/effect/decal/cleanable/blood/splatter,
+/obj/effect/decal/cleanable/vital/organic/gibs/up,
+/obj/effect/decal/cleanable/vital/organic/blood/splatter,
 /turf/open/indestructible/plating,
 /area/deathmatch)
 "zF" = (
@@ -667,7 +667,7 @@
 "Bg" = (
 /obj/effect/decal/cleanable/dirt,
 /obj/effect/decal/cleanable/dirt,
-/obj/effect/decal/cleanable/blood/splatter,
+/obj/effect/decal/cleanable/vital/organic/blood/splatter,
 /turf/open/indestructible/plating,
 /area/deathmatch)
 "Bm" = (
@@ -833,7 +833,7 @@
 /area/deathmatch)
 "Jv" = (
 /obj/effect/decal/cleanable/dirt,
-/obj/effect/decal/cleanable/blood/tracks,
+/obj/effect/decal/cleanable/vital/organic/blood/tracks,
 /turf/open/indestructible/plating,
 /area/deathmatch)
 "Jx" = (
@@ -1227,7 +1227,7 @@
 /area/deathmatch)
 "Yz" = (
 /obj/effect/mapping_helpers/broken_floor,
-/obj/effect/decal/cleanable/blood/tracks,
+/obj/effect/decal/cleanable/vital/organic/blood/tracks,
 /obj/structure/fluff/fake_scrubber,
 /turf/open/indestructible/plating,
 /area/deathmatch)

@@ -168,7 +168,7 @@
 /area/shuttle/abandoned/engine)
 "aA" = (
 /obj/effect/decal/cleanable/dirt,
-/obj/effect/decal/cleanable/blood,
+/obj/effect/decal/cleanable/vital/organic/blood,
 /turf/open/floor/plating,
 /area/shuttle/abandoned/engine)
 "aB" = (
@@ -259,8 +259,8 @@
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden{
 	dir = 4
 	},
-/obj/effect/decal/cleanable/oil,
-/obj/effect/decal/cleanable/blood,
+/obj/effect/decal/cleanable/vital/robotic/oil,
+/obj/effect/decal/cleanable/vital/organic/blood,
 /obj/effect/decal/remains/human,
 /turf/open/floor/plating,
 /area/shuttle/abandoned/engine)
@@ -682,7 +682,7 @@
 	pixel_y = 28;
 	req_access = null
 	},
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /obj/effect/turf_decal/tile/blue{
 	dir = 4
 	},
@@ -1111,7 +1111,7 @@
 	},
 /obj/effect/decal/cleanable/dirt,
 /obj/effect/decal/cleanable/dirt,
-/obj/effect/decal/cleanable/oil,
+/obj/effect/decal/cleanable/vital/robotic/oil,
 /turf/open/floor/iron/dark,
 /area/shuttle/abandoned/cargo)
 "dr" = (
@@ -1146,7 +1146,7 @@
 "dC" = (
 /obj/effect/decal/cleanable/dirt,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden,
-/obj/effect/decal/cleanable/blood,
+/obj/effect/decal/cleanable/vital/organic/blood,
 /turf/open/floor/iron/cafeteria,
 /area/shuttle/abandoned/bar)
 "dD" = (
@@ -1413,18 +1413,18 @@
 /area/shuttle/abandoned/bar)
 "el" = (
 /obj/effect/decal/cleanable/dirt,
-/obj/effect/decal/cleanable/oil,
+/obj/effect/decal/cleanable/vital/robotic/oil,
 /turf/open/floor/plating,
 /area/shuttle/abandoned/engine)
 "em" = (
 /obj/effect/decal/cleanable/dirt,
-/obj/effect/decal/cleanable/oil,
+/obj/effect/decal/cleanable/vital/robotic/oil,
 /turf/open/floor/iron/dark,
 /area/shuttle/abandoned/cargo)
 "eD" = (
 /obj/effect/decal/cleanable/dirt,
 /obj/effect/decal/cleanable/dirt,
-/obj/effect/decal/cleanable/blood/gibs/old,
+/obj/effect/decal/cleanable/vital/organic/gibs/old,
 /obj/effect/turf_decal/tile/neutral/fourcorners,
 /turf/open/floor/iron/dark,
 /area/shuttle/abandoned/cargo)
@@ -1442,7 +1442,7 @@
 	},
 /obj/effect/decal/cleanable/dirt,
 /obj/effect/decal/cleanable/dirt,
-/obj/effect/decal/cleanable/blood,
+/obj/effect/decal/cleanable/vital/organic/blood,
 /turf/open/floor/iron/dark,
 /area/shuttle/abandoned/cargo)
 "gs" = (
@@ -1477,7 +1477,7 @@
 	dir = 1
 	},
 /obj/effect/decal/cleanable/dirt,
-/obj/effect/decal/cleanable/blood,
+/obj/effect/decal/cleanable/vital/organic/blood,
 /turf/open/floor/iron/dark,
 /area/shuttle/abandoned/cargo)
 "hW" = (
@@ -1515,7 +1515,7 @@
 /obj/machinery/atmospherics/components/unary/vent_pump/on{
 	dir = 8
 	},
-/obj/effect/decal/cleanable/blood/gibs/old,
+/obj/effect/decal/cleanable/vital/organic/gibs/old,
 /mob/living/basic/trooper/syndicate/melee{
 	environment_smash = 0
 	},
@@ -1633,7 +1633,7 @@
 /obj/machinery/airalarm/directional/south,
 /obj/effect/mapping_helpers/airalarm/all_access,
 /obj/machinery/light/small/built/directional/south,
-/obj/effect/decal/cleanable/blood,
+/obj/effect/decal/cleanable/vital/organic/blood,
 /turf/open/floor/plating,
 /area/shuttle/abandoned/engine)
 "wn" = (
@@ -1847,7 +1847,7 @@
 	dir = 4
 	},
 /obj/effect/decal/remains/human,
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /obj/structure/cable,
 /obj/effect/turf_decal/tile/neutral/fourcorners,
 /turf/open/floor/iron/dark,
@@ -1884,7 +1884,7 @@
 	dir = 4
 	},
 /obj/effect/decal/cleanable/dirt,
-/obj/effect/decal/cleanable/blood,
+/obj/effect/decal/cleanable/vital/organic/blood,
 /obj/effect/turf_decal/tile/neutral/fourcorners,
 /turf/open/floor/iron/dark,
 /area/shuttle/abandoned/cargo)
@@ -2056,7 +2056,7 @@
 "TE" = (
 /obj/effect/decal/cleanable/dirt,
 /obj/effect/decal/cleanable/dirt,
-/obj/effect/decal/cleanable/blood,
+/obj/effect/decal/cleanable/vital/organic/blood,
 /obj/effect/decal/remains/human,
 /obj/effect/turf_decal/tile/neutral/fourcorners,
 /turf/open/floor/iron/dark,

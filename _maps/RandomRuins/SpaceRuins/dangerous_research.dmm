@@ -152,7 +152,7 @@
 "ci" = (
 /obj/effect/decal/cleanable/dirt,
 /obj/item/wallframe/camera,
-/obj/effect/decal/cleanable/robot_debris,
+/obj/effect/decal/cleanable/vital/robotic/debris,
 /obj/effect/turf_decal/tile/purple{
 	dir = 1
 	},
@@ -172,7 +172,7 @@
 /turf/open/floor/iron/white,
 /area/ruin/space/has_grav/dangerous_research/medical)
 "cp" = (
-/obj/effect/decal/cleanable/blood/bubblegum,
+/obj/effect/decal/cleanable/vital/organic/blood/bubblegum,
 /obj/machinery/airalarm/directional/west,
 /obj/effect/turf_decal/tile/neutral/half{
 	dir = 4
@@ -248,11 +248,11 @@
 /turf/open/floor/iron/white,
 /area/ruin/space/has_grav/dangerous_research/lab)
 "dy" = (
-/obj/effect/decal/cleanable/blood/footprints{
+/obj/effect/decal/cleanable/vital/organic/blood/footprints{
 	dir = 8
 	},
-/obj/effect/decal/cleanable/blood/footprints,
-/obj/effect/decal/cleanable/blood/tracks{
+/obj/effect/decal/cleanable/vital/organic/blood/footprints,
+/obj/effect/decal/cleanable/vital/organic/blood/tracks{
 	dir = 4
 	},
 /obj/effect/turf_decal/tile/purple,
@@ -334,11 +334,11 @@
 /obj/item/shard,
 /obj/effect/decal/cleanable/glass,
 /obj/effect/turf_decal/stripes/asteroid,
-/obj/effect/decal/cleanable/blood/footprints,
-/obj/effect/decal/cleanable/blood/footprints{
+/obj/effect/decal/cleanable/vital/organic/blood/footprints,
+/obj/effect/decal/cleanable/vital/organic/blood/footprints{
 	dir = 4
 	},
-/obj/effect/decal/cleanable/blood/footprints{
+/obj/effect/decal/cleanable/vital/organic/blood/footprints{
 	dir = 8
 	},
 /obj/item/organ/liver,
@@ -372,7 +372,7 @@
 	pixel_x = -8
 	},
 /obj/effect/decal/cleanable/dirt,
-/obj/effect/decal/cleanable/blood/bubblegum,
+/obj/effect/decal/cleanable/vital/organic/blood/bubblegum,
 /obj/machinery/light/very_dim/directional/west,
 /obj/effect/turf_decal/tile/neutral/half{
 	dir = 4
@@ -393,8 +393,8 @@
 /obj/effect/turf_decal/stripes/asteroid{
 	dir = 4
 	},
-/obj/effect/decal/cleanable/blood/footprints,
-/obj/effect/decal/cleanable/blood/footprints{
+/obj/effect/decal/cleanable/vital/organic/blood/footprints,
+/obj/effect/decal/cleanable/vital/organic/blood/footprints{
 	dir = 4
 	},
 /obj/structure/window/reinforced/spawner/directional/west,
@@ -436,10 +436,10 @@
 /turf/open/floor/iron/diagonal,
 /area/ruin/space/has_grav/dangerous_research)
 "fR" = (
-/obj/effect/decal/cleanable/blood/footprints{
+/obj/effect/decal/cleanable/vital/organic/blood/footprints{
 	dir = 4
 	},
-/obj/effect/decal/cleanable/blood/footprints{
+/obj/effect/decal/cleanable/vital/organic/blood/footprints{
 	dir = 8
 	},
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
@@ -537,12 +537,12 @@
 /obj/effect/turf_decal/stripes/corner{
 	dir = 4
 	},
-/obj/effect/decal/cleanable/blood/gibs/limb,
-/obj/effect/decal/cleanable/blood/footprints,
-/obj/effect/decal/cleanable/blood/footprints{
+/obj/effect/decal/cleanable/vital/organic/gibs/limb,
+/obj/effect/decal/cleanable/vital/organic/blood/footprints,
+/obj/effect/decal/cleanable/vital/organic/blood/footprints{
 	dir = 4
 	},
-/obj/effect/decal/cleanable/blood/bubblegum,
+/obj/effect/decal/cleanable/vital/organic/blood/bubblegum,
 /obj/item/organ/appendix,
 /obj/structure/window/reinforced/spawner/directional/south,
 /obj/structure/window/reinforced/spawner/directional/west,
@@ -563,25 +563,25 @@
 /turf/open/floor/iron/white,
 /area/ruin/space/has_grav/dangerous_research/lab)
 "hV" = (
-/obj/effect/decal/cleanable/blood/footprints{
+/obj/effect/decal/cleanable/vital/organic/blood/footprints{
 	dir = 4
 	},
-/obj/effect/decal/cleanable/blood/footprints{
+/obj/effect/decal/cleanable/vital/organic/blood/footprints{
 	dir = 8
 	},
 /turf/open/floor/plating/rust,
 /area/ruin/space/has_grav/dangerous_research/lab)
 "if" = (
-/obj/effect/decal/cleanable/blood/tracks{
+/obj/effect/decal/cleanable/vital/organic/blood/tracks{
 	dir = 4
 	},
-/obj/effect/decal/cleanable/blood/footprints{
+/obj/effect/decal/cleanable/vital/organic/blood/footprints{
 	dir = 8
 	},
-/obj/effect/decal/cleanable/blood/footprints{
+/obj/effect/decal/cleanable/vital/organic/blood/footprints{
 	dir = 4
 	},
-/obj/effect/decal/cleanable/blood/gibs/limb{
+/obj/effect/decal/cleanable/vital/organic/gibs/limb{
 	dir = 8
 	},
 /turf/open/floor/plating/rust,
@@ -616,15 +616,15 @@
 /turf/open/floor/iron/dark,
 /area/ruin/space/has_grav/dangerous_research/lab)
 "iE" = (
-/obj/effect/decal/cleanable/blood/footprints,
+/obj/effect/decal/cleanable/vital/organic/blood/footprints,
 /obj/effect/decal/cleanable/glass,
-/obj/effect/decal/cleanable/blood/tracks{
+/obj/effect/decal/cleanable/vital/organic/blood/tracks{
 	dir = 4
 	},
-/obj/effect/decal/cleanable/blood/footprints{
+/obj/effect/decal/cleanable/vital/organic/blood/footprints{
 	dir = 8
 	},
-/obj/effect/decal/cleanable/blood/footprints{
+/obj/effect/decal/cleanable/vital/organic/blood/footprints{
 	dir = 4
 	},
 /turf/open/floor/plating/rust,
@@ -639,7 +639,7 @@
 "iU" = (
 /obj/effect/decal/cleanable/glass,
 /obj/structure/grille/broken,
-/obj/effect/decal/cleanable/blood/tracks{
+/obj/effect/decal/cleanable/vital/organic/blood/tracks{
 	dir = 4
 	},
 /obj/item/shard,
@@ -716,7 +716,7 @@
 /turf/open/floor/iron/white,
 /area/ruin/space/has_grav/dangerous_research/medical)
 "jz" = (
-/obj/effect/decal/cleanable/blood/footprints{
+/obj/effect/decal/cleanable/vital/organic/blood/footprints{
 	dir = 4
 	},
 /obj/item/clothing/suit/toggle/labcoat/interdyne,
@@ -817,21 +817,21 @@
 /turf/open/floor/iron/white,
 /area/ruin/space/has_grav/dangerous_research/medical)
 "kV" = (
-/obj/effect/decal/cleanable/blood/tracks{
+/obj/effect/decal/cleanable/vital/organic/blood/tracks{
 	dir = 4
 	},
-/obj/effect/decal/cleanable/blood/footprints,
-/obj/effect/decal/cleanable/blood/footprints{
+/obj/effect/decal/cleanable/vital/organic/blood/footprints,
+/obj/effect/decal/cleanable/vital/organic/blood/footprints{
 	dir = 8
 	},
-/obj/effect/decal/cleanable/blood/footprints{
+/obj/effect/decal/cleanable/vital/organic/blood/footprints{
 	dir = 8
 	},
 /obj/item/reagent_containers/syringe,
 /turf/open/floor/iron/dark,
 /area/ruin/space/has_grav/dangerous_research/lab)
 "kY" = (
-/obj/effect/decal/cleanable/blood/tracks{
+/obj/effect/decal/cleanable/vital/organic/blood/tracks{
 	dir = 4
 	},
 /obj/effect/turf_decal/trimline/blue/filled/line{
@@ -853,10 +853,10 @@
 /turf/open/floor/iron/dark/diagonal,
 /area/ruin/space/has_grav/dangerous_research)
 "lX" = (
-/obj/effect/decal/cleanable/blood/tracks{
+/obj/effect/decal/cleanable/vital/organic/blood/tracks{
 	dir = 4
 	},
-/obj/effect/decal/cleanable/blood/footprints{
+/obj/effect/decal/cleanable/vital/organic/blood/footprints{
 	dir = 8
 	},
 /obj/effect/turf_decal/trimline/blue/filled/line{
@@ -867,7 +867,7 @@
 /turf/open/floor/iron/white,
 /area/ruin/space/has_grav/dangerous_research/medical)
 "lY" = (
-/obj/effect/decal/cleanable/blood/tracks{
+/obj/effect/decal/cleanable/vital/organic/blood/tracks{
 	dir = 5
 	},
 /turf/open/floor/plating/rust,
@@ -885,13 +885,13 @@
 /area/ruin/space/has_grav/dangerous_research/medical)
 "mp" = (
 /obj/effect/turf_decal/stripes/asteroid,
-/obj/effect/decal/cleanable/blood/footprints{
+/obj/effect/decal/cleanable/vital/organic/blood/footprints{
 	dir = 4
 	},
-/obj/effect/decal/cleanable/blood/footprints{
+/obj/effect/decal/cleanable/vital/organic/blood/footprints{
 	dir = 8
 	},
-/obj/effect/decal/cleanable/blood/bubblegum,
+/obj/effect/decal/cleanable/vital/organic/blood/bubblegum,
 /obj/structure/window/reinforced/spawner/directional/north,
 /obj/effect/mapping_helpers/burnt_floor,
 /turf/open/floor/iron/dark,
@@ -904,25 +904,25 @@
 "mG" = (
 /obj/structure/table,
 /obj/item/organ/heart,
-/obj/effect/decal/cleanable/blood/bubblegum,
+/obj/effect/decal/cleanable/vital/organic/blood/bubblegum,
 /obj/effect/spawner/random/medical/surgery_tool_advanced,
 /obj/effect/turf_decal/tile/blue/fourcorners,
 /turf/open/floor/iron/white,
 /area/ruin/space/has_grav/dangerous_research/medical)
 "mK" = (
 /obj/effect/decal/cleanable/dirt,
-/obj/effect/decal/cleanable/blood/gibs/core,
-/obj/effect/decal/cleanable/blood/bubblegum,
+/obj/effect/decal/cleanable/vital/organic/gibs/core,
+/obj/effect/decal/cleanable/vital/organic/blood/bubblegum,
 /obj/effect/turf_decal/tile/neutral/opposingcorners,
 /turf/open/floor/iron/dark,
 /area/ruin/space/has_grav/dangerous_research/lab)
 "mV" = (
-/obj/effect/decal/cleanable/blood/footprints{
+/obj/effect/decal/cleanable/vital/organic/blood/footprints{
 	dir = 1
 	},
-/obj/effect/decal/cleanable/blood/footprints,
-/obj/effect/decal/cleanable/blood/gibs/core,
-/obj/effect/decal/cleanable/blood/bubblegum,
+/obj/effect/decal/cleanable/vital/organic/blood/footprints,
+/obj/effect/decal/cleanable/vital/organic/gibs/core,
+/obj/effect/decal/cleanable/vital/organic/blood/bubblegum,
 /obj/effect/turf_decal/tile/blue/fourcorners,
 /turf/open/floor/iron/white,
 /area/ruin/space/has_grav/dangerous_research/medical)
@@ -955,7 +955,7 @@
 /area/ruin/space/has_grav/dangerous_research/dorms)
 "nx" = (
 /obj/effect/mapping_helpers/broken_floor,
-/obj/effect/decal/cleanable/blood/bubblegum,
+/obj/effect/decal/cleanable/vital/organic/blood/bubblegum,
 /obj/structure/cable,
 /obj/effect/turf_decal/tile/neutral/opposingcorners,
 /turf/open/floor/iron/dark,
@@ -1035,9 +1035,9 @@
 /obj/effect/turf_decal/stripes/asteroid{
 	dir = 1
 	},
-/obj/effect/decal/cleanable/blood/gibs/torso,
-/obj/effect/decal/cleanable/blood/footprints,
-/obj/effect/decal/cleanable/blood/footprints{
+/obj/effect/decal/cleanable/vital/organic/gibs/torso,
+/obj/effect/decal/cleanable/vital/organic/blood/footprints,
+/obj/effect/decal/cleanable/vital/organic/blood/footprints{
 	dir = 1
 	},
 /obj/structure/window/reinforced/spawner/directional/south,
@@ -1055,7 +1055,7 @@
 /obj/effect/turf_decal/stripes/corner{
 	dir = 1
 	},
-/obj/effect/decal/cleanable/blood/footprints,
+/obj/effect/decal/cleanable/vital/organic/blood/footprints,
 /obj/item/organ/lungs,
 /obj/structure/window/reinforced/spawner/directional/south,
 /obj/structure/window/reinforced/spawner/directional/east,
@@ -1135,7 +1135,7 @@
 /area/ruin/space/has_grav/dangerous_research/dorms)
 "pF" = (
 /obj/effect/spawner/structure/window/reinforced,
-/obj/effect/decal/cleanable/blood/splatter/over_window,
+/obj/effect/decal/cleanable/vital/organic/blood/splatter/over_window,
 /turf/open/floor/plating,
 /area/ruin/space/has_grav/dangerous_research/medical)
 "pH" = (
@@ -1144,14 +1144,14 @@
 	},
 /area/space)
 "pO" = (
-/obj/effect/decal/cleanable/blood/footprints{
+/obj/effect/decal/cleanable/vital/organic/blood/footprints{
 	dir = 8
 	},
-/obj/effect/decal/cleanable/blood/footprints{
+/obj/effect/decal/cleanable/vital/organic/blood/footprints{
 	dir = 4
 	},
 /obj/structure/trap/eldritch/tentacle,
-/obj/effect/decal/cleanable/blood/gibs/core,
+/obj/effect/decal/cleanable/vital/organic/gibs/core,
 /obj/effect/turf_decal/tile/neutral/opposingcorners,
 /turf/open/floor/iron/dark,
 /area/ruin/space/has_grav/dangerous_research/lab)
@@ -1162,7 +1162,7 @@
 /turf/open/floor/iron/white,
 /area/ruin/space/has_grav/dangerous_research/medical)
 "pQ" = (
-/obj/effect/decal/cleanable/blood/bubblegum,
+/obj/effect/decal/cleanable/vital/organic/blood/bubblegum,
 /turf/open/floor/iron/white,
 /area/ruin/space/has_grav/dangerous_research/medical)
 "pR" = (
@@ -1188,11 +1188,11 @@
 /turf/open/floor/iron/dark/diagonal,
 /area/ruin/space/has_grav/dangerous_research/dorms)
 "qg" = (
-/obj/effect/decal/cleanable/blood/gibs/core,
-/obj/effect/decal/cleanable/blood/footprints{
+/obj/effect/decal/cleanable/vital/organic/gibs/core,
+/obj/effect/decal/cleanable/vital/organic/blood/footprints{
 	dir = 8
 	},
-/obj/effect/decal/cleanable/blood/gibs,
+/obj/effect/decal/cleanable/vital/organic/gibs,
 /obj/item/organ/brain,
 /obj/item/skillchip/research_director,
 /obj/effect/turf_decal/tile/neutral/half{
@@ -1220,15 +1220,15 @@
 /turf/open/floor/iron/dark,
 /area/ruin/space/has_grav/dangerous_research/lab)
 "qq" = (
-/obj/effect/decal/cleanable/blood/gibs/torso,
-/obj/effect/decal/cleanable/blood/footprints,
-/obj/effect/decal/cleanable/blood/tracks{
+/obj/effect/decal/cleanable/vital/organic/gibs/torso,
+/obj/effect/decal/cleanable/vital/organic/blood/footprints,
+/obj/effect/decal/cleanable/vital/organic/blood/tracks{
 	dir = 4
 	},
-/obj/effect/decal/cleanable/blood/footprints{
+/obj/effect/decal/cleanable/vital/organic/blood/footprints{
 	dir = 8
 	},
-/obj/effect/decal/cleanable/blood/footprints{
+/obj/effect/decal/cleanable/vital/organic/blood/footprints{
 	dir = 4
 	},
 /turf/open/floor/iron/dark,
@@ -1258,7 +1258,7 @@
 /area/ruin/space/has_grav/dangerous_research/dorms)
 "qE" = (
 /obj/structure/window/reinforced/spawner/directional/north,
-/obj/effect/decal/cleanable/blood/gibs/core,
+/obj/effect/decal/cleanable/vital/organic/gibs/core,
 /turf/open/floor/iron/dark,
 /area/ruin/space/has_grav/dangerous_research/lab)
 "qM" = (
@@ -1270,13 +1270,13 @@
 /turf/open/floor/iron/white,
 /area/ruin/space/has_grav/dangerous_research/lab)
 "rb" = (
-/obj/effect/decal/cleanable/blood/footprints{
+/obj/effect/decal/cleanable/vital/organic/blood/footprints{
 	dir = 4
 	},
-/obj/effect/decal/cleanable/blood/footprints{
+/obj/effect/decal/cleanable/vital/organic/blood/footprints{
 	dir = 1
 	},
-/obj/effect/decal/cleanable/blood/footprints{
+/obj/effect/decal/cleanable/vital/organic/blood/footprints{
 	dir = 8
 	},
 /obj/item/organ/heart,
@@ -1383,9 +1383,9 @@
 /turf/open/floor/iron/dark,
 /area/ruin/space/has_grav/dangerous_research/lab)
 "sa" = (
-/obj/effect/decal/cleanable/blood/gibs/core,
-/obj/effect/decal/cleanable/blood/footprints,
-/obj/effect/decal/cleanable/blood/footprints{
+/obj/effect/decal/cleanable/vital/organic/gibs/core,
+/obj/effect/decal/cleanable/vital/organic/blood/footprints,
+/obj/effect/decal/cleanable/vital/organic/blood/footprints{
 	dir = 4
 	},
 /turf/open/floor/iron/dark,
@@ -1394,7 +1394,7 @@
 /obj/effect/turf_decal/stripes/asteroid{
 	dir = 8
 	},
-/obj/effect/decal/cleanable/blood/footprints{
+/obj/effect/decal/cleanable/vital/organic/blood/footprints{
 	dir = 8
 	},
 /obj/effect/turf_decal/trimline/blue/filled/corner{
@@ -1404,7 +1404,7 @@
 /turf/open/floor/iron/white,
 /area/ruin/space/has_grav/dangerous_research/medical)
 "sj" = (
-/obj/effect/decal/cleanable/blood/footprints,
+/obj/effect/decal/cleanable/vital/organic/blood/footprints,
 /turf/open/floor/iron/dark,
 /area/ruin/space/has_grav/dangerous_research/lab)
 "sv" = (
@@ -1466,7 +1466,7 @@
 /turf/open/floor/iron/white,
 /area/ruin/space/has_grav/dangerous_research/medical)
 "tq" = (
-/obj/effect/decal/cleanable/blood/splatter,
+/obj/effect/decal/cleanable/vital/organic/blood/splatter,
 /obj/effect/decal/cleanable/dirt,
 /obj/machinery/light/small/directional/north,
 /obj/item/toy/plush/snakeplushie{
@@ -1516,9 +1516,9 @@
 /area/ruin/space/has_grav/dangerous_research)
 "tF" = (
 /obj/effect/turf_decal/stripes/corner,
-/obj/effect/decal/cleanable/blood/gibs,
-/obj/effect/decal/cleanable/blood/footprints,
-/obj/effect/decal/cleanable/blood/footprints{
+/obj/effect/decal/cleanable/vital/organic/gibs,
+/obj/effect/decal/cleanable/vital/organic/blood/footprints,
+/obj/effect/decal/cleanable/vital/organic/blood/footprints{
 	dir = 4
 	},
 /obj/structure/window/reinforced/spawner/directional/west,
@@ -1533,7 +1533,7 @@
 /turf/open/floor/iron/white,
 /area/ruin/space/has_grav/dangerous_research/lab)
 "tK" = (
-/obj/effect/decal/cleanable/blood/tracks{
+/obj/effect/decal/cleanable/vital/organic/blood/tracks{
 	dir = 4
 	},
 /obj/item/shard,
@@ -1542,7 +1542,7 @@
 /obj/effect/turf_decal/stripes/asteroid{
 	dir = 8
 	},
-/obj/effect/decal/cleanable/blood/footprints,
+/obj/effect/decal/cleanable/vital/organic/blood/footprints,
 /obj/structure/trap/eldritch/mad,
 /turf/open/floor/iron/dark,
 /area/ruin/space/has_grav/dangerous_research/lab)
@@ -1655,8 +1655,8 @@
 /turf/open/floor/iron/white,
 /area/ruin/space/has_grav/dangerous_research)
 "vg" = (
-/obj/effect/decal/cleanable/blood/tracks,
-/obj/effect/decal/cleanable/blood/footprints{
+/obj/effect/decal/cleanable/vital/organic/blood/tracks,
+/obj/effect/decal/cleanable/vital/organic/blood/footprints{
 	dir = 1
 	},
 /obj/effect/turf_decal/trimline/purple/line{
@@ -1741,7 +1741,7 @@
 /turf/open/floor/iron/white,
 /area/ruin/space/has_grav/dangerous_research)
 "wv" = (
-/obj/effect/decal/cleanable/blood/footprints{
+/obj/effect/decal/cleanable/vital/organic/blood/footprints{
 	dir = 8
 	},
 /obj/effect/turf_decal/trimline/blue/filled/line{
@@ -1752,7 +1752,7 @@
 /turf/open/floor/iron/white,
 /area/ruin/space/has_grav/dangerous_research/medical)
 "wC" = (
-/obj/effect/decal/cleanable/blood/bubblegum,
+/obj/effect/decal/cleanable/vital/organic/blood/bubblegum,
 /obj/effect/mapping_helpers/burnt_floor,
 /obj/structure/cable,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
@@ -1800,7 +1800,7 @@
 /obj/effect/turf_decal/stripes/asteroid{
 	dir = 8
 	},
-/obj/effect/decal/cleanable/blood/tracks{
+/obj/effect/decal/cleanable/vital/organic/blood/tracks{
 	dir = 10
 	},
 /obj/effect/mapping_helpers/broken_floor,
@@ -1874,7 +1874,7 @@
 /turf/open/floor/iron/white,
 /area/ruin/space/has_grav/dangerous_research)
 "yO" = (
-/obj/effect/decal/cleanable/blood/bubblegum,
+/obj/effect/decal/cleanable/vital/organic/blood/bubblegum,
 /turf/open/floor/plating/rust,
 /area/ruin/space/has_grav/dangerous_research/lab)
 "yQ" = (
@@ -1892,7 +1892,7 @@
 	dir = 1
 	},
 /obj/effect/turf_decal/stripes/asteroid,
-/obj/effect/decal/cleanable/blood/tracks,
+/obj/effect/decal/cleanable/vital/organic/blood/tracks,
 /obj/structure/barricade/wooden,
 /obj/structure/cable,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
@@ -1999,23 +1999,23 @@
 /turf/template_noop,
 /area/template_noop)
 "zZ" = (
-/obj/effect/decal/cleanable/blood/tracks{
+/obj/effect/decal/cleanable/vital/organic/blood/tracks{
 	dir = 4
 	},
-/obj/effect/decal/cleanable/blood/footprints{
+/obj/effect/decal/cleanable/vital/organic/blood/footprints{
 	dir = 8
 	},
-/obj/effect/decal/cleanable/blood/footprints{
+/obj/effect/decal/cleanable/vital/organic/blood/footprints{
 	dir = 4
 	},
 /obj/effect/turf_decal/tile/neutral/opposingcorners,
 /turf/open/floor/iron/dark,
 /area/ruin/space/has_grav/dangerous_research/lab)
 "Ad" = (
-/obj/effect/decal/cleanable/blood/footprints{
+/obj/effect/decal/cleanable/vital/organic/blood/footprints{
 	dir = 1
 	},
-/obj/effect/decal/cleanable/blood/footprints,
+/obj/effect/decal/cleanable/vital/organic/blood/footprints,
 /mob/living/basic/heretic_summon/raw_prophet/ruins,
 /obj/effect/turf_decal/tile/blue/fourcorners,
 /turf/open/floor/iron/white,
@@ -2029,7 +2029,7 @@
 /area/ruin/space/has_grav/dangerous_research/maint)
 "An" = (
 /obj/effect/decal/cleanable/dirt,
-/obj/effect/decal/cleanable/blood/drip,
+/obj/effect/decal/cleanable/vital/organic/blood/drip,
 /obj/effect/turf_decal/tile/neutral/opposingcorners,
 /turf/open/floor/iron/dark,
 /area/ruin/space/has_grav/dangerous_research/lab)
@@ -2063,10 +2063,10 @@
 /turf/open/floor/iron/white,
 /area/ruin/space/has_grav/dangerous_research/lab)
 "AK" = (
-/obj/effect/decal/cleanable/blood/tracks{
+/obj/effect/decal/cleanable/vital/organic/blood/tracks{
 	dir = 4
 	},
-/obj/effect/decal/cleanable/blood/footprints{
+/obj/effect/decal/cleanable/vital/organic/blood/footprints{
 	dir = 8
 	},
 /turf/open/floor/plating/rust,
@@ -2110,11 +2110,11 @@
 /turf/open/floor/iron/white,
 /area/ruin/space/has_grav/dangerous_research/medical)
 "Bc" = (
-/obj/effect/decal/cleanable/blood/footprints,
-/obj/effect/decal/cleanable/blood/footprints{
+/obj/effect/decal/cleanable/vital/organic/blood/footprints,
+/obj/effect/decal/cleanable/vital/organic/blood/footprints{
 	dir = 4
 	},
-/obj/effect/decal/cleanable/blood/bubblegum,
+/obj/effect/decal/cleanable/vital/organic/blood/bubblegum,
 /turf/open/floor/iron/dark,
 /area/ruin/space/has_grav/dangerous_research/lab)
 "Bg" = (
@@ -2151,8 +2151,8 @@
 /area/ruin/space/has_grav/dangerous_research/maint)
 "BE" = (
 /obj/effect/turf_decal/stripes/asteroid,
-/obj/effect/decal/cleanable/blood/gibs/up,
-/obj/effect/decal/cleanable/blood/footprints,
+/obj/effect/decal/cleanable/vital/organic/gibs/up,
+/obj/effect/decal/cleanable/vital/organic/blood/footprints,
 /obj/structure/window/reinforced/spawner/directional/north,
 /turf/open/floor/iron/dark,
 /area/ruin/space/has_grav/dangerous_research/lab)
@@ -2289,10 +2289,10 @@
 	dir = 8
 	},
 /obj/effect/decal/cleanable/dirt,
-/obj/effect/decal/cleanable/blood/footprints{
+/obj/effect/decal/cleanable/vital/organic/blood/footprints{
 	dir = 1
 	},
-/obj/effect/decal/cleanable/blood/footprints{
+/obj/effect/decal/cleanable/vital/organic/blood/footprints{
 	dir = 8
 	},
 /obj/effect/decal/cleanable/dirt,
@@ -2301,8 +2301,8 @@
 /turf/open/floor/iron/white,
 /area/ruin/space/has_grav/dangerous_research/lab)
 "CU" = (
-/obj/effect/decal/cleanable/blood/tracks,
-/obj/effect/decal/cleanable/blood/footprints{
+/obj/effect/decal/cleanable/vital/organic/blood/tracks,
+/obj/effect/decal/cleanable/vital/organic/blood/footprints{
 	dir = 1
 	},
 /obj/effect/turf_decal/tile/purple{
@@ -2348,8 +2348,8 @@
 /obj/effect/turf_decal/stripes/asteroid{
 	dir = 1
 	},
-/obj/effect/decal/cleanable/blood/footprints,
-/obj/effect/decal/cleanable/blood/footprints{
+/obj/effect/decal/cleanable/vital/organic/blood/footprints,
+/obj/effect/decal/cleanable/vital/organic/blood/footprints{
 	dir = 4
 	},
 /obj/structure/window/reinforced/spawner/directional/south,
@@ -2404,8 +2404,8 @@
 "ET" = (
 /obj/structure/sink/directional/south,
 /obj/item/clothing/shoes/sneakers/white,
-/obj/effect/decal/cleanable/blood/bubblegum,
-/obj/effect/decal/cleanable/blood/gibs/core,
+/obj/effect/decal/cleanable/vital/organic/blood/bubblegum,
+/obj/effect/decal/cleanable/vital/organic/gibs/core,
 /obj/effect/mapping_helpers/atom_injector/element_injector{
 	element_type = /datum/element/decal/blood;
 	target_type = /obj/item/clothing
@@ -2492,8 +2492,8 @@
 /turf/open/floor/iron/showroomfloor,
 /area/ruin/space/has_grav/dangerous_research/dorms)
 "FZ" = (
-/obj/effect/decal/cleanable/blood/footprints,
-/obj/effect/decal/cleanable/blood/bubblegum,
+/obj/effect/decal/cleanable/vital/organic/blood/footprints,
+/obj/effect/decal/cleanable/vital/organic/blood/bubblegum,
 /turf/open/floor/iron/dark,
 /area/ruin/space/has_grav/dangerous_research/lab)
 "Gb" = (
@@ -2577,7 +2577,7 @@
 /area/ruin/space/has_grav/dangerous_research)
 "Gz" = (
 /obj/structure/barricade/wooden/crude,
-/obj/effect/decal/cleanable/blood/tracks,
+/obj/effect/decal/cleanable/vital/organic/blood/tracks,
 /obj/structure/cable,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /turf/open/floor/iron/white,
@@ -2594,8 +2594,8 @@
 "Hu" = (
 /obj/effect/decal/cleanable/glass,
 /obj/structure/grille/broken,
-/obj/effect/decal/cleanable/blood/tracks,
-/obj/effect/decal/cleanable/blood/footprints{
+/obj/effect/decal/cleanable/vital/organic/blood/tracks,
+/obj/effect/decal/cleanable/vital/organic/blood/footprints{
 	dir = 1
 	},
 /turf/open/floor/plating,
@@ -2666,17 +2666,17 @@
 	},
 /obj/item/wallframe/camera,
 /obj/item/stack/cable_coil,
-/obj/effect/decal/cleanable/robot_debris/up,
+/obj/effect/decal/cleanable/vital/robotic/debris/up,
 /turf/open/floor/iron/white,
 /area/ruin/space/has_grav/dangerous_research/medical)
 "IZ" = (
 /obj/effect/turf_decal/stripes/asteroid{
 	dir = 4
 	},
-/obj/effect/decal/cleanable/blood/footprints{
+/obj/effect/decal/cleanable/vital/organic/blood/footprints{
 	dir = 4
 	},
-/obj/effect/decal/cleanable/blood/footprints{
+/obj/effect/decal/cleanable/vital/organic/blood/footprints{
 	dir = 1
 	},
 /obj/structure/window/reinforced/spawner/directional/west,
@@ -2686,8 +2686,8 @@
 /obj/effect/turf_decal/stripes/asteroid{
 	dir = 8
 	},
-/obj/effect/decal/cleanable/blood/footprints,
-/obj/effect/decal/cleanable/blood/footprints,
+/obj/effect/decal/cleanable/vital/organic/blood/footprints,
+/obj/effect/decal/cleanable/vital/organic/blood/footprints,
 /obj/structure/window/reinforced/spawner/directional/east,
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/iron/dark,
@@ -2731,8 +2731,8 @@
 /obj/effect/turf_decal/stripes/asteroid{
 	dir = 8
 	},
-/obj/effect/decal/cleanable/blood/footprints,
-/obj/effect/decal/cleanable/blood/bubblegum,
+/obj/effect/decal/cleanable/vital/organic/blood/footprints,
+/obj/effect/decal/cleanable/vital/organic/blood/bubblegum,
 /obj/structure/window/reinforced/spawner/directional/east,
 /turf/open/floor/iron/dark,
 /area/ruin/space/has_grav/dangerous_research/lab)
@@ -2745,7 +2745,7 @@
 /turf/open/floor/iron/white,
 /area/ruin/space/has_grav/dangerous_research)
 "Ki" = (
-/obj/effect/decal/cleanable/blood/footprints{
+/obj/effect/decal/cleanable/vital/organic/blood/footprints{
 	dir = 8
 	},
 /obj/effect/turf_decal/trimline/blue/filled/line{
@@ -2999,15 +2999,15 @@
 /turf/open/misc/sandy_dirt,
 /area/ruin/space/has_grav/dangerous_research)
 "NK" = (
-/obj/effect/decal/cleanable/blood/footprints,
-/obj/effect/decal/cleanable/blood/footprints{
+/obj/effect/decal/cleanable/vital/organic/blood/footprints,
+/obj/effect/decal/cleanable/vital/organic/blood/footprints{
 	dir = 8
 	},
 /turf/open/floor/iron/dark,
 /area/ruin/space/has_grav/dangerous_research/lab)
 "NN" = (
-/obj/effect/decal/cleanable/blood/gibs/core,
-/obj/effect/decal/cleanable/blood/bubblegum,
+/obj/effect/decal/cleanable/vital/organic/gibs/core,
+/obj/effect/decal/cleanable/vital/organic/blood/bubblegum,
 /obj/effect/turf_decal/tile/neutral/half{
 	dir = 4
 	},
@@ -3126,14 +3126,14 @@
 /turf/open/floor/iron/white,
 /area/ruin/space/has_grav/dangerous_research/lab)
 "Pk" = (
-/obj/effect/decal/cleanable/blood/footprints{
+/obj/effect/decal/cleanable/vital/organic/blood/footprints{
 	dir = 4
 	},
-/obj/effect/decal/cleanable/blood/footprints,
-/obj/effect/decal/cleanable/blood/footprints{
+/obj/effect/decal/cleanable/vital/organic/blood/footprints,
+/obj/effect/decal/cleanable/vital/organic/blood/footprints{
 	dir = 8
 	},
-/obj/effect/decal/cleanable/blood/bubblegum,
+/obj/effect/decal/cleanable/vital/organic/blood/bubblegum,
 /obj/effect/heretic_rune/big,
 /obj/effect/decal/cleanable/dirt,
 /obj/effect/mapping_helpers/broken_floor,
@@ -3187,8 +3187,8 @@
 /area/ruin/space/has_grav/dangerous_research)
 "PM" = (
 /obj/item/stack/rods/ten,
-/obj/effect/decal/cleanable/blood/bubblegum,
-/obj/effect/decal/cleanable/blood/gibs/down,
+/obj/effect/decal/cleanable/vital/organic/blood/bubblegum,
+/obj/effect/decal/cleanable/vital/organic/gibs/down,
 /obj/effect/turf_decal/tile/blue/fourcorners,
 /turf/open/floor/iron/white,
 /area/ruin/space/has_grav/dangerous_research/medical)
@@ -3196,7 +3196,7 @@
 /obj/effect/turf_decal/trimline/purple/line{
 	dir = 1
 	},
-/obj/effect/decal/cleanable/blood/splatter,
+/obj/effect/decal/cleanable/vital/organic/blood/splatter,
 /turf/open/floor/iron/white,
 /area/ruin/space/has_grav/dangerous_research/medical)
 "PP" = (
@@ -3210,7 +3210,7 @@
 /area/ruin/space/has_grav/dangerous_research/dorms)
 "PZ" = (
 /obj/effect/decal/cleanable/dirt,
-/obj/effect/decal/cleanable/oil,
+/obj/effect/decal/cleanable/vital/robotic/oil,
 /obj/effect/turf_decal/tile/yellow/half/contrasted{
 	dir = 4
 	},
@@ -3244,7 +3244,7 @@
 "Qt" = (
 /obj/effect/spawner/structure/window/reinforced,
 /obj/effect/mapping_helpers/damaged_window,
-/obj/effect/decal/cleanable/blood/splatter/over_window,
+/obj/effect/decal/cleanable/vital/organic/blood/splatter/over_window,
 /turf/open/floor/plating,
 /area/ruin/space/has_grav/dangerous_research/lab)
 "Qv" = (
@@ -3332,9 +3332,9 @@
 /obj/effect/turf_decal/stripes/asteroid{
 	dir = 1
 	},
-/obj/effect/decal/cleanable/blood/gibs,
-/obj/effect/decal/cleanable/blood/footprints,
-/obj/effect/decal/cleanable/blood/footprints{
+/obj/effect/decal/cleanable/vital/organic/gibs,
+/obj/effect/decal/cleanable/vital/organic/blood/footprints,
+/obj/effect/decal/cleanable/vital/organic/blood/footprints{
 	dir = 4
 	},
 /obj/structure/window/reinforced/spawner/directional/south,
@@ -3421,8 +3421,8 @@
 /turf/open/floor/iron/white,
 /area/ruin/space/has_grav/dangerous_research)
 "Si" = (
-/obj/effect/decal/cleanable/blood/tracks,
-/obj/effect/decal/cleanable/blood/footprints{
+/obj/effect/decal/cleanable/vital/organic/blood/tracks,
+/obj/effect/decal/cleanable/vital/organic/blood/footprints{
 	dir = 1
 	},
 /obj/effect/decal/cleanable/dirt,
@@ -3450,7 +3450,7 @@
 /obj/effect/turf_decal/trimline/blue/filled/line{
 	dir = 4
 	},
-/obj/effect/decal/cleanable/blood/splatter,
+/obj/effect/decal/cleanable/vital/organic/blood/splatter,
 /turf/open/floor/iron/white,
 /area/ruin/space/has_grav/dangerous_research/medical)
 "SF" = (
@@ -3469,7 +3469,7 @@
 /turf/open/floor/iron/white,
 /area/ruin/space/has_grav/dangerous_research/medical)
 "SK" = (
-/obj/effect/decal/cleanable/blood/bubblegum,
+/obj/effect/decal/cleanable/vital/organic/blood/bubblegum,
 /obj/item/shard,
 /obj/effect/turf_decal/tile/purple{
 	dir = 1
@@ -3631,8 +3631,8 @@
 /area/ruin/space/has_grav/dangerous_research/maint)
 "Vo" = (
 /obj/machinery/iv_drip,
-/obj/effect/decal/cleanable/blood/bubblegum,
-/obj/effect/decal/cleanable/blood/gibs/core,
+/obj/effect/decal/cleanable/vital/organic/blood/bubblegum,
+/obj/effect/decal/cleanable/vital/organic/gibs/core,
 /obj/effect/turf_decal/tile/blue/fourcorners,
 /turf/open/floor/iron/white,
 /area/ruin/space/has_grav/dangerous_research/medical)
@@ -3644,8 +3644,8 @@
 /obj/effect/turf_decal/stripes/corner{
 	dir = 8
 	},
-/obj/effect/decal/cleanable/blood/gibs,
-/obj/effect/decal/cleanable/blood/footprints,
+/obj/effect/decal/cleanable/vital/organic/gibs,
+/obj/effect/decal/cleanable/vital/organic/blood/footprints,
 /obj/structure/window/reinforced/spawner/directional/north,
 /obj/structure/window/reinforced/spawner/directional/east,
 /turf/open/floor/iron/dark,
@@ -3683,7 +3683,7 @@
 /turf/open/floor/iron/white,
 /area/ruin/space/has_grav/dangerous_research/medical)
 "Wn" = (
-/obj/effect/decal/cleanable/blood/footprints{
+/obj/effect/decal/cleanable/vital/organic/blood/footprints{
 	dir = 8
 	},
 /obj/structure/cable,
@@ -3694,7 +3694,7 @@
 /obj/structure/table/optable,
 /obj/item/organ/eyes,
 /obj/item/organ/liver,
-/obj/effect/decal/cleanable/blood/bubblegum,
+/obj/effect/decal/cleanable/vital/organic/blood/bubblegum,
 /obj/effect/turf_decal/tile/blue/fourcorners,
 /turf/open/floor/iron/white,
 /area/ruin/space/has_grav/dangerous_research/medical)
@@ -3766,24 +3766,24 @@
 /obj/machinery/power/apc/auto_name/directional/north,
 /obj/effect/mapping_helpers/apc/away_general_access,
 /obj/effect/decal/cleanable/dirt,
-/obj/effect/decal/cleanable/oil/slippery,
+/obj/effect/decal/cleanable/vital/robotic/oil/slippery,
 /obj/effect/turf_decal/tile/yellow/anticorner/contrasted{
 	dir = 4
 	},
 /turf/open/floor/iron,
 /area/ruin/space/has_grav/dangerous_research/maint)
 "XO" = (
-/obj/effect/decal/cleanable/blood/footprints{
+/obj/effect/decal/cleanable/vital/organic/blood/footprints{
 	dir = 8
 	},
 /obj/effect/turf_decal/trimline/blue/filled/line{
 	dir = 1
 	},
 /obj/effect/turf_decal/trimline/purple/line,
-/obj/effect/decal/cleanable/blood/footprints{
+/obj/effect/decal/cleanable/vital/organic/blood/footprints{
 	dir = 1
 	},
-/obj/effect/decal/cleanable/blood/footprints,
+/obj/effect/decal/cleanable/vital/organic/blood/footprints,
 /turf/open/floor/iron/white,
 /area/ruin/space/has_grav/dangerous_research/medical)
 "XX" = (

@@ -7,7 +7,7 @@
 	dir = 4
 	},
 /obj/effect/spawner/random/trash/bacteria,
-/obj/effect/decal/cleanable/blood/tracks,
+/obj/effect/decal/cleanable/vital/organic/blood/tracks,
 /obj/effect/decal/cleanable/dirt/dust,
 /turf/open/floor/iron/dark,
 /area/template_noop)
@@ -55,7 +55,7 @@
 /obj/effect/turf_decal/trimline/neutral/filled/line{
 	dir = 4
 	},
-/obj/effect/decal/cleanable/blood/tracks,
+/obj/effect/decal/cleanable/vital/organic/blood/tracks,
 /turf/open/floor/iron/dark,
 /area/template_noop)
 "i" = (
@@ -81,7 +81,7 @@
 /obj/effect/turf_decal/trimline/neutral/filled/line{
 	dir = 4
 	},
-/obj/effect/decal/cleanable/blood/tracks,
+/obj/effect/decal/cleanable/vital/organic/blood/tracks,
 /turf/open/floor/iron/dark,
 /area/template_noop)
 "l" = (
@@ -182,7 +182,7 @@
 	},
 /area/template_noop)
 "x" = (
-/obj/effect/decal/cleanable/blood,
+/obj/effect/decal/cleanable/vital/organic/blood,
 /turf/open/floor/iron/dark/textured_half,
 /area/template_noop)
 "y" = (
@@ -274,7 +274,7 @@
 /obj/effect/mapping_helpers/broken_floor,
 /obj/effect/turf_decal/siding/thinplating/dark,
 /obj/effect/mob_spawn/corpse/human/assistant,
-/obj/effect/decal/cleanable/blood,
+/obj/effect/decal/cleanable/vital/organic/blood,
 /turf/open/floor/iron/dark,
 /area/template_noop)
 "I" = (
@@ -323,7 +323,7 @@
 /area/template_noop)
 "O" = (
 /obj/effect/mapping_helpers/broken_floor,
-/obj/effect/decal/cleanable/blood/tracks,
+/obj/effect/decal/cleanable/vital/organic/blood/tracks,
 /turf/open/floor/plating,
 /area/template_noop)
 "P" = (
@@ -382,7 +382,7 @@
 	},
 /area/template_noop)
 "X" = (
-/obj/effect/decal/cleanable/blood,
+/obj/effect/decal/cleanable/vital/organic/blood,
 /obj/effect/decal/cleanable/dirt/dust,
 /turf/open/floor/iron/dark/textured_half,
 /area/template_noop)

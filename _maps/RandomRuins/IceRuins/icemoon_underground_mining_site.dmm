@@ -17,11 +17,11 @@
 /area/icemoon/underground/explored)
 "fh" = (
 /obj/structure/frost_miner_prism,
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /turf/open/misc/asteroid/snow/icemoon,
 /area/icemoon/underground/explored)
 "gk" = (
-/obj/effect/decal/cleanable/blood/splatter,
+/obj/effect/decal/cleanable/vital/organic/blood/splatter,
 /turf/open/misc/asteroid/snow/icemoon,
 /area/icemoon/underground/explored)
 "hp" = (
@@ -51,7 +51,7 @@
 /turf/open/misc/ice/icemoon,
 /area/icemoon/underground/explored)
 "jI" = (
-/obj/effect/decal/cleanable/blood/gibs/core,
+/obj/effect/decal/cleanable/vital/organic/gibs/core,
 /turf/open/misc/asteroid/snow/icemoon,
 /area/icemoon/underground/explored)
 "kz" = (
@@ -59,7 +59,7 @@
 /obj/structure/fluff/paper/stack{
 	dir = 4
 	},
-/obj/effect/decal/cleanable/blood/drip,
+/obj/effect/decal/cleanable/vital/organic/blood/drip,
 /turf/open/misc/asteroid/snow/icemoon,
 /area/icemoon/underground/explored)
 "lh" = (
@@ -70,7 +70,7 @@
 /turf/template_noop,
 /area/template_noop)
 "mL" = (
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /turf/open/floor/plating/snowed/smoothed/icemoon,
 /area/icemoon/underground/explored)
 "mQ" = (
@@ -85,7 +85,7 @@
 /turf/open/misc/asteroid/snow/icemoon,
 /area/icemoon/underground/explored)
 "nX" = (
-/obj/effect/decal/cleanable/blood/tracks{
+/obj/effect/decal/cleanable/vital/organic/blood/tracks{
 	dir = 1
 	},
 /turf/open/misc/ice/icemoon,
@@ -192,14 +192,14 @@
 /turf/open/misc/asteroid/snow/icemoon,
 /area/icemoon/underground/explored)
 "zk" = (
-/obj/effect/decal/cleanable/blood/drip,
+/obj/effect/decal/cleanable/vital/organic/blood/drip,
 /turf/open/misc/ice/icemoon,
 /area/icemoon/underground/explored)
 "zC" = (
 /turf/open/floor/plating/snowed/smoothed/icemoon,
 /area/icemoon/underground/explored)
 "zY" = (
-/obj/effect/decal/cleanable/blood/drip,
+/obj/effect/decal/cleanable/vital/organic/blood/drip,
 /obj/effect/turf_decal/weather/snow/corner{
 	dir = 1
 	},
@@ -226,7 +226,7 @@
 /turf/open/misc/ice/icemoon,
 /area/icemoon/underground/explored)
 "Ej" = (
-/obj/effect/decal/cleanable/blood/tracks{
+/obj/effect/decal/cleanable/vital/organic/blood/tracks{
 	dir = 5
 	},
 /turf/open/misc/ice/icemoon,
@@ -290,13 +290,13 @@
 /turf/open/misc/asteroid/snow/icemoon,
 /area/icemoon/underground/explored)
 "KQ" = (
-/obj/effect/decal/cleanable/blood/tracks{
+/obj/effect/decal/cleanable/vital/organic/blood/tracks{
 	dir = 10
 	},
 /turf/open/misc/ice/icemoon,
 /area/icemoon/underground/explored)
 "KT" = (
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /turf/open/misc/asteroid/snow/icemoon,
 /area/icemoon/underground/explored)
 "Lz" = (
@@ -310,7 +310,7 @@
 /turf/open/misc/ice/icemoon,
 /area/icemoon/underground/explored)
 "Nq" = (
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /turf/open/misc/ice/icemoon,
 /area/icemoon/underground/explored)
 "Og" = (
@@ -323,12 +323,12 @@
 /obj/structure/fluff/paper/stack{
 	dir = 1
 	},
-/obj/effect/decal/cleanable/blood/drip,
+/obj/effect/decal/cleanable/vital/organic/blood/drip,
 /turf/open/floor/plating/snowed/smoothed/icemoon,
 /area/icemoon/underground/explored)
 "SY" = (
 /obj/structure/flora/grass/brown/style_random,
-/obj/effect/decal/cleanable/blood/drip,
+/obj/effect/decal/cleanable/vital/organic/blood/drip,
 /obj/item/knife/combat/survival{
 	pixel_y = 13;
 	pixel_x = -5
@@ -339,11 +339,11 @@
 /obj/structure/frost_miner_prism,
 /mob/living/simple_animal/hostile/megafauna/demonic_frost_miner,
 /obj/effect/decal/cleanable/grand_remains,
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /turf/open/misc/asteroid/snow/icemoon,
 /area/icemoon/underground/explored)
 "UB" = (
-/obj/effect/decal/cleanable/blood/tracks{
+/obj/effect/decal/cleanable/vital/organic/blood/tracks{
 	dir = 9
 	},
 /obj/effect/turf_decal/weather/snow/corner{
@@ -383,7 +383,7 @@
 /turf/open/misc/ice/icemoon,
 /area/icemoon/underground/explored)
 "Yp" = (
-/obj/effect/decal/cleanable/blood/footprints,
+/obj/effect/decal/cleanable/vital/organic/blood/footprints,
 /turf/open/misc/asteroid/snow/icemoon,
 /area/icemoon/underground/explored)
 "YR" = (

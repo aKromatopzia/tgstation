@@ -246,7 +246,7 @@
 /turf/open/floor/carpet/red,
 /area/shuttle/escape)
 "ly" = (
-/obj/effect/decal/cleanable/blood/tracks{
+/obj/effect/decal/cleanable/vital/organic/blood/tracks{
 	dir = 4
 	},
 /turf/open/floor/mineral/plastitanium/red,
@@ -369,7 +369,7 @@
 /area/shuttle/escape)
 "oz" = (
 /obj/structure/kitchenspike,
-/obj/effect/decal/cleanable/blood,
+/obj/effect/decal/cleanable/vital/organic/blood,
 /turf/open/floor/fakebasalt,
 /area/shuttle/escape/brig)
 "oB" = (
@@ -883,7 +883,7 @@
 /turf/open/floor/fakebasalt,
 /area/shuttle/escape/brig)
 "Ow" = (
-/obj/effect/decal/cleanable/blood/gibs/old,
+/obj/effect/decal/cleanable/vital/organic/gibs/old,
 /turf/open/floor/mineral/plastitanium/red,
 /area/shuttle/escape/brig)
 "OA" = (
@@ -1043,7 +1043,7 @@
 /area/shuttle/escape)
 "YS" = (
 /obj/machinery/door/window/brigdoor/security/holding/left/directional/west,
-/obj/effect/decal/cleanable/blood/tracks{
+/obj/effect/decal/cleanable/vital/organic/blood/tracks{
 	dir = 4
 	},
 /turf/open/floor/fakebasalt,

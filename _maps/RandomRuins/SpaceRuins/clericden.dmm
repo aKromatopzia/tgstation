@@ -37,7 +37,7 @@
 /turf/open/floor/iron/dark/airless,
 /area/ruin/space)
 "j" = (
-/obj/effect/decal/cleanable/blood/drip,
+/obj/effect/decal/cleanable/vital/organic/blood/drip,
 /turf/open/floor/plating/airless,
 /area/ruin/space)
 "k" = (
@@ -86,13 +86,13 @@
 /turf/open/floor/carpet/airless,
 /area/ruin/space)
 "v" = (
-/obj/effect/decal/cleanable/blood/splatter,
-/obj/effect/decal/cleanable/blood/footprints,
+/obj/effect/decal/cleanable/vital/organic/blood/splatter,
+/obj/effect/decal/cleanable/vital/organic/blood/footprints,
 /obj/effect/decal/cleanable/shreds,
 /turf/open/floor/carpet/airless,
 /area/ruin/space)
 "w" = (
-/obj/effect/decal/cleanable/blood/drip,
+/obj/effect/decal/cleanable/vital/organic/blood/drip,
 /turf/open/floor/carpet/royalblack/airless,
 /area/ruin/space)
 "x" = (
@@ -100,7 +100,7 @@
 /turf/open/floor/iron/dark/airless,
 /area/ruin/space)
 "y" = (
-/obj/effect/decal/cleanable/blood/tracks,
+/obj/effect/decal/cleanable/vital/organic/blood/tracks,
 /turf/open/floor/carpet/airless,
 /area/ruin/space)
 "z" = (
@@ -112,8 +112,8 @@
 /turf/open/floor/carpet/royalblack/airless,
 /area/ruin/space)
 "B" = (
-/obj/effect/decal/cleanable/blood/footprints,
-/obj/effect/decal/cleanable/blood/tracks,
+/obj/effect/decal/cleanable/vital/organic/blood/footprints,
+/obj/effect/decal/cleanable/vital/organic/blood/tracks,
 /turf/open/floor/carpet/airless,
 /area/ruin/space)
 "C" = (
@@ -128,7 +128,7 @@
 /turf/open/floor/carpet/airless,
 /area/ruin/space)
 "E" = (
-/obj/effect/decal/cleanable/blood/tracks,
+/obj/effect/decal/cleanable/vital/organic/blood/tracks,
 /mob/living/basic/construct/proteon/hostile,
 /turf/open/floor/carpet/airless,
 /area/ruin/space)
@@ -137,7 +137,7 @@
 /turf/open/floor/plating/airless,
 /area/ruin/space)
 "G" = (
-/obj/effect/decal/cleanable/blood/tracks,
+/obj/effect/decal/cleanable/vital/organic/blood/tracks,
 /obj/structure/trap/cult,
 /turf/open/floor/carpet/airless,
 /area/ruin/space)
@@ -146,7 +146,7 @@
 /turf/open/floor/plating/airless,
 /area/ruin/space)
 "I" = (
-/obj/effect/decal/cleanable/blood/drip,
+/obj/effect/decal/cleanable/vital/organic/blood/drip,
 /turf/open/floor/carpet/airless,
 /area/ruin/space)
 "J" = (
@@ -164,7 +164,7 @@
 /turf/open/floor/plating/airless,
 /area/ruin/space)
 "M" = (
-/obj/effect/decal/cleanable/blood/tracks,
+/obj/effect/decal/cleanable/vital/organic/blood/tracks,
 /obj/machinery/door/airlock/wood,
 /turf/open/floor/plating/airless,
 /area/ruin/space)
@@ -179,7 +179,7 @@
 /area/ruin/space)
 "Q" = (
 /obj/item/book/bible,
-/obj/effect/decal/cleanable/blood,
+/obj/effect/decal/cleanable/vital/organic/blood,
 /turf/open/misc/asteroid/airless,
 /area/ruin/space)
 "R" = (
@@ -188,7 +188,7 @@
 /turf/open/floor/iron/dark/airless,
 /area/ruin/space)
 "S" = (
-/obj/effect/decal/cleanable/blood/drip,
+/obj/effect/decal/cleanable/vital/organic/blood/drip,
 /turf/open/misc/asteroid/airless,
 /area/ruin/space)
 "U" = (

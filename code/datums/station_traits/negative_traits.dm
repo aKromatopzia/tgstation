@@ -262,7 +262,7 @@
 	punpun.forceMove(pick(area_open_turfs))
 
 	for(var/i in 1 to rand(10, 40))
-		new /obj/effect/decal/cleanable/blood(pick(area_open_turfs))
+		new /obj/effect/decal/cleanable/vital/organic/blood(pick(area_open_turfs))
 
 	var/list/blood_path = list()
 	for(var/i in 1 to 10) // Only 10 attempts
@@ -283,17 +283,17 @@
 		last_location = location
 
 		if(prob(80))
-			new /obj/effect/decal/cleanable/blood(location)
+			new /obj/effect/decal/cleanable/vital/organic/blood(location)
 
 		if(prob(50))
 			var/static/blood_types = list(
-				/obj/effect/decal/cleanable/blood/splatter,
-				/obj/effect/decal/cleanable/blood/gibs,
+				/obj/effect/decal/cleanable/vital/organic/blood/splatter,
+				/obj/effect/decal/cleanable/vital/organic/gibs,
 			)
 			var/blood_type = pick(blood_types)
 			new blood_type(get_turf(pick(orange(location, 2))))
 
-	new /obj/effect/decal/cleanable/blood/gibs/torso(last_location)
+	new /obj/effect/decal/cleanable/vital/organic/gibs/torso(last_location)
 
 // Abstract station trait used for traits that modify a random event in some way (their weight or max occurrences).
 /datum/station_trait/random_event_weight_modifier

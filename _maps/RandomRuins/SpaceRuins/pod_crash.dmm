@@ -18,7 +18,7 @@
 /turf/open/floor/mineral/titanium/tiled/blue/airless,
 /area/ruin/space)
 "h" = (
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /obj/effect/mapping_helpers/broken_floor,
 /turf/open/floor/mineral/titanium/tiled/blue/airless,
 /area/ruin/space)
@@ -39,7 +39,7 @@
 /obj/effect/mob_spawn/corpse/human/cargo_tech,
 /obj/effect/decal/cleanable/glass/titanium,
 /obj/item/modular_computer/pda/cargo,
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /obj/effect/decal/cleanable/dirt,
 /obj/effect/mapping_helpers/broken_floor,
 /obj/effect/mapping_helpers/broken_floor,

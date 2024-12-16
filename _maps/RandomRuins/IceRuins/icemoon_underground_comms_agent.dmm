@@ -324,7 +324,7 @@
 /turf/open/floor/wood/tile,
 /area/ruin/comms_agent)
 "sc" = (
-/obj/effect/decal/cleanable/blood/splatter/over_window{
+/obj/effect/decal/cleanable/vital/organic/blood/splatter/over_window{
 	pixel_y = 32
 	},
 /obj/structure/sign/poster/official/nanotrasen_logo/directional/north,

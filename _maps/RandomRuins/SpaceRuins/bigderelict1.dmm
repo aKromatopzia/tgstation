@@ -242,7 +242,7 @@
 /turf/open/floor/mineral/titanium/blue,
 /area/ruin/space/has_grav/derelictoutpost/dockedship)
 "bf" = (
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /turf/open/floor/mineral/titanium/blue,
 /area/ruin/space/has_grav/derelictoutpost/dockedship)
 "bg" = (
@@ -276,7 +276,7 @@
 /area/ruin/space/has_grav/derelictoutpost)
 "bm" = (
 /obj/structure/alien/weeds/creature,
-/obj/effect/decal/cleanable/blood/old{
+/obj/effect/decal/cleanable/vital/organic/blood/old{
 	dir = 9;
 	icon_state = "trails_1";
 	name = "dried blood trail"
@@ -285,7 +285,7 @@
 /area/ruin/space/has_grav/derelictoutpost)
 "bn" = (
 /obj/structure/alien/weeds/creature,
-/obj/effect/decal/cleanable/blood/old{
+/obj/effect/decal/cleanable/vital/organic/blood/old{
 	dir = 4;
 	icon_state = "trails_1";
 	name = "dried blood trail"
@@ -296,7 +296,7 @@
 /obj/structure/alien/weeds/creature,
 /obj/structure/glowshroom/single,
 /obj/structure/sign/warning/vacuum/directional/north,
-/obj/effect/decal/cleanable/blood/old{
+/obj/effect/decal/cleanable/vital/organic/blood/old{
 	dir = 4;
 	icon_state = "trails_1";
 	name = "dried blood trail"
@@ -305,7 +305,7 @@
 /area/ruin/space/has_grav/derelictoutpost)
 "bp" = (
 /obj/structure/alien/weeds/creature,
-/obj/effect/decal/cleanable/blood/old{
+/obj/effect/decal/cleanable/vital/organic/blood/old{
 	dir = 5;
 	icon_state = "trails_1";
 	name = "dried blood trail"
@@ -332,12 +332,12 @@
 /area/ruin/space/has_grav/derelictoutpost/dockedship)
 "bv" = (
 /obj/item/chair,
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /obj/structure/alien/weeds/creature,
 /turf/open/floor/mineral/titanium/blue,
 /area/ruin/space/has_grav/derelictoutpost/dockedship)
 "bw" = (
-/obj/effect/decal/cleanable/blood/old{
+/obj/effect/decal/cleanable/vital/organic/blood/old{
 	dir = 5;
 	icon_state = "trails_1";
 	name = "dried blood trail"
@@ -357,7 +357,7 @@
 /turf/open/floor/iron,
 /area/ruin/space/has_grav/derelictoutpost)
 "bE" = (
-/obj/effect/decal/cleanable/blood/old{
+/obj/effect/decal/cleanable/vital/organic/blood/old{
 	icon_state = "trails_1";
 	name = "dried blood trail"
 	},
@@ -369,8 +369,8 @@
 /area/ruin/space/has_grav/derelictoutpost)
 "bG" = (
 /obj/structure/alien/weeds/creature,
-/obj/effect/decal/cleanable/blood/old,
-/obj/effect/decal/cleanable/blood/old{
+/obj/effect/decal/cleanable/vital/organic/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old{
 	dir = 1;
 	icon_state = "trails_1";
 	name = "dried blood trail"
@@ -413,7 +413,7 @@
 "bN" = (
 /obj/structure/table_frame,
 /obj/item/stack/sheet/iron,
-/obj/effect/decal/cleanable/blood/old{
+/obj/effect/decal/cleanable/vital/organic/blood/old{
 	icon_state = "trails_1";
 	name = "dried blood trail"
 	},
@@ -431,7 +431,7 @@
 /turf/open/floor/iron,
 /area/ruin/space/has_grav/derelictoutpost/cargobay)
 "bU" = (
-/obj/effect/decal/cleanable/blood/old{
+/obj/effect/decal/cleanable/vital/organic/blood/old{
 	dir = 4;
 	icon_state = "trails_1";
 	name = "dried blood trail"
@@ -442,7 +442,7 @@
 	},
 /area/ruin/space/has_grav/derelictoutpost)
 "bV" = (
-/obj/effect/decal/cleanable/blood/old{
+/obj/effect/decal/cleanable/vital/organic/blood/old{
 	dir = 4;
 	icon_state = "trails_1";
 	name = "dried blood trail"
@@ -450,7 +450,7 @@
 /turf/open/floor/iron,
 /area/ruin/space/has_grav/derelictoutpost)
 "bW" = (
-/obj/effect/decal/cleanable/blood/old{
+/obj/effect/decal/cleanable/vital/organic/blood/old{
 	dir = 6;
 	icon_state = "trails_1";
 	name = "dried blood trail"
@@ -459,7 +459,7 @@
 /area/ruin/space/has_grav/derelictoutpost)
 "bX" = (
 /obj/structure/alien/weeds/creature,
-/obj/effect/decal/cleanable/blood/old{
+/obj/effect/decal/cleanable/vital/organic/blood/old{
 	dir = 1;
 	icon_state = "trails_1";
 	name = "dried blood trail"
@@ -512,7 +512,7 @@
 "cl" = (
 /obj/structure/alien/weeds/creature,
 /obj/structure/glowshroom/single,
-/obj/effect/decal/cleanable/blood/old{
+/obj/effect/decal/cleanable/vital/organic/blood/old{
 	dir = 1;
 	icon_state = "trails_1";
 	name = "dried blood trail"
@@ -545,7 +545,7 @@
 /turf/open/floor/iron,
 /area/ruin/space/has_grav/derelictoutpost/powerstorage)
 "cu" = (
-/obj/effect/decal/cleanable/blood/old{
+/obj/effect/decal/cleanable/vital/organic/blood/old{
 	icon_state = "trails_1";
 	name = "dried blood trail"
 	},
@@ -578,7 +578,7 @@
 /area/ruin/space/has_grav/derelictoutpost)
 "cD" = (
 /obj/structure/alien/weeds/creature,
-/obj/effect/decal/cleanable/blood/old{
+/obj/effect/decal/cleanable/vital/organic/blood/old{
 	dir = 10;
 	icon_state = "trails_1";
 	name = "dried blood trail"
@@ -613,7 +613,7 @@
 /turf/open/floor/iron,
 /area/ruin/space/has_grav/derelictoutpost/cargobay)
 "cK" = (
-/obj/effect/decal/cleanable/blood/old{
+/obj/effect/decal/cleanable/vital/organic/blood/old{
 	dir = 10;
 	icon_state = "trails_1";
 	name = "dried blood trail"
@@ -623,7 +623,7 @@
 /turf/open/floor/iron,
 /area/ruin/space/has_grav/derelictoutpost/cargobay)
 "cL" = (
-/obj/effect/decal/cleanable/blood/old{
+/obj/effect/decal/cleanable/vital/organic/blood/old{
 	dir = 5;
 	icon_state = "trails_1";
 	name = "dried blood trail"
@@ -664,7 +664,7 @@
 /turf/open/floor/iron,
 /area/ruin/space/has_grav/derelictoutpost/cargobay)
 "cV" = (
-/obj/effect/decal/cleanable/xenoblood/xsplatter,
+/obj/effect/decal/cleanable/vital/organic/xenoblood/xsplatter,
 /turf/open/floor/iron,
 /area/ruin/space/has_grav/derelictoutpost/cargobay)
 "cW" = (
@@ -672,7 +672,7 @@
 /turf/open/floor/iron,
 /area/ruin/space/has_grav/derelictoutpost/cargobay)
 "cX" = (
-/obj/effect/decal/cleanable/blood/old{
+/obj/effect/decal/cleanable/vital/organic/blood/old{
 	dir = 1;
 	icon_state = "trails_1";
 	name = "dried blood trail"
@@ -700,7 +700,7 @@
 /turf/open/floor/iron,
 /area/ruin/space/has_grav/derelictoutpost/cargobay)
 "dd" = (
-/obj/effect/decal/cleanable/blood/old{
+/obj/effect/decal/cleanable/vital/organic/blood/old{
 	dir = 10;
 	icon_state = "trails_1";
 	name = "dried blood trail"
@@ -708,7 +708,7 @@
 /turf/open/floor/iron,
 /area/ruin/space/has_grav/derelictoutpost/cargobay)
 "de" = (
-/obj/effect/decal/cleanable/blood/old{
+/obj/effect/decal/cleanable/vital/organic/blood/old{
 	dir = 4;
 	icon_state = "trails_1";
 	name = "dried blood trail"
@@ -716,7 +716,7 @@
 /turf/open/floor/iron,
 /area/ruin/space/has_grav/derelictoutpost/cargobay)
 "dg" = (
-/obj/effect/decal/cleanable/blood/old{
+/obj/effect/decal/cleanable/vital/organic/blood/old{
 	dir = 4;
 	icon_state = "trails_1";
 	name = "dried blood trail"
@@ -726,7 +726,7 @@
 /turf/open/floor/iron,
 /area/ruin/space/has_grav/derelictoutpost/cargobay)
 "dh" = (
-/obj/effect/decal/cleanable/blood/old{
+/obj/effect/decal/cleanable/vital/organic/blood/old{
 	dir = 4;
 	icon_state = "trails_1";
 	name = "dried blood trail"
@@ -742,7 +742,7 @@
 /turf/open/floor/plating,
 /area/ruin/space/has_grav/derelictoutpost/cargobay)
 "di" = (
-/obj/effect/decal/cleanable/blood/old{
+/obj/effect/decal/cleanable/vital/organic/blood/old{
 	dir = 5;
 	icon_state = "trails_1";
 	name = "dried blood trail"
@@ -754,7 +754,7 @@
 /area/ruin/space/has_grav/derelictoutpost)
 "dk" = (
 /obj/structure/alien/weeds/creature,
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /turf/open/floor/iron,
 /area/ruin/space/has_grav/derelictoutpost)
 "dl" = (
@@ -764,17 +764,17 @@
 /area/ruin/space/has_grav/derelictoutpost)
 "dm" = (
 /obj/structure/alien/weeds/creature,
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /obj/structure/alien/gelpod,
 /turf/open/floor/iron,
 /area/ruin/space/has_grav/derelictoutpost)
 "dq" = (
-/obj/effect/decal/cleanable/xenoblood/xsplatter,
+/obj/effect/decal/cleanable/vital/organic/xenoblood/xsplatter,
 /obj/structure/alien/weeds/creature,
 /turf/open/floor/iron,
 /area/ruin/space/has_grav/derelictoutpost/cargobay)
 "dr" = (
-/obj/effect/decal/cleanable/blood/old{
+/obj/effect/decal/cleanable/vital/organic/blood/old{
 	icon_state = "trails_1";
 	name = "dried blood trail"
 	},
@@ -786,7 +786,7 @@
 /turf/closed/mineral/random,
 /area/ruin/space/has_grav/derelictoutpost)
 "dB" = (
-/obj/effect/decal/cleanable/blood/old{
+/obj/effect/decal/cleanable/vital/organic/blood/old{
 	dir = 6;
 	icon_state = "trails_1";
 	name = "dried blood trail"
@@ -797,7 +797,7 @@
 /area/ruin/space/has_grav/derelictoutpost)
 "dC" = (
 /obj/structure/alien/weeds/creature,
-/obj/effect/decal/cleanable/blood/old{
+/obj/effect/decal/cleanable/vital/organic/blood/old{
 	icon_state = "trails_1";
 	name = "dried blood trail"
 	},
@@ -813,7 +813,7 @@
 	spawnwithmagazine = 0
 	},
 /obj/structure/alien/weeds/creature,
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /turf/open/floor/iron,
 /area/ruin/space/has_grav/derelictoutpost/cargobay)
 "dL" = (
@@ -821,7 +821,7 @@
 /area/ruin/space/has_grav/derelictoutpost/cargostorage)
 "dM" = (
 /obj/structure/alien/weeds/creature,
-/obj/effect/decal/cleanable/blood/old{
+/obj/effect/decal/cleanable/vital/organic/blood/old{
 	dir = 9;
 	icon_state = "trails_1";
 	name = "dried blood trail"
@@ -830,7 +830,7 @@
 /turf/open/floor/plating,
 /area/ruin/space/has_grav/derelictoutpost)
 "dN" = (
-/obj/effect/decal/cleanable/blood/old{
+/obj/effect/decal/cleanable/vital/organic/blood/old{
 	dir = 8;
 	icon_state = "trails_1";
 	name = "dried blood trail"
@@ -844,7 +844,7 @@
 "dP" = (
 /obj/structure/alien/weeds/creature,
 /obj/structure/glowshroom/single,
-/obj/effect/decal/cleanable/blood/old{
+/obj/effect/decal/cleanable/vital/organic/blood/old{
 	dir = 8;
 	icon_state = "trails_1";
 	name = "dried blood trail"
@@ -853,7 +853,7 @@
 /area/ruin/space/has_grav/derelictoutpost)
 "dQ" = (
 /obj/structure/alien/weeds/creature,
-/obj/effect/decal/cleanable/blood/old{
+/obj/effect/decal/cleanable/vital/organic/blood/old{
 	dir = 6;
 	icon_state = "trails_1";
 	name = "dried blood trail"
@@ -862,7 +862,7 @@
 /area/ruin/space/has_grav/derelictoutpost)
 "dS" = (
 /obj/structure/alien/weeds/creature,
-/obj/effect/decal/cleanable/blood/old{
+/obj/effect/decal/cleanable/vital/organic/blood/old{
 	icon_state = "trails_1";
 	name = "dried blood trail"
 	},
@@ -909,7 +909,7 @@
 /turf/open/floor/iron,
 /area/ruin/space/has_grav/derelictoutpost/cargostorage)
 "ee" = (
-/obj/effect/decal/cleanable/blood/old{
+/obj/effect/decal/cleanable/vital/organic/blood/old{
 	icon_state = "trails_1";
 	name = "dried blood trail"
 	},
@@ -917,7 +917,7 @@
 /turf/open/floor/plating,
 /area/ruin/space/has_grav/derelictoutpost)
 "eh" = (
-/obj/effect/decal/cleanable/blood/old{
+/obj/effect/decal/cleanable/vital/organic/blood/old{
 	icon_state = "trails_1";
 	name = "dried blood trail"
 	},
@@ -975,7 +975,7 @@
 /turf/open/floor/iron,
 /area/ruin/space/has_grav/derelictoutpost/cargostorage)
 "ew" = (
-/obj/effect/decal/cleanable/blood/old{
+/obj/effect/decal/cleanable/vital/organic/blood/old{
 	dir = 8;
 	icon_state = "trails_1";
 	name = "dried blood trail"
@@ -984,7 +984,7 @@
 /turf/open/floor/iron,
 /area/ruin/space/has_grav/derelictoutpost/cargostorage)
 "ex" = (
-/obj/effect/decal/cleanable/blood/old{
+/obj/effect/decal/cleanable/vital/organic/blood/old{
 	dir = 8;
 	icon_state = "trails_1";
 	name = "dried blood trail"
@@ -992,7 +992,7 @@
 /turf/open/floor/iron,
 /area/ruin/space/has_grav/derelictoutpost/cargostorage)
 "ey" = (
-/obj/effect/decal/cleanable/blood/old{
+/obj/effect/decal/cleanable/vital/organic/blood/old{
 	dir = 8;
 	icon_state = "trails_1";
 	name = "dried blood trail"
@@ -1001,7 +1001,7 @@
 /turf/open/floor/iron,
 /area/ruin/space/has_grav/derelictoutpost/cargostorage)
 "ez" = (
-/obj/effect/decal/cleanable/blood/old{
+/obj/effect/decal/cleanable/vital/organic/blood/old{
 	dir = 5;
 	icon_state = "trails_1";
 	name = "dried blood trail"
@@ -1042,7 +1042,7 @@
 /turf/open/floor/iron,
 /area/ruin/space/has_grav/derelictoutpost/cargostorage)
 "eI" = (
-/obj/effect/decal/cleanable/blood/old{
+/obj/effect/decal/cleanable/vital/organic/blood/old{
 	dir = 10;
 	icon_state = "trails_1";
 	name = "dried blood trail"
@@ -1056,7 +1056,7 @@
 	desc = "A pried-open airlock. Scratch marks mark the sidings of the door.";
 	name = "pried-open airlock"
 	},
-/obj/effect/decal/cleanable/blood/old{
+/obj/effect/decal/cleanable/vital/organic/blood/old{
 	dir = 4;
 	icon_state = "trails_1";
 	name = "dried blood trail"
@@ -1065,7 +1065,7 @@
 /turf/open/floor/plating,
 /area/ruin/space/has_grav/derelictoutpost/cargostorage)
 "eK" = (
-/obj/effect/decal/cleanable/blood/old{
+/obj/effect/decal/cleanable/vital/organic/blood/old{
 	dir = 6;
 	icon_state = "trails_1";
 	name = "dried blood trail"
@@ -1078,7 +1078,7 @@
 /turf/open/floor/plating,
 /area/ruin/space/has_grav/derelictoutpost/cargobay)
 "fB" = (
-/obj/effect/decal/cleanable/blood/old{
+/obj/effect/decal/cleanable/vital/organic/blood/old{
 	dir = 10;
 	icon_state = "trails_1";
 	name = "dried blood trail"
@@ -1119,7 +1119,7 @@
 /turf/open/floor/plating,
 /area/ruin/space/has_grav/derelictoutpost/cargobay)
 "lm" = (
-/obj/effect/decal/cleanable/blood/old{
+/obj/effect/decal/cleanable/vital/organic/blood/old{
 	dir = 4;
 	icon_state = "trails_1";
 	name = "dried blood trail"
@@ -1128,7 +1128,7 @@
 /area/ruin/space/has_grav/derelictoutpost)
 "lM" = (
 /obj/structure/alien/weeds/creature,
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /turf/open/misc/asteroid,
 /area/ruin/space/has_grav/derelictoutpost)
 "nc" = (
@@ -1144,7 +1144,7 @@
 /area/ruin/space/has_grav/derelictoutpost/cargobay)
 "oU" = (
 /obj/structure/alien/weeds/creature,
-/obj/effect/decal/cleanable/blood/old{
+/obj/effect/decal/cleanable/vital/organic/blood/old{
 	dir = 8;
 	icon_state = "trails_1";
 	name = "dried blood trail"
@@ -1152,7 +1152,7 @@
 /turf/open/misc/asteroid,
 /area/ruin/space/has_grav/derelictoutpost)
 "pB" = (
-/obj/effect/decal/cleanable/blood/old{
+/obj/effect/decal/cleanable/vital/organic/blood/old{
 	dir = 4;
 	icon_state = "trails_1";
 	name = "dried blood trail"
@@ -1176,7 +1176,7 @@
 /turf/open/misc/asteroid/airless,
 /area/ruin/space)
 "tE" = (
-/obj/effect/decal/cleanable/blood/old{
+/obj/effect/decal/cleanable/vital/organic/blood/old{
 	dir = 4;
 	icon_state = "trails_1";
 	name = "dried blood trail"
@@ -1209,7 +1209,7 @@
 /turf/open/floor/iron/dark,
 /area/ruin/space/has_grav/derelictoutpost)
 "we" = (
-/obj/effect/decal/cleanable/blood/old{
+/obj/effect/decal/cleanable/vital/organic/blood/old{
 	dir = 5;
 	icon_state = "trails_1";
 	name = "dried blood trail"
@@ -1238,7 +1238,7 @@
 /turf/open/floor/iron/dark,
 /area/ruin/space/has_grav/derelictoutpost)
 "yl" = (
-/obj/effect/decal/cleanable/blood/old{
+/obj/effect/decal/cleanable/vital/organic/blood/old{
 	dir = 8;
 	icon_state = "trails_1";
 	name = "dried blood trail"
@@ -1258,7 +1258,7 @@
 /area/ruin/space/has_grav/derelictoutpost/cargostorage)
 "zf" = (
 /obj/structure/alien/weeds/creature,
-/obj/effect/decal/cleanable/blood/old{
+/obj/effect/decal/cleanable/vital/organic/blood/old{
 	dir = 5;
 	icon_state = "trails_1";
 	name = "dried blood trail"
@@ -1304,7 +1304,7 @@
 	name = "spent bullet casing"
 	},
 /obj/structure/alien/weeds/creature,
-/obj/effect/decal/cleanable/blood/old{
+/obj/effect/decal/cleanable/vital/organic/blood/old{
 	dir = 5;
 	icon_state = "trails_1";
 	name = "dried blood trail"
@@ -1320,8 +1320,8 @@
 /area/ruin/space/has_grav/derelictoutpost/cargostorage)
 "Fe" = (
 /obj/structure/alien/weeds/creature,
-/obj/effect/decal/cleanable/blood/old,
-/obj/effect/decal/cleanable/blood/old{
+/obj/effect/decal/cleanable/vital/organic/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old{
 	dir = 1;
 	icon_state = "trails_1";
 	name = "dried blood trail"
@@ -1342,7 +1342,7 @@
 /turf/open/floor/iron/dark,
 /area/ruin/space/has_grav/derelictoutpost)
 "Hc" = (
-/obj/effect/decal/cleanable/blood/old{
+/obj/effect/decal/cleanable/vital/organic/blood/old{
 	dir = 4;
 	icon_state = "trails_1";
 	name = "dried blood trail"
@@ -1353,7 +1353,7 @@
 /area/ruin/space/has_grav/derelictoutpost)
 "Hw" = (
 /obj/structure/alien/weeds/creature,
-/obj/effect/decal/cleanable/blood/old{
+/obj/effect/decal/cleanable/vital/organic/blood/old{
 	dir = 4;
 	icon_state = "trails_1";
 	name = "dried blood trail"
@@ -1389,7 +1389,7 @@
 /turf/open/floor/plating,
 /area/ruin/space/has_grav/derelictoutpost)
 "MT" = (
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /obj/structure/alien/weeds/creature,
 /obj/machinery/button/door/directional/south{
 	id = "bigderelictcheckpoint";
@@ -1399,7 +1399,7 @@
 /turf/open/floor/iron/dark,
 /area/ruin/space/has_grav/derelictoutpost)
 "Pr" = (
-/obj/effect/decal/cleanable/blood/old{
+/obj/effect/decal/cleanable/vital/organic/blood/old{
 	dir = 6;
 	icon_state = "trails_1";
 	name = "dried blood trail"
@@ -1432,7 +1432,7 @@
 /area/ruin/space/has_grav/derelictoutpost)
 "RS" = (
 /obj/structure/alien/weeds/creature,
-/obj/effect/decal/cleanable/blood/old{
+/obj/effect/decal/cleanable/vital/organic/blood/old{
 	dir = 6;
 	icon_state = "trails_1";
 	name = "dried blood trail"
@@ -1454,7 +1454,7 @@
 /turf/open/floor/mineral/titanium/yellow,
 /area/ruin/space/has_grav/derelictoutpost/dockedship)
 "VZ" = (
-/obj/effect/decal/cleanable/blood/old{
+/obj/effect/decal/cleanable/vital/organic/blood/old{
 	dir = 4;
 	icon_state = "trails_1";
 	name = "dried blood trail"
@@ -1467,7 +1467,7 @@
 	outfit_override = list("head"=null)
 	},
 /obj/item/paper/crumpled/ruins/bigderelict1/coward,
-/obj/effect/decal/cleanable/blood/old{
+/obj/effect/decal/cleanable/vital/organic/blood/old{
 	name = "dried blood splatter";
 	pixel_x = -29
 	},
@@ -1480,7 +1480,7 @@
 /area/ruin/space/has_grav/derelictoutpost/dockedship)
 "ZD" = (
 /obj/structure/alien/weeds/creature,
-/obj/effect/decal/cleanable/blood/old{
+/obj/effect/decal/cleanable/vital/organic/blood/old{
 	dir = 1;
 	icon_state = "trails_1";
 	name = "dried blood trail"
@@ -1488,7 +1488,7 @@
 /turf/open/misc/asteroid,
 /area/ruin/space/has_grav/derelictoutpost)
 "ZN" = (
-/obj/effect/decal/cleanable/blood/old{
+/obj/effect/decal/cleanable/vital/organic/blood/old{
 	dir = 9;
 	icon_state = "trails_1";
 	name = "dried blood trail"

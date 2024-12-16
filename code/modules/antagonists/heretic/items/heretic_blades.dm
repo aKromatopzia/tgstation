@@ -105,7 +105,7 @@
 
 	AddComponent(
 		/datum/component/blood_walk,\
-		blood_type = /obj/effect/decal/cleanable/blood,\
+		blood_type = /obj/effect/decal/cleanable/vital/organic/blood,\
 		blood_spawn_chance = 66.6,\
 		max_blood = INFINITY,\
 	)

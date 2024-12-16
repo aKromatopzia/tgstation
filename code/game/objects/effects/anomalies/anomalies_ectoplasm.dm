@@ -65,7 +65,7 @@
 		for(var/impacted_thing in range(effect_range, src))
 			if(isfloorturf(impacted_thing))
 				if(prob(5))
-					new /obj/effect/decal/cleanable/blood(get_turf(impacted_thing))
+					new /obj/effect/decal/cleanable/vital/organic/blood(get_turf(impacted_thing))
 				else if(prob(10))
 					new /obj/effect/decal/cleanable/greenglow/ecto(get_turf(impacted_thing))
 				else if(prob(10))

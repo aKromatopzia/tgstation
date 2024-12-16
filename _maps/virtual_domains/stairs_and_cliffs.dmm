@@ -69,11 +69,11 @@
 /turf/open/cliff/snowrock/virtual_domain,
 /area/icemoon/underground/explored/virtual_domain)
 "kc" = (
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /turf/open/misc/asteroid/snow,
 /area/icemoon/underground/explored/virtual_domain)
 "km" = (
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /obj/effect/decal/cleanable/ash/large,
 /turf/open/misc/asteroid/snow,
 /area/icemoon/underground/explored/virtual_domain)
@@ -212,7 +212,7 @@
 /area/icemoon/underground/explored/virtual_domain)
 "Gn" = (
 /obj/structure/flora/rock/pile/icy/style_random,
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /turf/open/misc/asteroid/snow,
 /area/icemoon/underground/explored/virtual_domain)
 "GX" = (
@@ -292,7 +292,7 @@
 /area/icemoon/underground/explored/virtual_domain)
 "Ug" = (
 /obj/structure/flora/rock/icy/style_random,
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /turf/open/misc/asteroid/snow,
 /area/icemoon/underground/explored/virtual_domain)
 "VW" = (

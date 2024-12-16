@@ -42,11 +42,11 @@
 	dir = 10;
 	pixel_y = 16
 	},
-/obj/effect/decal/cleanable/blood/splatter,
+/obj/effect/decal/cleanable/vital/organic/blood/splatter,
 /turf/open/indestructible/necropolis/air,
 /area/shuttle/shuttle_arena)
 "gm" = (
-/obj/effect/decal/cleanable/blood/old{
+/obj/effect/decal/cleanable/vital/organic/blood/old{
 	icon_state = "gib5-old";
 	pixel_y = 9
 	},
@@ -68,8 +68,8 @@
 /area/shuttle/shuttle_arena)
 "iV" = (
 /obj/structure/stone_tile/slab,
-/obj/effect/decal/cleanable/blood/gibs/up,
-/obj/effect/decal/cleanable/blood/gibs/old{
+/obj/effect/decal/cleanable/vital/organic/gibs/up,
+/obj/effect/decal/cleanable/vital/organic/gibs/old{
 	pixel_y = -10
 	},
 /turf/open/indestructible/necropolis/air,
@@ -119,7 +119,7 @@
 /turf/open/indestructible/necropolis/air,
 /area/shuttle/shuttle_arena)
 "sE" = (
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /turf/open/indestructible/necropolis/air,
 /area/shuttle/shuttle_arena)
 "uk" = (
@@ -174,7 +174,7 @@
 /turf/open/water,
 /area/shuttle/shuttle_arena)
 "Hp" = (
-/obj/effect/decal/cleanable/blood/old{
+/obj/effect/decal/cleanable/vital/organic/blood/old{
 	icon_state = "floor6-old";
 	pixel_x = -13;
 	pixel_y = 7
@@ -230,8 +230,8 @@
 /area/shuttle/shuttle_arena)
 "MZ" = (
 /obj/structure/stone_tile/slab,
-/obj/effect/decal/cleanable/blood/gibs/down,
-/obj/effect/decal/cleanable/blood/tracks{
+/obj/effect/decal/cleanable/vital/organic/gibs/down,
+/obj/effect/decal/cleanable/vital/organic/blood/tracks{
 	pixel_y = 16
 	},
 /turf/open/indestructible/necropolis/air,
@@ -242,7 +242,7 @@
 /turf/open/indestructible/necropolis/air,
 /area/shuttle/shuttle_arena)
 "Qv" = (
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/stone,
 /area/shuttle/shuttle_arena)
@@ -266,7 +266,7 @@
 /turf/open/indestructible/necropolis/air,
 /area/shuttle/shuttle_arena)
 "St" = (
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /turf/open/floor/stone,
 /area/shuttle/shuttle_arena)
 "Ue" = (
@@ -290,7 +290,7 @@
 /area/shuttle/shuttle_arena)
 "UG" = (
 /obj/effect/landmark/shuttle_arena_entrance,
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /turf/open/indestructible/necropolis/air,
 /area/shuttle/shuttle_arena)
 "UJ" = (
@@ -310,7 +310,7 @@
 /area/shuttle/shuttle_arena)
 "XR" = (
 /obj/structure/stone_tile/slab,
-/obj/effect/decal/cleanable/blood/old{
+/obj/effect/decal/cleanable/vital/organic/blood/old{
 	icon_state = "hitsplatter3"
 	},
 /turf/open/indestructible/necropolis/air,

@@ -347,7 +347,7 @@ Consuming extracts:
 	taste = "red velvet and iron"
 
 /obj/item/slime_cookie/red/do_effect(mob/living/M, mob/user)
-	new /obj/effect/decal/cleanable/blood(get_turf(M))
+	new /obj/effect/decal/cleanable/vital/organic/blood(get_turf(M))
 	playsound(get_turf(M), 'sound/effects/splat.ogg', 10, TRUE)
 	if(iscarbon(M))
 		var/mob/living/carbon/C = M

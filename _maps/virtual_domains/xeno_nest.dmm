@@ -20,7 +20,7 @@
 "f" = (
 /obj/structure/alien/weeds,
 /obj/structure/alien/egg/burst,
-/obj/effect/decal/cleanable/blood,
+/obj/effect/decal/cleanable/vital/organic/blood,
 /turf/open/misc/asteroid/basalt/lava_land_surface,
 /area/virtual_domain)
 "h" = (
@@ -31,8 +31,8 @@
 "i" = (
 /obj/structure/alien/weeds,
 /obj/structure/bed/nest,
-/obj/effect/decal/cleanable/blood/gibs,
-/obj/effect/decal/cleanable/blood,
+/obj/effect/decal/cleanable/vital/organic/gibs,
+/obj/effect/decal/cleanable/vital/organic/blood,
 /obj/item/clothing/under/syndicate,
 /obj/item/clothing/glasses/night,
 /turf/open/misc/asteroid/basalt/lava_land_surface,
@@ -62,7 +62,7 @@
 /area/virtual_domain/safehouse)
 "o" = (
 /obj/structure/alien/weeds,
-/obj/effect/decal/cleanable/blood/gibs,
+/obj/effect/decal/cleanable/vital/organic/gibs,
 /turf/open/misc/asteroid/basalt/lava_land_surface,
 /area/virtual_domain)
 "p" = (
@@ -94,7 +94,7 @@
 /area/virtual_domain)
 "u" = (
 /obj/structure/alien/weeds/node,
-/obj/effect/decal/cleanable/blood,
+/obj/effect/decal/cleanable/vital/organic/blood,
 /turf/open/misc/asteroid/basalt/lava_land_surface,
 /area/virtual_domain)
 "v" = (
@@ -124,7 +124,7 @@
 /area/virtual_domain)
 "B" = (
 /obj/structure/alien/weeds,
-/obj/effect/decal/cleanable/blood,
+/obj/effect/decal/cleanable/vital/organic/blood,
 /turf/open/misc/asteroid/basalt/lava_land_surface,
 /area/virtual_domain)
 "C" = (
@@ -204,7 +204,7 @@
 "N" = (
 /obj/structure/alien/weeds,
 /obj/structure/bed/nest,
-/obj/effect/decal/cleanable/blood/gibs,
+/obj/effect/decal/cleanable/vital/organic/gibs,
 /obj/item/clothing/under/rank/security/officer,
 /obj/item/clothing/suit/armor/vest,
 /obj/item/melee/baton/security/loaded,
@@ -233,13 +233,13 @@
 "T" = (
 /obj/structure/alien/weeds,
 /obj/structure/alien/egg/burst,
-/obj/effect/decal/cleanable/blood/gibs,
+/obj/effect/decal/cleanable/vital/organic/gibs,
 /turf/open/misc/asteroid/basalt/lava_land_surface,
 /area/virtual_domain)
 "U" = (
 /obj/structure/alien/weeds,
 /obj/structure/bed/nest,
-/obj/effect/decal/cleanable/blood/gibs,
+/obj/effect/decal/cleanable/vital/organic/gibs,
 /obj/item/gun/ballistic/automatic/pistol,
 /turf/open/misc/asteroid/basalt/lava_land_surface,
 /area/virtual_domain)
@@ -255,7 +255,7 @@
 "Z" = (
 /obj/structure/alien/weeds,
 /obj/structure/bed/nest,
-/obj/effect/decal/cleanable/blood/gibs,
+/obj/effect/decal/cleanable/vital/organic/gibs,
 /obj/item/tank/internals/oxygen,
 /obj/item/clothing/suit/space/syndicate/orange,
 /obj/item/clothing/mask/gas,

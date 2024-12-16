@@ -20,7 +20,7 @@
 		stack_trace("Gib list dir length mismatch!")
 		return
 
-	var/obj/effect/decal/cleanable/blood/gibs/gib = null
+	var/obj/effect/decal/cleanable/vital/organic/gibs/gib = null
 
 	if(sound_to_play && isnum(sound_vol))
 		playsound(src, sound_to_play, sound_vol, TRUE)
@@ -59,7 +59,7 @@
 
 
 /obj/effect/gibspawner/generic
-	gibtypes = list(/obj/effect/decal/cleanable/blood/gibs, /obj/effect/decal/cleanable/blood/gibs, /obj/effect/decal/cleanable/blood/gibs/core)
+	gibtypes = list(/obj/effect/decal/cleanable/vital/organic/gibs, /obj/effect/decal/cleanable/vital/organic/gibs, /obj/effect/decal/cleanable/vital/organic/gibs/core)
 	gibamounts = list(2, 2, 1)
 	sound_vol = 40
 
@@ -72,7 +72,7 @@
 	gib_mob_type = /mob/living/basic/pet
 
 /obj/effect/gibspawner/human
-	gibtypes = list(/obj/effect/decal/cleanable/blood/gibs/up, /obj/effect/decal/cleanable/blood/gibs/down, /obj/effect/decal/cleanable/blood/gibs, /obj/effect/decal/cleanable/blood/gibs, /obj/effect/decal/cleanable/blood/gibs/body, /obj/effect/decal/cleanable/blood/gibs/limb, /obj/effect/decal/cleanable/blood/gibs/core)
+	gibtypes = list(/obj/effect/decal/cleanable/vital/organic/gibs/up, /obj/effect/decal/cleanable/vital/organic/gibs/down, /obj/effect/decal/cleanable/vital/organic/gibs, /obj/effect/decal/cleanable/vital/organic/gibs, /obj/effect/decal/cleanable/vital/organic/gibs/body, /obj/effect/decal/cleanable/vital/organic/gibs/limb, /obj/effect/decal/cleanable/vital/organic/gibs/core)
 	gibamounts = list(1, 1, 1, 1, 1, 1, 1)
 	gib_mob_type = /mob/living/carbon/human
 	sound_vol = 50
@@ -92,7 +92,7 @@
 
 
 /obj/effect/gibspawner/human/bodypartless //only the gibs that don't look like actual full bodyparts (except torso).
-	gibtypes = list(/obj/effect/decal/cleanable/blood/gibs, /obj/effect/decal/cleanable/blood/gibs/core, /obj/effect/decal/cleanable/blood/gibs, /obj/effect/decal/cleanable/blood/gibs/core, /obj/effect/decal/cleanable/blood/gibs, /obj/effect/decal/cleanable/blood/gibs/torso)
+	gibtypes = list(/obj/effect/decal/cleanable/vital/organic/gibs, /obj/effect/decal/cleanable/vital/organic/gibs/core, /obj/effect/decal/cleanable/vital/organic/gibs, /obj/effect/decal/cleanable/vital/organic/gibs/core, /obj/effect/decal/cleanable/vital/organic/gibs, /obj/effect/decal/cleanable/vital/organic/gibs/torso)
 	gibamounts = list(1, 1, 1, 1, 1, 1)
 
 /obj/effect/gibspawner/human/bodypartless/Initialize(mapload)
@@ -103,7 +103,7 @@
 
 
 /obj/effect/gibspawner/xeno
-	gibtypes = list(/obj/effect/decal/cleanable/xenoblood/xgibs/up, /obj/effect/decal/cleanable/xenoblood/xgibs/down, /obj/effect/decal/cleanable/xenoblood/xgibs, /obj/effect/decal/cleanable/xenoblood/xgibs, /obj/effect/decal/cleanable/xenoblood/xgibs/body, /obj/effect/decal/cleanable/xenoblood/xgibs/limb, /obj/effect/decal/cleanable/xenoblood/xgibs/core)
+	gibtypes = list(/obj/effect/decal/cleanable/vital/organic/xgibs/up, /obj/effect/decal/cleanable/vital/organic/xgibs/down, /obj/effect/decal/cleanable/vital/organic/xgibs, /obj/effect/decal/cleanable/vital/organic/xgibs, /obj/effect/decal/cleanable/vital/organic/xgibs/body, /obj/effect/decal/cleanable/vital/organic/xgibs/limb, /obj/effect/decal/cleanable/vital/organic/xgibs/core)
 	gibamounts = list(1, 1, 1, 1, 1, 1, 1)
 	gib_mob_type = /mob/living/carbon/alien
 
@@ -114,7 +114,7 @@
 
 
 /obj/effect/gibspawner/xeno/bodypartless //only the gibs that don't look like actual full bodyparts (except torso).
-	gibtypes = list(/obj/effect/decal/cleanable/xenoblood/xgibs, /obj/effect/decal/cleanable/xenoblood/xgibs/core, /obj/effect/decal/cleanable/xenoblood/xgibs, /obj/effect/decal/cleanable/xenoblood/xgibs/core, /obj/effect/decal/cleanable/xenoblood/xgibs, /obj/effect/decal/cleanable/xenoblood/xgibs/torso)
+	gibtypes = list(/obj/effect/decal/cleanable/vital/organic/xgibs, /obj/effect/decal/cleanable/vital/organic/xgibs/core, /obj/effect/decal/cleanable/vital/organic/xgibs, /obj/effect/decal/cleanable/vital/organic/xgibs/core, /obj/effect/decal/cleanable/vital/organic/xgibs, /obj/effect/decal/cleanable/vital/organic/xgibs/torso)
 	gibamounts = list(1, 1, 1, 1, 1, 1)
 
 
@@ -126,7 +126,7 @@
 
 
 /obj/effect/gibspawner/larva
-	gibtypes = list(/obj/effect/decal/cleanable/xenoblood/xgibs/larva, /obj/effect/decal/cleanable/xenoblood/xgibs/larva, /obj/effect/decal/cleanable/xenoblood/xgibs/larva/body, /obj/effect/decal/cleanable/xenoblood/xgibs/larva/body)
+	gibtypes = list(/obj/effect/decal/cleanable/vital/organic/xgibs/larva, /obj/effect/decal/cleanable/vital/organic/xgibs/larva, /obj/effect/decal/cleanable/vital/organic/xgibs/larva/body, /obj/effect/decal/cleanable/vital/organic/xgibs/larva/body)
 	gibamounts = list(1, 1, 1, 1)
 	gib_mob_type = /mob/living/carbon/alien/larva
 
@@ -136,7 +136,7 @@
 	return ..()
 
 /obj/effect/gibspawner/larva/bodypartless
-	gibtypes = list(/obj/effect/decal/cleanable/xenoblood/xgibs/larva, /obj/effect/decal/cleanable/xenoblood/xgibs/larva, /obj/effect/decal/cleanable/xenoblood/xgibs/larva)
+	gibtypes = list(/obj/effect/decal/cleanable/vital/organic/xgibs/larva, /obj/effect/decal/cleanable/vital/organic/xgibs/larva, /obj/effect/decal/cleanable/vital/organic/xgibs/larva)
 	gibamounts = list(1, 1, 1)
 
 /obj/effect/gibspawner/larva/bodypartless/Initialize(mapload)
@@ -148,7 +148,7 @@
 
 /obj/effect/gibspawner/robot
 	sparks = 1
-	gibtypes = list(/obj/effect/decal/cleanable/robot_debris/up, /obj/effect/decal/cleanable/robot_debris/down, /obj/effect/decal/cleanable/robot_debris, /obj/effect/decal/cleanable/robot_debris, /obj/effect/decal/cleanable/robot_debris, /obj/effect/decal/cleanable/robot_debris/limb)
+	gibtypes = list(/obj/effect/decal/cleanable/vital/robotic/debris/up, /obj/effect/decal/cleanable/vital/robotic/debris/down, /obj/effect/decal/cleanable/vital/robotic/debris, /obj/effect/decal/cleanable/vital/robotic/debris, /obj/effect/decal/cleanable/vital/robotic/debris, /obj/effect/decal/cleanable/vital/robotic/debris/limb)
 	gibamounts = list(1, 1, 1, 1, 1, 1)
 	gib_mob_type = /mob/living/silicon
 

@@ -148,7 +148,7 @@
 	pixel_x = 11;
 	pixel_y = 12
 	},
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /turf/open/floor/iron/airless,
 /area/ruin/space/has_grav/crashedship/fore)
 "gH" = (
@@ -406,7 +406,7 @@
 	},
 /area/ruin/space/has_grav/crashedship/aft)
 "qo" = (
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /turf/open/misc/asteroid,
 /area/ruin/space/has_grav/crashedship/fore)
 "qu" = (

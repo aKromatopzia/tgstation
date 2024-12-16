@@ -42,14 +42,14 @@
 /turf/open/indestructible/plating,
 /area/deathmatch)
 "cb" = (
-/obj/effect/decal/cleanable/blood,
+/obj/effect/decal/cleanable/vital/organic/blood,
 /obj/effect/turf_decal/weather/dirt{
 	dir = 6
 	},
 /turf/open/floor/cult,
 /area/deathmatch)
 "cr" = (
-/obj/effect/decal/cleanable/blood/gibs,
+/obj/effect/decal/cleanable/vital/organic/gibs,
 /turf/open/floor/cult,
 /area/deathmatch)
 "cs" = (
@@ -250,7 +250,7 @@
 /turf/open/misc/asteroid/moon,
 /area/deathmatch)
 "jP" = (
-/obj/effect/decal/cleanable/blood/innards,
+/obj/effect/decal/cleanable/vital/organic/blood/innards,
 /turf/open/floor/cult,
 /area/deathmatch)
 "kc" = (
@@ -368,7 +368,7 @@
 /area/deathmatch)
 "pF" = (
 /obj/effect/rune/blood_boil,
-/obj/effect/decal/cleanable/blood/tracks,
+/obj/effect/decal/cleanable/vital/organic/blood/tracks,
 /obj/effect/turf_decal/weather/dirt{
 	dir = 10
 	},
@@ -390,7 +390,7 @@
 /turf/open/water/jungle,
 /area/deathmatch)
 "qk" = (
-/obj/effect/decal/cleanable/blood/footprints,
+/obj/effect/decal/cleanable/vital/organic/blood/footprints,
 /obj/effect/turf_decal/weather/dirt,
 /obj/item/flashlight/flare/culttorch,
 /turf/open/floor/cult,
@@ -418,7 +418,7 @@
 "rh" = (
 /obj/structure/fluff/clockwork/alloy_shards/medium,
 /obj/effect/decal/cleanable/dirt/dust,
-/obj/effect/decal/cleanable/oil/slippery,
+/obj/effect/decal/cleanable/vital/robotic/oil/slippery,
 /turf/open/misc/asteroid/moon,
 /area/deathmatch)
 "rm" = (
@@ -460,7 +460,7 @@
 /turf/open/indestructible/plating,
 /area/deathmatch)
 "sF" = (
-/obj/effect/decal/cleanable/blood/footprints,
+/obj/effect/decal/cleanable/vital/organic/blood/footprints,
 /turf/open/floor/cult,
 /area/deathmatch)
 "sJ" = (
@@ -559,7 +559,7 @@
 /turf/open/floor/cult,
 /area/deathmatch)
 "ye" = (
-/obj/effect/decal/cleanable/blood/tracks,
+/obj/effect/decal/cleanable/vital/organic/blood/tracks,
 /turf/open/floor/cult,
 /area/deathmatch)
 "yv" = (
@@ -590,7 +590,7 @@
 /turf/open/floor/bronze/flat,
 /area/deathmatch)
 "Ab" = (
-/obj/effect/decal/cleanable/blood,
+/obj/effect/decal/cleanable/vital/organic/blood,
 /obj/effect/turf_decal/weather/dirt{
 	dir = 9
 	},
@@ -605,7 +605,7 @@
 /turf/open/floor/bronze,
 /area/deathmatch)
 "Ar" = (
-/obj/effect/decal/cleanable/blood,
+/obj/effect/decal/cleanable/vital/organic/blood,
 /obj/effect/turf_decal/weather/dirt{
 	dir = 5
 	},
@@ -772,7 +772,7 @@
 /turf/open/misc/grass/jungle,
 /area/deathmatch)
 "GE" = (
-/obj/effect/decal/cleanable/blood,
+/obj/effect/decal/cleanable/vital/organic/blood,
 /obj/effect/decal/cleanable/dirt,
 /obj/effect/turf_decal/weather/dirt{
 	dir = 4
@@ -803,7 +803,7 @@
 /area/deathmatch)
 "HV" = (
 /obj/effect/rune/empower,
-/obj/effect/decal/cleanable/blood,
+/obj/effect/decal/cleanable/vital/organic/blood,
 /turf/open/floor/cult,
 /area/deathmatch)
 "Ic" = (
@@ -831,7 +831,7 @@
 /turf/open/misc/grass/jungle,
 /area/deathmatch)
 "IM" = (
-/obj/effect/decal/cleanable/blood/footprints,
+/obj/effect/decal/cleanable/vital/organic/blood/footprints,
 /obj/effect/turf_decal/weather/dirt{
 	dir = 1
 	},
@@ -873,7 +873,7 @@
 /turf/open/misc/asteroid/moon,
 /area/deathmatch)
 "LC" = (
-/obj/effect/decal/cleanable/blood/gibs/down,
+/obj/effect/decal/cleanable/vital/organic/gibs/down,
 /turf/open/floor/cult,
 /area/deathmatch)
 "LU" = (
@@ -995,7 +995,7 @@
 /turf/open/misc/dirt/jungle/dark,
 /area/deathmatch)
 "Sh" = (
-/obj/effect/decal/cleanable/blood/gibs/up,
+/obj/effect/decal/cleanable/vital/organic/gibs/up,
 /turf/open/floor/cult,
 /area/deathmatch)
 "Sp" = (
@@ -1187,7 +1187,7 @@
 /turf/open/misc/grass/jungle,
 /area/deathmatch)
 "YA" = (
-/obj/effect/decal/cleanable/blood/gibs/limb,
+/obj/effect/decal/cleanable/vital/organic/gibs/limb,
 /obj/effect/turf_decal/weather/dirt{
 	dir = 10
 	},

@@ -304,7 +304,7 @@
 "cy" = (
 /obj/effect/decal/cleanable/fuel_pool/hivis,
 /obj/effect/decal/cleanable/dirt/dust,
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /turf/open/indestructible/plating,
 /area/awaymission/museum)
 "cA" = (
@@ -321,7 +321,7 @@
 "cB" = (
 /obj/effect/turf_decal/tile/green/opposingcorners,
 /obj/effect/decal/cleanable/dirt/dust,
-/obj/effect/decal/cleanable/blood/footprints{
+/obj/effect/decal/cleanable/vital/organic/blood/footprints{
 	dir = 8
 	},
 /turf/open/floor/iron,
@@ -539,7 +539,7 @@
 /turf/open/floor/iron,
 /area/awaymission/museum)
 "en" = (
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /obj/effect/turf_decal/stripes/red/line{
 	dir = 6
 	},
@@ -1025,7 +1025,7 @@
 /area/awaymission/museum)
 "iD" = (
 /obj/structure/window/reinforced/spawner/directional/east,
-/obj/effect/decal/cleanable/blood/gibs,
+/obj/effect/decal/cleanable/vital/organic/gibs,
 /turf/open/floor/iron,
 /area/awaymission/museum)
 "iE" = (
@@ -1557,7 +1557,7 @@
 	hat = /obj/item/clothing/head/utility/hardhat
 	},
 /obj/effect/decal/cleanable/dirt/dust,
-/obj/effect/decal/cleanable/blood/gibs,
+/obj/effect/decal/cleanable/vital/organic/gibs,
 /turf/open/floor/iron,
 /area/awaymission/museum)
 "mV" = (
@@ -1859,7 +1859,7 @@
 /area/awaymission/museum)
 "pf" = (
 /obj/effect/decal/cleanable/dirt/dust,
-/obj/effect/decal/cleanable/blood/gibs/body,
+/obj/effect/decal/cleanable/vital/organic/gibs/body,
 /turf/open/floor/iron,
 /area/awaymission/museum)
 "pg" = (
@@ -2115,7 +2115,7 @@
 /area/awaymission/museum)
 "rq" = (
 /mob/living/basic/statue/mannequin/suspicious,
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /obj/effect/gibspawner/human,
 /obj/effect/gibspawner/human,
 /obj/effect/gibspawner/human,
@@ -2387,7 +2387,7 @@
 /area/awaymission/museum)
 "ts" = (
 /obj/effect/decal/cleanable/dirt/dust,
-/obj/effect/decal/cleanable/blood/footprints{
+/obj/effect/decal/cleanable/vital/organic/blood/footprints{
 	dir = 4
 	},
 /turf/open/floor/iron,
@@ -2479,7 +2479,7 @@
 	dir = 1
 	},
 /obj/effect/decal/cleanable/dirt/dust,
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /turf/open/indestructible/plating,
 /area/awaymission/museum)
 "uc" = (
@@ -2490,7 +2490,7 @@
 /turf/open/indestructible/plating,
 /area/awaymission/museum)
 "ue" = (
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /obj/effect/mapping_helpers/broken_floor,
 /obj/machinery/light/small/dim/directional/north,
 /obj/effect/turf_decal/stripes/red/line{
@@ -2758,7 +2758,7 @@
 /area/awaymission/museum)
 "wG" = (
 /obj/effect/decal/cleanable/dirt/dust,
-/obj/effect/decal/cleanable/blood/footprints{
+/obj/effect/decal/cleanable/vital/organic/blood/footprints{
 	dir = 4
 	},
 /obj/structure/broken_flooring/corner/always_floorplane{
@@ -2768,7 +2768,7 @@
 /area/awaymission/museum)
 "wH" = (
 /obj/effect/decal/cleanable/dirt/dust,
-/obj/effect/decal/cleanable/blood/footprints,
+/obj/effect/decal/cleanable/vital/organic/blood/footprints,
 /turf/open/floor/iron,
 /area/awaymission/museum)
 "wI" = (
@@ -3184,7 +3184,7 @@
 "zM" = (
 /obj/effect/turf_decal/stripes/line,
 /obj/effect/decal/cleanable/dirt/dust,
-/obj/effect/decal/cleanable/blood/tracks,
+/obj/effect/decal/cleanable/vital/organic/blood/tracks,
 /obj/structure/broken_flooring/side/always_floorplane{
 	dir = 8
 	},
@@ -3798,7 +3798,7 @@
 /area/awaymission/museum)
 "EO" = (
 /obj/effect/decal/cleanable/dirt/dust,
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /obj/structure/chair{
 	dir = 1
 	},
@@ -3853,7 +3853,7 @@
 /area/awaymission/museum)
 "Fa" = (
 /obj/effect/decal/cleanable/dirt/dust,
-/obj/effect/decal/cleanable/blood/gibs/core,
+/obj/effect/decal/cleanable/vital/organic/gibs/core,
 /turf/open/floor/iron,
 /area/awaymission/museum)
 "Fc" = (
@@ -3882,7 +3882,7 @@
 "Fj" = (
 /obj/effect/turf_decal/stripes/line,
 /obj/effect/decal/cleanable/dirt/dust,
-/obj/effect/decal/cleanable/blood/footprints{
+/obj/effect/decal/cleanable/vital/organic/blood/footprints{
 	dir = 2
 	},
 /turf/open/indestructible/plating,
@@ -3907,7 +3907,7 @@
 	},
 /area/awaymission/museum)
 "Fw" = (
-/obj/effect/decal/cleanable/blood/tracks{
+/obj/effect/decal/cleanable/vital/organic/blood/tracks{
 	name = "replica blood";
 	should_dry = 0
 	},
@@ -4668,7 +4668,7 @@
 /area/awaymission/museum)
 "ME" = (
 /obj/effect/decal/cleanable/dirt/dust,
-/obj/effect/decal/cleanable/blood/tracks,
+/obj/effect/decal/cleanable/vital/organic/blood/tracks,
 /turf/open/floor/iron,
 /area/awaymission/museum)
 "MF" = (
@@ -4763,7 +4763,7 @@
 /area/awaymission/museum)
 "NK" = (
 /obj/machinery/door/airlock/maintenance_hatch,
-/obj/effect/decal/cleanable/blood/tracks{
+/obj/effect/decal/cleanable/vital/organic/blood/tracks{
 	dir = 4
 	},
 /obj/effect/mapping_helpers/airlock/access/all/away/generic3,
@@ -4796,7 +4796,7 @@
 /obj/effect/turf_decal/siding/green{
 	dir = 4
 	},
-/obj/effect/decal/cleanable/blood/footprints{
+/obj/effect/decal/cleanable/vital/organic/blood/footprints{
 	dir = 8
 	},
 /turf/open/floor/iron,
@@ -4900,7 +4900,7 @@
 /area/awaymission/museum)
 "Pd" = (
 /obj/effect/decal/cleanable/dirt/dust,
-/obj/effect/decal/cleanable/blood/footprints{
+/obj/effect/decal/cleanable/vital/organic/blood/footprints{
 	dir = 2
 	},
 /obj/structure/broken_flooring/corner/always_floorplane{
@@ -5090,7 +5090,7 @@
 /obj/effect/replica_spawner{
 	target_path = /obj/structure/reagent_dispensers/fueltank
 	},
-/obj/effect/decal/cleanable/blood/gibs,
+/obj/effect/decal/cleanable/vital/organic/gibs,
 /turf/open/floor/iron,
 /area/awaymission/museum)
 "Qt" = (
@@ -5540,7 +5540,7 @@
 "UH" = (
 /obj/structure/mirror/broken/directional/east,
 /obj/structure/sink/directional/west,
-/obj/effect/decal/cleanable/oil/slippery,
+/obj/effect/decal/cleanable/vital/robotic/oil/slippery,
 /turf/open/floor/iron/white/small,
 /area/awaymission/museum)
 "UI" = (
@@ -5810,7 +5810,7 @@
 "WE" = (
 /obj/effect/turf_decal/tile/green/opposingcorners,
 /obj/effect/decal/cleanable/dirt/dust,
-/obj/effect/decal/cleanable/blood/footprints{
+/obj/effect/decal/cleanable/vital/organic/blood/footprints{
 	dir = 1
 	},
 /obj/structure/fluff/fake_scrubber,
@@ -5958,7 +5958,7 @@
 /turf/open/indestructible/plating,
 /area/awaymission/museum)
 "XM" = (
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /obj/effect/turf_decal/stripes/red/line{
 	dir = 9
 	},
@@ -6218,7 +6218,7 @@
 "ZZ" = (
 /obj/item/stack/rods,
 /obj/effect/decal/cleanable/dirt/dust,
-/obj/effect/decal/cleanable/blood/footprints{
+/obj/effect/decal/cleanable/vital/organic/blood/footprints{
 	dir = 4
 	},
 /turf/open/indestructible/plating,

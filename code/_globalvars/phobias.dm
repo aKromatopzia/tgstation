@@ -236,7 +236,7 @@ GLOBAL_LIST_INIT(phobia_objs, list(
 		/obj/item/food/cracker,
 	)),
 	"blood" = typecacheof(list(
-		/obj/effect/decal/cleanable/blood,
+		/obj/effect/decal/cleanable/vital/organic/blood,
 		/obj/item/reagent_containers/blood,
 		/obj/item/reagent_containers/syringe,
 		/obj/machinery/iv_drip,

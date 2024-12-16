@@ -22,14 +22,14 @@
 /turf/open/misc/asteroid/basalt/lava_land_surface,
 /area/ruin/unpowered/cultaltar)
 "g" = (
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /turf/open/floor/engine/cult{
 	initial_gas_mix = "LAVALAND_ATMOS"
 	},
 /area/ruin/unpowered/cultaltar)
 "i" = (
 /obj/effect/decal/remains/human,
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /turf/open/floor/engine/cult{
 	initial_gas_mix = "LAVALAND_ATMOS"
 	},
@@ -76,7 +76,7 @@
 /obj/effect/decal/remains/human,
 /obj/item/clothing/shoes/cult,
 /obj/item/clothing/suit/hooded/cultrobes,
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /turf/open/floor/engine/cult{
 	initial_gas_mix = "LAVALAND_ATMOS"
 	},

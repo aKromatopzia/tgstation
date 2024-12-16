@@ -41,14 +41,14 @@
 /turf/open/indestructible/plating,
 /area/deathmatch)
 "k" = (
-/obj/effect/decal/cleanable/blood/tracks{
+/obj/effect/decal/cleanable/vital/organic/blood/tracks{
 	dir = 4
 	},
 /obj/effect/decal/cleanable/dirt/dust,
 /turf/open/indestructible/plating,
 /area/deathmatch)
 "l" = (
-/obj/effect/decal/cleanable/blood,
+/obj/effect/decal/cleanable/vital/organic/blood,
 /obj/effect/decal/cleanable/dirt/dust,
 /turf/open/indestructible/plating,
 /area/deathmatch)
@@ -90,7 +90,7 @@
 /turf/open/indestructible/plating,
 /area/deathmatch)
 "w" = (
-/obj/effect/decal/cleanable/blood/gibs/limb,
+/obj/effect/decal/cleanable/vital/organic/gibs/limb,
 /obj/effect/decal/cleanable/dirt/dust,
 /turf/open/indestructible/plating,
 /area/deathmatch)
@@ -122,7 +122,7 @@
 /turf/open/indestructible/plating,
 /area/deathmatch)
 "C" = (
-/obj/effect/decal/cleanable/blood/tracks,
+/obj/effect/decal/cleanable/vital/organic/blood/tracks,
 /obj/effect/decal/cleanable/dirt/dust,
 /turf/open/indestructible/plating,
 /area/deathmatch)
@@ -163,7 +163,7 @@
 /turf/open/indestructible/plating,
 /area/deathmatch)
 "N" = (
-/obj/effect/decal/cleanable/blood/gibs/down,
+/obj/effect/decal/cleanable/vital/organic/gibs/down,
 /obj/effect/decal/cleanable/dirt/dust,
 /turf/open/indestructible/plating,
 /area/deathmatch)
@@ -173,7 +173,7 @@
 /turf/open/indestructible/plating,
 /area/deathmatch)
 "Q" = (
-/obj/effect/decal/cleanable/blood/tracks{
+/obj/effect/decal/cleanable/vital/organic/blood/tracks{
 	dir = 10
 	},
 /obj/effect/decal/cleanable/dirt/dust,
@@ -185,7 +185,7 @@
 /turf/open/indestructible/plating,
 /area/deathmatch)
 "S" = (
-/obj/effect/decal/cleanable/blood/gibs/torso,
+/obj/effect/decal/cleanable/vital/organic/gibs/torso,
 /obj/effect/decal/cleanable/dirt/dust,
 /turf/open/indestructible/plating,
 /area/deathmatch)

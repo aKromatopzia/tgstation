@@ -75,7 +75,7 @@
 	},
 /obj/effect/decal/cleanable/dirt/dust,
 /obj/effect/turf_decal/tile/dark_blue/diagonal_centre,
-/obj/effect/decal/cleanable/blood/drip{
+/obj/effect/decal/cleanable/vital/organic/blood/drip{
 	icon_state = "drip2"
 	},
 /turf/open/floor/iron/dark/diagonal,
@@ -89,10 +89,10 @@
 	dir = 6
 	},
 /obj/effect/turf_decal/tile/dark_blue/diagonal_centre,
-/obj/effect/decal/cleanable/blood/drip{
+/obj/effect/decal/cleanable/vital/organic/blood/drip{
 	icon_state = "drip1"
 	},
-/obj/effect/decal/cleanable/blood/drip{
+/obj/effect/decal/cleanable/vital/organic/blood/drip{
 	icon_state = "drip4"
 	},
 /obj/effect/turf_decal/weather/snow/corner{
@@ -204,7 +204,7 @@
 /turf/open/floor/iron/dark/diagonal,
 /area/template_noop)
 "Bo" = (
-/obj/effect/decal/cleanable/blood/drip{
+/obj/effect/decal/cleanable/vital/organic/blood/drip{
 	icon_state = "floor7"
 	},
 /turf/open/misc/snow,
@@ -279,7 +279,7 @@
 /turf/open/misc/snow,
 /area/template_noop)
 "Kb" = (
-/obj/effect/decal/cleanable/blood/drip{
+/obj/effect/decal/cleanable/vital/organic/blood/drip{
 	icon_state = "floor4"
 	},
 /turf/open/misc/snow,

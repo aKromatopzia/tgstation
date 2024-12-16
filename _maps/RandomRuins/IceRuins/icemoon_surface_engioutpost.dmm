@@ -539,7 +539,7 @@
 "cL" = (
 /obj/effect/decal/remains/human,
 /obj/item/mod/control/pre_equipped/engineering,
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /obj/structure/cable,
 /obj/effect/mapping_helpers/broken_floor,
 /turf/open/floor/iron,
@@ -665,7 +665,7 @@
 /area/ruin/planetengi)
 "dl" = (
 /obj/effect/mob_spawn/corpse/human/engineer/mod,
-/obj/effect/decal/cleanable/blood/tracks,
+/obj/effect/decal/cleanable/vital/organic/blood/tracks,
 /turf/open/misc/asteroid/snow/icemoon,
 /area/icemoon/surface/outdoors/nospawn)
 "dn" = (
@@ -689,7 +689,7 @@
 /area/ruin/planetengi)
 "dr" = (
 /obj/effect/mob_spawn/corpse/human/engineer/mod,
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /obj/effect/turf_decal/tile/yellow{
 	dir = 1
 	},
@@ -708,7 +708,7 @@
 /turf/open/floor/plating,
 /area/ruin/planetengi)
 "du" = (
-/obj/effect/decal/cleanable/blood/tracks,
+/obj/effect/decal/cleanable/vital/organic/blood/tracks,
 /turf/open/misc/asteroid/snow/icemoon,
 /area/icemoon/surface/outdoors/nospawn)
 "dv" = (
@@ -765,13 +765,13 @@
 /turf/closed/wall/rust,
 /area/ruin/planetengi)
 "dE" = (
-/obj/effect/decal/cleanable/blood/tracks{
+/obj/effect/decal/cleanable/vital/organic/blood/tracks{
 	dir = 9
 	},
 /turf/open/misc/asteroid/snow/icemoon,
 /area/icemoon/surface/outdoors/nospawn)
 "gK" = (
-/obj/effect/decal/cleanable/blood/tracks{
+/obj/effect/decal/cleanable/vital/organic/blood/tracks{
 	dir = 4
 	},
 /turf/open/misc/asteroid/snow/icemoon,
@@ -784,7 +784,7 @@
 /turf/open/floor/iron/icemoon,
 /area/ruin/planetengi)
 "na" = (
-/obj/effect/decal/cleanable/blood/tracks{
+/obj/effect/decal/cleanable/vital/organic/blood/tracks{
 	dir = 6
 	},
 /turf/open/misc/asteroid/snow/icemoon,

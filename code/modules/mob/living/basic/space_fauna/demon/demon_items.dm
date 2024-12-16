@@ -47,7 +47,7 @@
 /obj/item/organ/heart/demon/Stop()
 	return FALSE // Always beating.
 
-/obj/effect/decal/cleanable/blood/innards
+/obj/effect/decal/cleanable/vital/organic/blood/innards
 	name = "pile of viscera"
 	desc = "A repulsive pile of guts and gore."
 	gender = NEUTER

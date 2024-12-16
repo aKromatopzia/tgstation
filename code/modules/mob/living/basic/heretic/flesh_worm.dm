@@ -45,7 +45,7 @@
 	)
 	AddComponent(\
 		/datum/component/blood_walk, \
-		blood_type = /obj/effect/decal/cleanable/blood/tracks, \
+		blood_type = /obj/effect/decal/cleanable/vital/organic/blood/tracks, \
 		target_dir_change = TRUE,\
 	)
 

@@ -30,11 +30,11 @@
 /area/ruin/space)
 "q" = (
 /obj/effect/mob_spawn/corpse/human/pirate/melee/space,
-/obj/effect/decal/cleanable/blood,
+/obj/effect/decal/cleanable/vital/organic/blood,
 /turf/open/misc/asteroid/airless,
 /area/ruin/space)
 "r" = (
-/obj/effect/decal/cleanable/blood,
+/obj/effect/decal/cleanable/vital/organic/blood,
 /turf/open/misc/asteroid/airless,
 /area/ruin/space)
 "s" = (
@@ -82,7 +82,7 @@
 /area/ruin/space)
 "J" = (
 /obj/item/gun/energy/laser/musket,
-/obj/effect/decal/cleanable/blood,
+/obj/effect/decal/cleanable/vital/organic/blood,
 /turf/open/misc/asteroid/airless,
 /area/ruin/space)
 "K" = (

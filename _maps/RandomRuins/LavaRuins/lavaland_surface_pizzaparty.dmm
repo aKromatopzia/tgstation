@@ -20,7 +20,7 @@
 /turf/open/floor/iron/freezer/lavaland,
 /area/ruin/unpowered)
 "aq" = (
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /turf/open/floor/carpet/blue/lavaland,
 /area/ruin/unpowered)
 "aW" = (
@@ -116,7 +116,7 @@
 	pixel_x = 5;
 	pixel_y = 10
 	},
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /obj/item/clothing/shoes/cookflops,
 /turf/open/floor/iron/lavaland,
 /area/ruin/unpowered)
@@ -152,7 +152,7 @@
 /turf/open/floor/iron/diagonal/lavaland,
 /area/ruin/unpowered)
 "hQ" = (
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /turf/open/misc/asteroid/basalt/lava_land_surface,
 /area/lavaland/surface/outdoors)
 "is" = (
@@ -179,7 +179,7 @@
 /obj/effect/turf_decal/tile/yellow/diagonal_edge,
 /obj/effect/turf_decal/tile/neutral/diagonal_centre,
 /obj/effect/decal/remains/human,
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /turf/open/floor/iron/diagonal/lavaland,
 /area/ruin/unpowered)
 "lB" = (
@@ -277,7 +277,7 @@
 /obj/item/chair/wood/wings,
 /obj/effect/decal/cleanable/dirt,
 /obj/effect/decal/remains/human,
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /turf/open/floor/plating/lavaland_atmos,
 /area/ruin/unpowered)
 "tj" = (
@@ -490,18 +490,18 @@
 "CP" = (
 /obj/effect/decal/cleanable/glass,
 /obj/effect/decal/cleanable/dirt,
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /turf/open/floor/carpet/blue/lavaland,
 /area/ruin/unpowered)
 "Fg" = (
 /mob/living/basic/mining/goliath,
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /turf/open/misc/asteroid/basalt/lava_land_surface,
 /area/lavaland/surface/outdoors)
 "FF" = (
 /obj/effect/turf_decal/tile/yellow/diagonal_edge,
 /obj/effect/turf_decal/tile/neutral/diagonal_centre,
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /turf/open/floor/iron/diagonal/lavaland,
 /area/ruin/unpowered)
 "HZ" = (
@@ -547,7 +547,7 @@
 /obj/effect/turf_decal/tile/yellow/diagonal_edge,
 /obj/effect/turf_decal/tile/neutral/diagonal_centre,
 /obj/effect/decal/remains/human,
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /obj/machinery/light/small/broken/directional/east,
 /turf/open/floor/iron/diagonal/lavaland,
 /area/ruin/unpowered)
@@ -608,7 +608,7 @@
 /area/ruin/unpowered)
 "RP" = (
 /obj/item/clothing/under/shorts/blue,
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /turf/open/misc/asteroid/basalt/lava_land_surface,
 /area/lavaland/surface/outdoors)
 "RV" = (
@@ -636,7 +636,7 @@
 "SQ" = (
 /obj/item/clothing/shoes/sneakers/orange,
 /obj/effect/decal/remains/human,
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /turf/open/floor/grass/lavaland,
 /area/lavaland/surface/outdoors)
 "SW" = (
@@ -719,7 +719,7 @@
 "Zy" = (
 /obj/effect/turf_decal/tile/bar/opposingcorners,
 /obj/effect/decal/cleanable/dirt,
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /obj/effect/turf_decal/siding/thinplating{
 	dir = 8
 	},

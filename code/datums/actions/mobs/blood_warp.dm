@@ -48,7 +48,7 @@
 	SLEEP_CHECK_DEATH(0.3 SECONDS, owner)
 	qdel(DA)
 
-	var/obj/effect/decal/cleanable/blood/found_bloodpool
+	var/obj/effect/decal/cleanable/vital/organic/blood/found_bloodpool
 	pools = get_bloodcrawlable_pools(target_turf, chosen_pick_range)
 	if(remove_inner_pools)
 		var/list/pools_to_remove = get_bloodcrawlable_pools(target_turf, chosen_pick_range - 1)

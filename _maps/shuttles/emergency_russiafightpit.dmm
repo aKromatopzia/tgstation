@@ -178,23 +178,23 @@
 /turf/open/floor/mineral/plastitanium,
 /area/shuttle/escape)
 "aK" = (
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /turf/open/floor/engine,
 /area/shuttle/escape)
 "aL" = (
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /obj/item/broken_bottle,
 /turf/open/floor/engine,
 /area/shuttle/escape)
 "aM" = (
-/obj/effect/decal/cleanable/robot_debris/old,
+/obj/effect/decal/cleanable/vital/robotic/debris/old,
 /obj/machinery/door/poddoor{
 	id = "bearsbearsbears"
 	},
 /turf/open/floor/engine,
 /area/shuttle/escape)
 "aN" = (
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /mob/living/basic/bear/fightpit,
 /turf/open/floor/engine,
 /area/shuttle/escape)
@@ -212,7 +212,7 @@
 /turf/open/floor/mineral/plastitanium/red,
 /area/shuttle/escape/brig)
 "aQ" = (
-/obj/effect/decal/cleanable/robot_debris/old,
+/obj/effect/decal/cleanable/vital/robotic/debris/old,
 /turf/open/floor/engine,
 /area/shuttle/escape)
 "aR" = (
@@ -224,7 +224,7 @@
 /turf/open/floor/engine,
 /area/shuttle/escape)
 "aU" = (
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /obj/machinery/door/poddoor{
 	id = "bearsbearsbears"
 	},
@@ -318,7 +318,7 @@
 /area/shuttle/escape)
 "bq" = (
 /obj/item/broken_bottle,
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /turf/open/floor/mineral/plastitanium/red,
 /area/shuttle/escape)
 "br" = (
@@ -404,7 +404,7 @@
 /turf/open/floor/plating,
 /area/shuttle/escape)
 "bJ" = (
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/iron,
 /area/shuttle/escape)
@@ -476,7 +476,7 @@
 /area/shuttle/escape)
 "lx" = (
 /obj/structure/extinguisher_cabinet/directional/north,
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/iron,
 /area/shuttle/escape)
@@ -489,7 +489,7 @@
 /turf/open/floor/mineral/plastitanium/red,
 /area/shuttle/escape)
 "wo" = (
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /mob/living/basic/bear/fightpit,
 /obj/machinery/light/small/red/dim/directional/east,
 /turf/open/floor/engine,
@@ -508,7 +508,7 @@
 /turf/open/floor/mineral/plastitanium/red,
 /area/shuttle/escape/brig)
 "AM" = (
-/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/vital/organic/blood/old,
 /obj/structure/window/reinforced/spawner/directional/south,
 /turf/open/floor/engine,
 /area/shuttle/escape)

@@ -7,8 +7,8 @@
 #define BEAUTY_IMPACT_HIGH -100
 
 /obj/effect/decal/cleanable/vital
-	name = "vital fluids"
-	desc = "Universally-generic vital fluids"
+	name = "generic viscera"
+	desc = "Universally-generic innards turned outtards"
 	icon = 'icons/effects/blood.dmi'
 	icon_state = "floor1"
 	random_icon_states = list(
@@ -19,8 +19,8 @@
 	"floor5",
 	"floor6",
 	"floor7",)
-	bloodiness = BLOOD_AMOUNT_PER_DECAL
-	beauty = BEAUTY_IMPACT_HIGH
+	var/blood_state = ""
+	var/bloodiness = 0
 	clean_type = CLEAN_TYPE_BLOOD
 	var/should_dry = TRUE
 	var/dryname = "dried blood" //when the blood lasts long enough, it becomes dry and gets a new name
@@ -28,38 +28,82 @@
 	var/drytime = 0
 	var/footprint_sprite = null
 	var/flammable = FALSE
+	var/hematic = TRUE //is it blood for philosophical reasons?
+	var/liquid = TRUE //seperator for gibs and blood
 
-//changes the decal per the parameters
+//Add "bloodiness" of this blood's type, to the human's shoes
+//move from /cleanable
+/obj/effect/decal/cleanable/proc/on_entered(datum/source, atom/movable/AM)
+	SIGNAL_HANDLER
+	if(iscarbon(AM) && blood_state && bloodiness >= 40)
+		SEND_SIGNAL(AM, COMSIG_STEP_ON_BLOOD, src)
+		update_appearance()
+
+	/**
+ * Gets the color associated with the any blood present on this decal. If there is no blood, returns null.
+ */
+/obj/effect/decal/cleanable/proc/get_blood_color()
+	switch(blood_state)
+		if(BLOOD_STATE_HUMAN)
+			return rgb(149, 10, 10)
+		if(BLOOD_STATE_XENO)
+			return rgb(43, 186, 0)
+		if(BLOOD_STATE_OIL)
+			return rgb(22, 22, 22)
+
+	return null
+
+//changes the decal per the parameters... might be better as a component.
 /obj/effect/decal/cleanable/vital/New()
-	var/type_params = get_vocab()
+	var/type_params = get_params()
 	var/base_icon_state = icon_state
 	var/base_beauty = beauty
 	var/base_name = name
 	var/base_desc = desc
-	icon = type_params[1]
-	desc = replacetext(base_desc, "%BLOOD_COLOR%", type_params[2])
-	name = replacetext(base_name, "%SOURCE_SPECIES%", type_params[3])
-	icon_state = "[type_params[4]][base_icon_state]"
-	desc = replacetext(desc, "%SIMILAR_FOOD%", type_params[6])
-	beauty = base_beauty * type_params[7]
-			
-/obj/effect/decal/cleanable/vital/proc/get_vocab()
-//order is as follows:
-	//icon
-	var/blood_color
-	var/blood_species_full
-	var/blood_species_prefix
-	//decal_reagent
-	var/color_food //a food associated with the color
-	var/beauty_mult
+	if(param_icon in type_params)
+		icon = param_icon
+	if(param_color in type_params)
+		desc = replacetext(base_desc, "%BLOOD_COLOR%", param_color)
+	if(param_species_full in type_params)
+		name = replacetext(base_name, "%SOURCE_SPECIES%", param_species_prefix)
+	if(param_species_prefix in type_params)
+		icon_state = "[param_species_prefix][base_icon_state]"
+	switch(liquid)
+		if(TRUE)
+			if(param_reagent_liquid in type_params)
+				param_reagent = decal_reagent_liquid
+		if(FALSE)
+			if(param_reagent_solid in type_params)
+				param_reagent = decal_reagent_solid
+	if(param_hematic in type_params)
+		hematic = param_hematic
+	if(param_foodlike in type_params)
+		desc = replacetext(desc, "%SIMILAR_FOOD%", param_foodlike)
+	if(param_beauty_mult in type_params)
+		beauty = base_beauty * param_beauty_mult
+
+/obj/effect/decal/cleanable/vital/proc/get_blood_params()
+	var/params = list(
+	"param_icon" = 'icons/effects/blood.dmi', //for placeholdering
+	"param_color" = "", //word
+	"param_rgb" = "255, 255, 255", //R, G, B values for the base color
+	"param_species_full" = "",
+	"param_species_prefix" = "", //for icon_state prefixes
+	"param_reagent_liquid" = null,
+	"param_reagent_solid" = null,
+	"param__hematic" = TRUE,
+	"param_foodlike" = "", //a food associated with the color
+	"param_beauty_mult" = 1, //multiplier for how ugly/beautiful the blood is. base value is negative as in the above defines
+	)
 	switch(blood_state)
 		if(BLOOD_STATE_HUMAN)
 			return list(
-			'icons/effects/blood.dmi' = icon,
-			"red" = blood_color,
-			"humanoid" = blood_species_full,
-			"" = blood_species_prefix,
-			decal_reagent,
+			"icon" = 'icons/effects/blood.dmi',
+			"blood_color" = "red",
+			"blood_species_full" = "humanoid",
+			"blood_species_prefix" = "",
+			"decal_reagent_blood" = null,
+			"decal_reagent_gibs" = /datum/reagent/consumable/liquidgibs,
 			"ketchup" = color_food,
 			1 = beauty_mult,
 			)
@@ -77,6 +121,7 @@
 			return list(
 			'icons/mob/silicon/robots.dmi' = icon,
 			"black" = blood_color,
+			rgb(22, 22, 22) = blood_rgb,
 			"robotic" = blood_species_full,
 			"" = blood_species_prefix,
 			/datum/reagent/fuel/oil = decal_reagent,
@@ -84,28 +129,46 @@
 			1 = beauty_mult,
 			)
 		//if(BLOOD_STATE_LATEX) - TODO: Aliens-esque synth blood
-			
 			//"calamari" = color_food,
-		if(null)
-			return
-	return
+	 return null
 
-//base for organic "blood"
-/obj/effect/decal/cleanable/vital/organic/blood
+//base for "blood"
+/obj/effect/decal/cleanable/vital/fluid
 	name = "%SOURCE_SPECIES% blood"
 	desc = "It's %BLOOD_COLOR% and gooey. Perhaps it's the chef's cooking?"
-	icon_state = "floor1"
 	blood_state = BLOOD_STATE_HUMAN
-	
-//base for organic "chunk"s
-/obj/effect/decal/cleanable/vital/organic/gibs
+	beauty = BEAUTY_IMPACT_HIGH
+
+	var/dryname = "dried blood" //when the blood lasts long enough, it becomes dry and gets a new name
+	var/drydesc = "Looks like it's been here a while. Eew." //as above
+
+//base for "chunk"s
+/obj/effect/decal/cleanable/vital/gibs
 	name = "%SOURCE_SPECIES% gibs"
 	desc = "They look bloody and gruesome."
 	icon_state = "gib1"
 	layer = BELOW_OBJ_LAYER
 	plane = GAME_PLANE
-	random_icon_states = list("gib1", "gib2", "gib3", "gib4", "gib5", "gib6",)
 	mergeable_decal = FALSE
+	beauty = BEAUTY_IMPACT_LOW
+
+	dryname = "rotting %SOURCE_SPECIES% gibs"
+	drydesc = "They look bloody and gruesome while some terrible smell fills the air."
+	decal_reagent = /datum/reagent/consumable/liquidgibs
+	reagent_amount = 5
+
+//base for humanoid "blood"
+/obj/effect/decal/cleanable/vital/fluid/humanoid
+
+	icon_state = "floor1"
+	blood_state = BLOOD_STATE_HUMAN
+	beauty = BEAUTY_IMPACT_HIGH
+
+//base for humanoid "chunk"s
+/obj/effect/decal/cleanable/vital/gibs/humanoid
+
+
+	random_icon_states = list("gib1", "gib2", "gib3", "gib4", "gib5", "gib6",)
 	blood_state = BLOOD_STATE_HUMAN
 
 	dryname = "rotting gibs"
@@ -114,7 +177,7 @@
 	reagent_amount = 5
 
 //base for xenomorph blood
-/obj/effect/decal/cleanable/vital/organic/xenoblood
+/obj/effect/decal/cleanable/vital/fluid/xeno
 	name = "%SOURCE_SPECIES% blood"
 	desc = "It's %BLOOD_COLOR% and acidic. It looks like... <i>blood?</i>"
 	icon_state = "floor1"
@@ -122,12 +185,12 @@
 	blood_state = BLOOD_STATE_XENO
 	beauty = BEAUTY_IMPACT_HIGH
 
-/obj/effect/decal/cleanable/vital/organic/xenoblood/Initialize(mapload)
+/obj/effect/decal/cleanable/vital/fluid/xeno/Initialize(mapload)
 	. = ..()
 	add_blood_DNA(list("UNKNOWN DNA" = "X*"))
-	
+
 //base for xenomorph gibs
-/obj/effect/decal/cleanable/vital/organic/xgibs
+/obj/effect/decal/cleanable/vital/gibs/xeno
 	name = "%SOURCE_SPECIES% blood"
 	desc = "Gnarly..."
 	icon_state = "gib1"
@@ -136,12 +199,12 @@
 	random_icon_states = list("gib1", "gib2", "gib3", "gib4", "gib5", "gib6")
 	mergeable_decal = FALSE
 
-/obj/effect/decal/cleanable/vital/organic/xgibs/Initialize(mapload)
+/obj/effect/decal/cleanable/vital/gibs/xeno/Initialize(mapload)
 	. = ..()
 	RegisterSignal(src, COMSIG_MOVABLE_PIPE_EJECTING, PROC_REF(on_pipe_eject))
 
 //base for robotic "blood"
-/obj/effect/decal/cleanable/vital/robotic/oil
+/obj/effect/decal/cleanable/vital/robotic/fluid
 	name = "motor oil"
 	desc = "It's %BLOOD_COLOR% and greasy. Looks like Beepsky made another mess."
 	icon_state = "floor1"
@@ -159,7 +222,7 @@
 	reagent_amount = 30
 	should_dry = FALSE
 	flammable = TRUE
-	
+
 //base for robotic "chunks"
 /obj/effect/decal/cleanable/vital/robotic/debris
 	name = "%SOURCE_SPECIES% debris"
@@ -173,12 +236,12 @@
 	"gib3",
 	"gib4",
 	"gib5",
-	"gib6", 
+	"gib6",
 	"gib7",)
 	mergeable_decal = FALSE
-	beauty = BEAUTY_IMPACT_LOW 
+	beauty = BEAUTY_IMPACT_LOW
 	blood_state = BLOOD_STATE_OIL
-	
+
 /obj/effect/decal/cleanable/vital/robotic/attackby(obj/item/I, mob/living/user)
 	var/attacked_by_hot_thing = I.get_temperature()
 	if(attacked_by_hot_thing && flammable)
@@ -187,11 +250,11 @@
 		fire_act(attacked_by_hot_thing)
 		return
 	return ..()
-	
+
 /obj/effect/decal/cleanable/vital/robotic/debris/Initialize(mapload)
 	. = ..()
 	RegisterSignal(src, COMSIG_MOVABLE_PIPE_EJECTING, PROC_REF(on_pipe_eject))
-	
+
 /obj/effect/decal/cleanable/vital/robotic/debris/proc/spread_movement_effects(datum/move_loop/has_target/source)
 	SIGNAL_HANDLER
 	if(NeverShouldHaveComeHere(loc))
@@ -231,7 +294,7 @@
 		dirs = GLOB.alldirs.Copy()
 
 	streak(dirs)
-	
+
 /obj/effect/decal/cleanable/vital/robotic/fire_act(exposed_temperature, exposed_volume)
 	if(exposed_temperature < 480)
 		return
@@ -314,7 +377,7 @@
 	icon_state = "tracks"
 	desc = "They look like tracks left by wheels."
 	random_icon_states = null
-	beauty = BEAUTY_IMPACT_LOW 
+	beauty = BEAUTY_IMPACT_LOW
 	dryname = "dried tracks"
 	drydesc = "Some old bloody tracks left by wheels. Machines are evil, perhaps."
 
@@ -333,7 +396,7 @@
 	desc = "Looks like a corpse was smeared all over the floor like %SIMILAR_FOOD%. Kinda makes you hungry."
 	random_icon_states = list("trails_1", "trails_2",)
 	icon_state = "trails_1"
-	beauty = BEAUTY_IMPACT_LOW 
+	beauty = BEAUTY_IMPACT_LOW
 	dryname = "dried tracks"
 	drydesc = "Looks like a corpse was smeared all over the floor like %SIMILAR_FOOD%, but it's all dried up and nasty now, ew. You lose some of your appetite."
 
@@ -401,13 +464,13 @@
 	icon_state = "gibup1"
 	random_icon_states = list(
 	"gib1",
-	"gib2", 
-	"gib3", 
-	"gib4", 
-	"gib5", 
-	"gib6", 
-	"gibup1", 
-	"gibup1", 
+	"gib2",
+	"gib3",
+	"gib4",
+	"gib5",
+	"gib6",
+	"gibup1",
+	"gibup1",
 	"gibup1",)
 
 /obj/effect/decal/cleanable/vital/organic/gibs/down
@@ -564,7 +627,7 @@
 /obj/effect/decal/cleanable/vital/robotic/oil/streak
 	icon_state = "streak1"
 	random_icon_states = list("streak1", "streak2", "streak3", "streak4", "streak5")
-	beauty = BEAUTY_IMPACT_LOW 
+	beauty = BEAUTY_IMPACT_LOW
 
 /obj/effect/decal/cleanable/vital/robotic/debris/ex_act()
 	return FALSE
@@ -698,7 +761,7 @@ GLOBAL_LIST_EMPTY(bloody_footprints_cache)
 	if((blood_state != BLOOD_STATE_OIL) && (blood_state != BLOOD_STATE_NOT_BLOODY))
 		return TRUE
 	return FALSE
-	
+
 //hitsplatter code
 /obj/effect/decal/cleanable/vital/organic/blood/hitsplatter
 	name = "blood splatter"
